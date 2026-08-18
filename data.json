@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T15:54:42.111083+00:00",
+  "generated_at": "2026-08-18T20:04:47.981837+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-18T15:54:07.887Z"
+    "modified_time": "2026-08-18T20:03:57.645Z"
   },
   "records": [
     {
@@ -50340,7 +50340,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -50354,7 +50354,7 @@
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SIN MATERIAL",
       "ubicacion": ""
     },
     {
@@ -50376,7 +50376,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN SEBASTIAN, SJ"
@@ -50424,7 +50424,7 @@
       "destino": "ROCHA",
       "responsable": "NOEL",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -50436,7 +50436,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "ENTREGAR TEMPRANO",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -50460,7 +50460,7 @@
       "destino": "PROSALUD",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -50484,7 +50484,7 @@
       "destino": "FARYVET",
       "responsable": "GERALD",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "DESAMPARADOS"
@@ -50544,7 +50544,7 @@
       "destino": "PERSONNA / OFICINA",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -50640,7 +50640,7 @@
       "destino": "UNILEVER",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "CALLE BLANCOS / URUCA"
@@ -50652,7 +50652,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -50662,7 +50662,7 @@
       "fecha": "2026-08-18",
       "lugar": "MAFISA",
       "destino": "TICOFRUT",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GERALD",
       "compromiso": "COMPROMISO",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -50674,7 +50674,7 @@
       "fecha": "2026-08-18",
       "lugar": "TICOFRUT",
       "destino": "ENTREGAR",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GERALD",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -50688,7 +50688,7 @@
       "destino": "HACIENDA OJO DE AGUA",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -50712,7 +50712,7 @@
       "destino": "CRISTAL",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -50724,7 +50724,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -50736,7 +50736,7 @@
       "destino": "UNILEVER",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -50757,10 +50757,10 @@
       "id": "20260818-046",
       "fecha": "2026-08-18",
       "lugar": "TECNOVAL",
-      "destino": "UNILEVER",
+      "destino": "CRISTAL",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -50769,10 +50769,10 @@
       "id": "20260818-047",
       "fecha": "2026-08-18",
       "lugar": "VIBO",
-      "destino": "UNILEVER",
+      "destino": "CRISTAL",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "SAN JOSE BARRIO MEXICO"
@@ -50780,14 +50780,26 @@
     {
       "id": "20260818-048",
       "fecha": "2026-08-18",
-      "lugar": "UNILEVER",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260818-049",
+      "fecha": "2026-08-18",
+      "lugar": "DEMASA",
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "BELEN"
+      "ubicacion": "PAVAS"
     }
   ]
 }
