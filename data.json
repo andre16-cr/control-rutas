@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T15:47:52.094824+00:00",
+  "generated_at": "2026-08-18T15:54:42.111083+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-18T15:14:29.250Z"
+    "modified_time": "2026-08-18T15:54:07.887Z"
   },
   "records": [
     {
@@ -50220,7 +50220,7 @@
       "destino": "BOTONETAS",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN FRANCISCO"
@@ -50280,7 +50280,7 @@
       "destino": "FORMUQUISA",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CURRIDABAT"
@@ -50400,7 +50400,7 @@
       "destino": "SIGMA ALAJUELA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN FRANCISCO"
@@ -50568,7 +50568,7 @@
       "destino": "SMURFIT",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "TRES RIOS"
@@ -50638,7 +50638,7 @@
       "fecha": "2026-08-18",
       "lugar": "UTH",
       "destino": "UNILEVER",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "WAGNER",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -50650,7 +50650,7 @@
       "fecha": "2026-08-18",
       "lugar": "UNILEVER",
       "destino": "ENTREGAR",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "WAGNER",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -50710,7 +50710,7 @@
       "fecha": "2026-08-18",
       "lugar": "MONARO",
       "destino": "CRISTAL",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "WAGNER",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -50722,12 +50722,72 @@
       "fecha": "2026-08-18",
       "lugar": "CRISTAL",
       "destino": "ENTREGAR",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "WAGNER",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260818-044",
+      "fecha": "2026-08-18",
+      "lugar": "COLONO",
+      "destino": "UNILEVER",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CARTAGO"
+    },
+    {
+      "id": "20260818-045",
+      "fecha": "2026-08-18",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
+    },
+    {
+      "id": "20260818-046",
+      "fecha": "2026-08-18",
+      "lugar": "TECNOVAL",
+      "destino": "UNILEVER",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20260818-047",
+      "fecha": "2026-08-18",
+      "lugar": "VIBO",
+      "destino": "UNILEVER",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SAN JOSE BARRIO MEXICO"
+    },
+    {
+      "id": "20260818-048",
+      "fecha": "2026-08-18",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
     }
   ]
 }
