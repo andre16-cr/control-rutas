@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T20:04:47.981837+00:00",
+  "generated_at": "2026-08-18T21:36:25.554200+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-18T20:03:57.645Z"
+    "modified_time": "2026-08-18T21:07:05.020Z"
   },
   "records": [
     {
@@ -50244,7 +50244,7 @@
       "destino": "SIGMA CARTAGO / FORMUQUISA",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -50292,7 +50292,7 @@
       "destino": "FORMUQUISA",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PASEO COLON"
@@ -50304,7 +50304,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -50800,6 +50800,42 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20260818-050",
+      "fecha": "2026-08-18",
+      "lugar": "CAPRIS",
+      "destino": "CRISTAL",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "SALE HASTA 3:30",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20260818-051",
+      "fecha": "2026-08-18",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260818-052",
+      "fecha": "2026-08-18",
+      "lugar": "PRINDUSAT",
+      "destino": "CRISTAL",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ESCAZU"
     }
   ]
 }
