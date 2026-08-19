@@ -619,42 +619,126 @@ function view(id,b){
 
 async function loadData(force=false){
   refreshBtn.disabled = true;
-  refreshBtn.textContent = "Actualizando…";
+  refreshBtn.textContent = force
+    ? "Solicitando actualización…"
+    : "Cargando…";
 
   try{
-    const url =
-      force
-        ? `data.json?v=${Date.now()}`
-        : "data.json";
 
-    const response = await fetch(
-      url,
-      {cache:"no-store"}
-    );
+    if(force){
 
-    if(!response.ok){
-      throw new Error(
-        `No se pudo leer data.json (${response.status})`
+      const currentGeneratedAt =
+        payload?.generated_at || "";
+
+      await fetch(
+        "https://script.google.com/macros/s/AKfycbwVmV5AL0wJkNcfzZfy76ezyEXswrg-cssmFydoPwPLw6YTiuYsQGA4kHU4qYXBcCG5/exec",
+        {
+          method: "POST",
+          mode: "no-cors"
+        }
       );
+
+      refreshBtn.textContent =
+        "Procesando Excel…";
+
+      let updatedPayload = null;
+
+      const maxAttempts = 30;
+      const waitMs = 2000;
+
+      for(
+        let i = 0;
+        i < maxAttempts;
+        i++
+      ){
+        await new Promise(
+          resolve =>
+            setTimeout(
+              resolve,
+              waitMs
+            )
+        );
+
+        const response =
+          await fetch(
+            `data.json?v=${Date.now()}`,
+            {
+              cache:"no-store"
+            }
+          );
+
+        if(!response.ok){
+          continue;
+        }
+
+        const candidate =
+          await response.json();
+
+        if(
+          candidate.generated_at &&
+          candidate.generated_at
+            !== currentGeneratedAt
+        ){
+          updatedPayload =
+            candidate;
+
+          break;
+        }
+      }
+
+      if(!updatedPayload){
+        throw new Error(
+          "La actualización fue solicitada, pero todavía no terminó. Intenta nuevamente en unos segundos."
+        );
+      }
+
+      payload =
+        updatedPayload;
+
+    } else {
+
+      const response =
+        await fetch(
+          `data.json?v=${Date.now()}`,
+          {
+            cache:"no-store"
+          }
+        );
+
+      if(!response.ok){
+        throw new Error(
+          `No se pudo leer data.json (${response.status})`
+        );
+      }
+
+      payload =
+        await response.json();
     }
 
-    payload = await response.json();
-
-    allRecords = Array.isArray(payload.records)
-      ? payload.records
-      : [];
+    allRecords =
+      Array.isArray(
+        payload.records
+      )
+        ? payload.records
+        : [];
 
     buildDateSelector();
+
     applySelectedDate();
 
     const generated =
       payload.generated_at
-        ? formatTimestamp(payload.generated_at)
+        ? formatTimestamp(
+            payload.generated_at
+          )
         : "";
 
     const sourceModified =
       payload.source?.modified_time
-        ? formatTimestamp(payload.source.modified_time)
+        ? formatTimestamp(
+            payload.source
+              .modified_time
+          )
         : "";
 
     updatedEl.textContent =
@@ -668,25 +752,16 @@ async function loadData(force=false){
 
     console.error(error);
 
-    summaryEl.innerHTML = `
-      <div class="card error">
-        <b>No se pudieron cargar los datos.</b>
-
-        <div style="margin-top:8px">
-          ${esc(error.message)}
-        </div>
-      </div>
-    `;
-
-    routesEl.innerHTML = "";
-    urgenciesEl.innerHTML = "";
-
     updatedEl.textContent =
-      "Error al cargar data.json";
+      error.message;
 
   }finally{
-    refreshBtn.disabled = false;
-    refreshBtn.textContent = "↻ Actualizar";
+
+    refreshBtn.disabled =
+      false;
+
+    refreshBtn.textContent =
+      "↻ Actualizar";
   }
 }
 
