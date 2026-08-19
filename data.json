@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T00:28:54.436057+00:00",
+  "generated_at": "2026-08-19T01:01:17.169383+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-19T00:28:35.088Z"
+    "modified_time": "2026-08-19T00:31:49.797Z"
   },
   "records": [
     {
@@ -50808,7 +50808,7 @@
       "destino": "CRISTAL",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "SALE HASTA 3:30",
       "ubicacion": "URUCA"
@@ -50820,7 +50820,7 @@
       "destino": "ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -50832,7 +50832,7 @@
       "destino": "CRISTAL",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "ESCAZU"
