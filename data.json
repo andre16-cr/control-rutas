@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T16:51:17.163476+00:00",
+  "generated_at": "2026-08-19T18:01:14.264276+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-19T16:51:03.182Z"
+    "modified_time": "2026-08-19T18:01:03.649Z"
   },
   "records": [
     {
@@ -30435,7 +30435,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "MATERIAL NO ESTA LISTO HASTA MARTES - MIERC",
-      "ubicacion": ""
+      "ubicacion": "LA LIMA CARTAGO"
     },
     {
       "id": "20260618-002",
@@ -38439,7 +38439,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "LA LIMA CARTAGO"
     },
     {
       "id": "20260717-039",
@@ -42567,7 +42567,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "LA LIMA CARTAGO"
     },
     {
       "id": "20260730-036",
@@ -43359,7 +43359,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "LA LIMA CARTAGO"
     },
     {
       "id": "20260804-027",
@@ -50940,7 +50940,7 @@
       "destino": "UNILEVER / JW",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -51084,7 +51084,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "COMPROMISO 11AM",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51264,7 +51264,7 @@
       "destino": "COLUMBUS",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -51291,7 +51291,7 @@
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "LA LIMA CARTAGO"
     },
     {
       "id": "20260819-039",
@@ -51384,7 +51384,7 @@
       "destino": "SIGMA ALAJUELA",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -51396,7 +51396,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -51430,7 +51430,7 @@
       "fecha": "2026-08-19",
       "lugar": "UNILEVER",
       "destino": "ENTREGAR",
-      "responsable": "NOEL",
+      "responsable": "SIN ASIGNAR",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -51448,6 +51448,54 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
+    },
+    {
+      "id": "20260819-052",
+      "fecha": "2026-08-19",
+      "lugar": "KITTY",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260819-053",
+      "fecha": "2026-08-19",
+      "lugar": "FERRETECNICA",
+      "destino": "WALMART",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SAN FRANCISCO"
+    },
+    {
+      "id": "20260819-054",
+      "fecha": "2026-08-19",
+      "lugar": "ELMEC",
+      "destino": "WALMART",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260819-055",
+      "fecha": "2026-08-19",
+      "lugar": "WALMART",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "COYOL"
     }
   ]
 }
