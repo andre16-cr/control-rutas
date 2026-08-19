@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T21:36:25.554200+00:00",
+  "generated_at": "2026-08-19T00:26:41.518709+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-18T21:07:05.020Z"
+    "modified_time": "2026-08-18T23:52:13.719Z"
   },
   "records": [
     {
@@ -50232,7 +50232,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "ENTREGAR CAFÉ REY",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -50256,7 +50256,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BARREAL"
@@ -50268,7 +50268,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -50316,7 +50316,7 @@
       "destino": "OFICINA",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "DESAMPARADOS"
@@ -50328,7 +50328,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
@@ -50352,7 +50352,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "SIN MATERIAL",
       "ubicacion": ""
@@ -50364,7 +50364,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ALAJUELA"
@@ -50388,7 +50388,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -50412,7 +50412,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -50496,7 +50496,7 @@
       "destino": "ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "COMPROMISO",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BARREAL"
@@ -50628,7 +50628,7 @@
       "destino": "DEVOLUCION",
       "responsable": "GERALD",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SANTA ANA"
@@ -50664,7 +50664,7 @@
       "destino": "TICOFRUT",
       "responsable": "GERALD",
       "compromiso": "COMPROMISO",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "CALLE BLANCOS"
@@ -50676,7 +50676,7 @@
       "destino": "ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -50700,7 +50700,7 @@
       "destino": "ENVIAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -50748,7 +50748,7 @@
       "destino": "ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -50796,7 +50796,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -50806,7 +50806,7 @@
       "fecha": "2026-08-18",
       "lugar": "CAPRIS",
       "destino": "CRISTAL",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GERALD",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -50818,7 +50818,7 @@
       "fecha": "2026-08-18",
       "lugar": "CRISTAL",
       "destino": "ENTREGAR",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GERALD",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -50830,7 +50830,7 @@
       "fecha": "2026-08-18",
       "lugar": "PRINDUSAT",
       "destino": "CRISTAL",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GERALD",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
