@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T18:15:10.878445+00:00",
+  "generated_at": "2026-08-19T23:54:05.068308+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-19T18:14:53.867Z"
+    "modified_time": "2026-08-19T23:53:01.188Z"
   },
   "records": [
     {
@@ -50844,7 +50844,7 @@
       "destino": "FORMUQUISA",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -50856,7 +50856,7 @@
       "destino": "FORMUQUISA",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -50880,7 +50880,7 @@
       "destino": "ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -50904,7 +50904,7 @@
       "destino": "BERMUDEZ",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -50928,7 +50928,7 @@
       "destino": "ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -50952,7 +50952,7 @@
       "destino": "JW",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -50964,7 +50964,7 @@
       "destino": "UNILEVER",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -50988,7 +50988,7 @@
       "destino": "UNILEVER",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ALAJUELA"
@@ -51000,7 +51000,7 @@
       "destino": "ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -51012,7 +51012,7 @@
       "destino": "DEVOLUCION",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51024,7 +51024,7 @@
       "destino": "DON LUIS",
       "responsable": "GERALD",
       "compromiso": "COMPROMISO",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
@@ -51036,7 +51036,7 @@
       "destino": "CRISTAL",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51048,7 +51048,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "PERSONAL",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -51096,7 +51096,7 @@
       "destino": "BRIDGESTONE",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -51108,7 +51108,7 @@
       "destino": "BRIDGESTONE",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -51120,7 +51120,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51132,9 +51132,9 @@
       "destino": "UNILEVER",
       "responsable": "WAGNER",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "FACTURA INCOMPLETA",
       "ubicacion": "SAN JOSE"
     },
     {
@@ -51144,7 +51144,7 @@
       "destino": "UNILEVER",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HATILLO"
@@ -51156,7 +51156,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -51168,7 +51168,7 @@
       "destino": "DEVOLUCION / PERSONNA",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -51180,9 +51180,9 @@
       "destino": "UNILEVER",
       "responsable": "WAGNER",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "MATERIAL AGOTADO",
       "ubicacion": ""
     },
     {
@@ -51204,7 +51204,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51228,7 +51228,7 @@
       "destino": "ABRE",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51240,7 +51240,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "COMPROMISO",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN DIEGO, TRES RIOS"
@@ -51252,7 +51252,7 @@
       "destino": "COLUMBUS",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -51276,7 +51276,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51286,9 +51286,9 @@
       "fecha": "2026-08-19",
       "lugar": "RENAME",
       "destino": "ENTREGAR",
-      "responsable": "NOEL",
+      "responsable": "VICTOR",
       "compromiso": "ANTES 4PM",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "LA LIMA CARTAGO"
@@ -51300,7 +51300,7 @@
       "destino": "PARADISE",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51312,7 +51312,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -51324,7 +51324,7 @@
       "destino": "OFICINA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -51335,8 +51335,8 @@
       "lugar": "AV CORONADO",
       "destino": "OFICINA / DON LUIS",
       "responsable": "NOEL",
-      "compromiso": "COMPROMISO",
-      "estado": "PENDIENTE",
+      "compromiso": "",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51348,9 +51348,9 @@
       "destino": "PROSALUD",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "MATERIAL HASTA VIERNES",
       "ubicacion": "URUCA - HOSP. MEXICO"
     },
     {
@@ -51360,7 +51360,7 @@
       "destino": "PROSALUD",
       "responsable": "NOEL",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51406,9 +51406,9 @@
       "fecha": "2026-08-19",
       "lugar": "CERRAJERIA EXPRESS",
       "destino": "UNILEVER",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -51420,9 +51420,9 @@
       "destino": "UNILEVER",
       "responsable": "SIN ASIGNAR",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": true,
-      "observaciones": "",
+      "observaciones": "SE ABRE ESPACIO A OTRAS URGENCIAS",
       "ubicacion": ""
     },
     {
@@ -51432,9 +51432,9 @@
       "destino": "ENTREGAR",
       "responsable": "SIN ASIGNAR",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": true,
-      "observaciones": "",
+      "observaciones": "SE ABRE ESPACIO A OTRAS URGENCIAS",
       "ubicacion": "BELEN"
     },
     {
@@ -51442,11 +51442,11 @@
       "fecha": "2026-08-19",
       "lugar": "ATAI",
       "destino": "KITTY",
-      "responsable": "NOEL",
+      "responsable": "SIN ASIGNAR",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": true,
-      "observaciones": "",
+      "observaciones": "MATERIAL AGOTADO",
       "ubicacion": ""
     },
     {
@@ -51454,11 +51454,11 @@
       "fecha": "2026-08-19",
       "lugar": "KITTY",
       "destino": "ENTREGAR",
-      "responsable": "NOEL",
+      "responsable": "SIN ASIGNAR",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": true,
-      "observaciones": "",
+      "observaciones": "MATERIAL AGOTADO",
       "ubicacion": ""
     },
     {
@@ -51468,7 +51468,7 @@
       "destino": "WALMART",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "SAN FRANCISCO"
@@ -51480,10 +51480,10 @@
       "destino": "WALMART",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "SAN ANTONIO, DESAMPARADOS"
     },
     {
       "id": "20260819-055",
@@ -51492,7 +51492,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -51508,6 +51508,150 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
+    },
+    {
+      "id": "20260819-057",
+      "fecha": "2026-08-19",
+      "lugar": "BUEN PRECIO",
+      "destino": "CRISTAL",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CURRIDABAT"
+    },
+    {
+      "id": "20260819-058",
+      "fecha": "2026-08-19",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "TRASLADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260819-059",
+      "fecha": "2026-08-19",
+      "lugar": "OFICINA STOCK",
+      "destino": "PROSALUD",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260819-060",
+      "fecha": "2026-08-19",
+      "lugar": "TUBOCOBRE",
+      "destino": "PROSALUD",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20260819-061",
+      "fecha": "2026-08-19",
+      "lugar": "PROSALUD",
+      "destino": "ENTREGAR",
+      "responsable": "GERALD",
+      "compromiso": "COMPROMISO. ENC. 4PM",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260819-062",
+      "fecha": "2026-08-19",
+      "lugar": "REFRACTARIOS",
+      "destino": "WALMART",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20260819-063",
+      "fecha": "2026-08-19",
+      "lugar": "WALMART",
+      "destino": "ENTREGAR",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "COYOL"
+    },
+    {
+      "id": "20260819-064",
+      "fecha": "2026-08-19",
+      "lugar": "OFICINA STOCK",
+      "destino": "RENAME",
+      "responsable": "VICTOR",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260819-065",
+      "fecha": "2026-08-19",
+      "lugar": "RENAME",
+      "destino": "ENTREGAR",
+      "responsable": "VICTOR",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "LA LIMA CARTAGO"
+    },
+    {
+      "id": "20260819-066",
+      "fecha": "2026-08-19",
+      "lugar": "DESATUR",
+      "destino": "ENTREGAR",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260819-067",
+      "fecha": "2026-08-19",
+      "lugar": "SIGMA CARTAGO",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "TRASLADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260819-068",
+      "fecha": "2026-08-19",
+      "lugar": "SMURFIT",
+      "destino": "ENTREGAR",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "TRASLADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "LAGUNILLA HEREDIA"
     }
   ]
 }
