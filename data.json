@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T18:01:14.264276+00:00",
+  "generated_at": "2026-08-19T18:15:10.878445+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-19T18:01:03.649Z"
+    "modified_time": "2026-08-19T18:14:53.867Z"
   },
   "records": [
     {
@@ -51496,6 +51496,18 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "COYOL"
+    },
+    {
+      "id": "20260819-056",
+      "fecha": "2026-08-19",
+      "lugar": "ALIMER",
+      "destino": "ENTREGAR",
+      "responsable": "GERALD",
+      "compromiso": "PENDIENTE",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
     }
   ]
 }
