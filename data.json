@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T22:01:52.499269+00:00",
+  "generated_at": "2026-08-20T22:29:37.925478+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-20T18:03:22.243Z"
+    "modified_time": "2026-08-20T22:29:24.273Z"
   },
   "records": [
     {
@@ -51684,7 +51684,7 @@
       "destino": "SUR / COONAPROSAL",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51828,7 +51828,7 @@
       "destino": "WALMART",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -51840,7 +51840,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -51852,7 +51852,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "2PM",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51864,7 +51864,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HATILLO"
@@ -51876,7 +51876,7 @@
       "destino": "ENTREGAR GREIVIN",
       "responsable": "NOEL",
       "compromiso": "ANTES 12MD",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -51900,7 +51900,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51922,9 +51922,9 @@
       "fecha": "2026-08-20",
       "lugar": "KITTY",
       "destino": "ENTREGAR",
-      "responsable": "GERALD",
+      "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51948,7 +51948,7 @@
       "destino": "BERMUDEZ",
       "responsable": "GERALD",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51960,7 +51960,7 @@
       "destino": "FRUCTA",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51996,7 +51996,7 @@
       "destino": "ARLETTE",
       "responsable": "GERALD",
       "compromiso": "PRIMER PUNTO",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52032,7 +52032,7 @@
       "destino": "LLEVAR MANGUERA MONARO",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52140,7 +52140,7 @@
       "destino": "DEL ORO / CITRICOS / PERSONNA",
       "responsable": "ANDRES",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52198,9 +52198,9 @@
       "fecha": "2026-08-20",
       "lugar": "SIGMA CARTAGO",
       "destino": "ENTREGAR",
-      "responsable": "GERALD",
+      "responsable": "WAGNER",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -52236,7 +52236,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -52260,7 +52260,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -52288,6 +52288,30 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
+    },
+    {
+      "id": "20260820-054",
+      "fecha": "2026-08-20",
+      "lugar": "BALISA",
+      "destino": "CRISTAL",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SAN JOSE"
+    },
+    {
+      "id": "20260820-055",
+      "fecha": "2026-08-20",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
     }
   ]
 }
