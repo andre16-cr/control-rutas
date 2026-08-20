@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T00:22:45.171636+00:00",
+  "generated_at": "2026-08-20T17:15:36.716382+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-20T00:22:33.668Z"
+    "modified_time": "2026-08-20T17:15:14.946Z"
   },
   "records": [
     {
@@ -51650,7 +51650,7 @@
       "compromiso": "",
       "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "CITA PARA PROXIMO LUNES",
       "ubicacion": "LAGUNILLA HEREDIA"
     },
     {
@@ -51660,7 +51660,7 @@
       "destino": "SUR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CURRIDABAT"
@@ -51672,7 +51672,7 @@
       "destino": "SUR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -51696,7 +51696,7 @@
       "destino": "OFICINA",
       "responsable": "WAGNER",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -51706,9 +51706,9 @@
       "fecha": "2026-08-20",
       "lugar": "AV CORONADO",
       "destino": "DON LUIS",
-      "responsable": "WAGNER",
+      "responsable": "NOEL",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51720,7 +51720,7 @@
       "destino": "COONAPROSAL",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE. JUAN PABLO II"
@@ -51732,7 +51732,7 @@
       "destino": "COONAPROSAL",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "TIBAS"
@@ -51768,7 +51768,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51780,7 +51780,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51816,7 +51816,7 @@
       "destino": "WALMART",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
@@ -51888,7 +51888,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -51984,9 +51984,9 @@
       "destino": "DEVOLUCION",
       "responsable": "GERALD",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "PROVEEDOR INDICA MOTIVO DE DEVOLUCION",
       "ubicacion": ""
     },
     {
@@ -52020,7 +52020,7 @@
       "destino": "RECOGER MATERIAL",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -52044,7 +52044,7 @@
       "destino": "KERRY",
       "responsable": "ANDRES",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52056,7 +52056,7 @@
       "destino": "ENTREGAR",
       "responsable": "ANDRES",
       "compromiso": "TEMPRANO",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -52201,9 +52201,93 @@
       "responsable": "GERALD",
       "compromiso": "PENDIENTE",
       "estado": "PENDIENTE",
-      "urgencia": false,
+      "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
+    },
+    {
+      "id": "20260820-047",
+      "fecha": "2026-08-20",
+      "lugar": "ELECTROMAZ",
+      "destino": "SIGMA CARTAGO",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "TIBAS CARTAGO ALAJUELA"
+    },
+    {
+      "id": "20260820-048",
+      "fecha": "2026-08-20",
+      "lugar": "UTH URUCA",
+      "destino": "SIGMA CARTAGO",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260820-049",
+      "fecha": "2026-08-20",
+      "lugar": "DITESA CARTAGO",
+      "destino": "SIGMA CARTAGO",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260820-050",
+      "fecha": "2026-08-20",
+      "lugar": "DITESA URUCA",
+      "destino": "SIGMA CARTAGO",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260820-051",
+      "fecha": "2026-08-20",
+      "lugar": "SIGMA CARTAGO",
+      "destino": "ENTREGAR",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260820-052",
+      "fecha": "2026-08-20",
+      "lugar": "CORPORACION ZEK",
+      "destino": "UNILEVER",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "TIBAS"
+    },
+    {
+      "id": "20260820-053",
+      "fecha": "2026-08-20",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
     }
   ]
 }
