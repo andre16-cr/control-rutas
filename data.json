@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T22:29:37.925478+00:00",
+  "generated_at": "2026-08-20T23:26:14.042902+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-20T22:29:24.273Z"
+    "modified_time": "2026-08-20T23:26:06.200Z"
   },
   "records": [
     {
@@ -51744,7 +51744,7 @@
       "destino": "COVIDIEN",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN FRANCISCO"
@@ -51756,7 +51756,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "0"
@@ -51804,7 +51804,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -51852,9 +51852,9 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "2PM",
-      "estado": "COMPLETADO",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "MATERIAL SE TRAJO A OFICINA",
       "ubicacion": ""
     },
     {
@@ -51972,7 +51972,7 @@
       "destino": "FRUCTA",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52008,7 +52008,7 @@
       "destino": "ENVIAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52212,7 +52212,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "TIBAS CARTAGO ALAJUELA"
@@ -52284,7 +52284,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
