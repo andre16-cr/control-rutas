@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T17:15:36.716382+00:00",
+  "generated_at": "2026-08-20T19:54:34.630702+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-20T17:15:14.946Z"
+    "modified_time": "2026-08-20T18:03:22.243Z"
   },
   "records": [
     {
@@ -51792,7 +51792,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -51912,7 +51912,7 @@
       "destino": "KITTY",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -51936,7 +51936,7 @@
       "destino": "JW",
       "responsable": "GERALD",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52224,7 +52224,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -52248,7 +52248,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -52270,9 +52270,9 @@
       "fecha": "2026-08-20",
       "lugar": "CORPORACION ZEK",
       "destino": "UNILEVER",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "TIBAS"
@@ -52282,7 +52282,7 @@
       "fecha": "2026-08-20",
       "lugar": "UNILEVER",
       "destino": "ENTREGAR",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "NOEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
