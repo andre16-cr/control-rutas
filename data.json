@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T17:26:52.055735+00:00",
+  "generated_at": "2026-08-21T17:52:32.071883+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-21T17:26:39.157Z"
+    "modified_time": "2026-08-21T17:52:18.273Z"
   },
   "records": [
     {
@@ -52320,7 +52320,7 @@
       "destino": "WALMART",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -52332,7 +52332,7 @@
       "destino": "TRAMITAR / ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -52462,7 +52462,7 @@
       "fecha": "2026-08-21",
       "lugar": "ROAG",
       "destino": "PROSALUD",
-      "responsable": "CHITO",
+      "responsable": "NOEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -52474,7 +52474,7 @@
       "fecha": "2026-08-21",
       "lugar": "MIBUS",
       "destino": "ENVIAR PROSALUD",
-      "responsable": "CHITO",
+      "responsable": "NOEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -52560,7 +52560,7 @@
       "destino": "CAFÉ REY",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
