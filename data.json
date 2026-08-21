@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T15:27:21.829323+00:00",
+  "generated_at": "2026-08-21T17:26:52.055735+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-21T15:24:48.037Z"
+    "modified_time": "2026-08-21T17:26:39.157Z"
   },
   "records": [
     {
@@ -52344,7 +52344,7 @@
       "destino": "CRISTAL",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "TIBAS - URUCA"
@@ -52356,7 +52356,7 @@
       "destino": "ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "ANTES 12MD",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -52368,7 +52368,7 @@
       "destino": "ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -52512,7 +52512,7 @@
       "destino": "ALCAMES",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52524,7 +52524,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "TEMPRANO - PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN SEBAS"
@@ -52572,7 +52572,7 @@
       "destino": "CAFÉ REY",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CURRIDABAT"
@@ -52584,7 +52584,7 @@
       "destino": "CAFÉ REY",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HATILLO SAN JOSE"
@@ -52656,7 +52656,7 @@
       "destino": "PARADISE / CENTRAL V",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -52704,8 +52704,56 @@
       "destino": "PROYECTOS OFICINA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260821-034",
+      "fecha": "2026-08-21",
+      "lugar": "BUEN PRECIO",
+      "destino": "WALMART",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CURRIDABAT"
+    },
+    {
+      "id": "20260821-035",
+      "fecha": "2026-08-21",
+      "lugar": "WALMART",
+      "destino": "ENTREGAR",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "COYOL"
+    },
+    {
+      "id": "20260821-036",
+      "fecha": "2026-08-21",
+      "lugar": "UTH URUCA",
+      "destino": "SIGMA CARTAGO",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260821-037",
+      "fecha": "2026-08-21",
+      "lugar": "SIGMA CARTAGO",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
     }
