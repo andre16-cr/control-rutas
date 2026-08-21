@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T17:52:32.071883+00:00",
+  "generated_at": "2026-08-21T23:53:48.676293+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-21T17:52:18.273Z"
+    "modified_time": "2026-08-21T23:45:44.752Z"
   },
   "records": [
     {
@@ -52392,7 +52392,7 @@
       "destino": "ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -52404,7 +52404,7 @@
       "destino": "ECOS",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -52416,7 +52416,7 @@
       "destino": "ECOS",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52440,7 +52440,7 @@
       "destino": "FORMUQUISA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ALAJUELA"
@@ -52464,7 +52464,7 @@
       "destino": "PROSALUD",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA - HOSP. MEXICO"
@@ -52476,7 +52476,7 @@
       "destino": "ENVIAR PROSALUD",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52484,13 +52484,13 @@
     {
       "id": "20260821-015",
       "fecha": "2026-08-21",
-      "lugar": "TECNOFIJACIONEA",
+      "lugar": "TECNOFIJACIONES",
       "destino": "DEMASA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "MATERIAL NO LISTO",
       "ubicacion": ""
     },
     {
@@ -52500,7 +52500,7 @@
       "destino": "DEMASA GUAPILES",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52536,7 +52536,7 @@
       "destino": "BERMUDEZ",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -52596,7 +52596,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CURRIDABAT"
@@ -52608,7 +52608,7 @@
       "destino": "GRIFFITH",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52620,7 +52620,7 @@
       "destino": "GRIFFITH",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -52632,7 +52632,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "LAGUNILLA HEREDIA"
@@ -52644,7 +52644,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52668,7 +52668,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -52680,7 +52680,7 @@
       "destino": "CENTRAL VETERINARIA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CURRIDABAT"
@@ -52692,7 +52692,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -52728,7 +52728,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -52740,7 +52740,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -52752,10 +52752,106 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260821-038",
+      "fecha": "2026-08-21",
+      "lugar": "SANIPRO",
+      "destino": "CRISTAL",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260821-039",
+      "fecha": "2026-08-21",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260821-040",
+      "fecha": "2026-08-21",
+      "lugar": "LAGAR DESAMPA",
+      "destino": "KERRY",
+      "responsable": "EXTERNO",
+      "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
+    },
+    {
+      "id": "20260821-041",
+      "fecha": "2026-08-21",
+      "lugar": "KERRY",
+      "destino": "ENTREGAR",
+      "responsable": "EXTERNO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20260821-042",
+      "fecha": "2026-08-21",
+      "lugar": "ROAG",
+      "destino": "CENTRAL VETERINARIA",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "URUCA - HOSP. MEXICO"
+    },
+    {
+      "id": "20260821-043",
+      "fecha": "2026-08-21",
+      "lugar": "CENTRAL VETERINARIA",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CARTAGO"
+    },
+    {
+      "id": "20260821-044",
+      "fecha": "2026-08-21",
+      "lugar": "TECNOSAGOT",
+      "destino": "SMURFIT",
+      "responsable": "EXTERNO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SAN JOSE. JUAN PABLO II"
+    },
+    {
+      "id": "20260821-045",
+      "fecha": "2026-08-21",
+      "lugar": "SMURFIT",
+      "destino": "ENTREGAR",
+      "responsable": "EXTERNO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "LAGUNILLA HEREDIA"
     }
   ]
 }
