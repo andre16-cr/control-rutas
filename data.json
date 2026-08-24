@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T18:06:56.945034+00:00",
+  "generated_at": "2026-08-24T23:52:47.037012+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-24T18:06:47.657Z"
+    "modified_time": "2026-08-24T23:52:25.161Z"
   },
   "records": [
     {
@@ -52920,7 +52920,7 @@
       "destino": "TRAMITAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -52932,7 +52932,7 @@
       "destino": "DEVOLUCION",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52944,7 +52944,7 @@
       "destino": "GRIFFITH",
       "responsable": "NOEL",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52956,7 +52956,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "LAGUNILLA HEREDIA"
@@ -52980,7 +52980,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -52992,9 +52992,9 @@
       "destino": "DEMASA",
       "responsable": "CHITO",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "MATERIAL DISPONIBLE HASTA MAÑANA.",
       "ubicacion": ""
     },
     {
@@ -53004,7 +53004,7 @@
       "destino": "DEMASA GUAPILES",
       "responsable": "CHITO",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53016,7 +53016,7 @@
       "destino": "UNILEVER",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "MATERIAL NO HA LLEGADO.  VERIFICAR",
       "ubicacion": "CARTAGO"
@@ -53028,7 +53028,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -53052,7 +53052,7 @@
       "destino": "OFICINA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -53064,7 +53064,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -53088,7 +53088,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CURRIDABAT"
@@ -53100,7 +53100,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "TEMPRANO",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53160,7 +53160,7 @@
       "destino": "PETROGAS",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -53172,7 +53172,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -53184,7 +53184,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "CURRIDABAT"
@@ -53196,7 +53196,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -53206,9 +53206,9 @@
       "fecha": "2026-08-24",
       "lugar": "TECNOVAL",
       "destino": "OFICINA",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
