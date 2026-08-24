@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T14:57:29.132458+00:00",
+  "generated_at": "2026-08-24T14:59:36.341398+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-24T14:57:02.189Z"
+    "modified_time": "2026-08-24T14:59:30.125Z"
   },
   "records": [
     {
@@ -52452,7 +52452,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -52548,7 +52548,7 @@
       "destino": "ENVIAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52943,7 +52943,7 @@
       "lugar": "SOLUCIONES",
       "destino": "GRIFFITH",
       "responsable": "NOEL",
-      "compromiso": "",
+      "compromiso": "PENDIENTE",
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
@@ -52955,7 +52955,7 @@
       "lugar": "GRIFFITH",
       "destino": "ENTREGAR",
       "responsable": "NOEL",
-      "compromiso": "",
+      "compromiso": "PENDIENTE",
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
@@ -53039,7 +53039,7 @@
       "lugar": "SMURFIT",
       "destino": "ENTREGAR",
       "responsable": "CHITO",
-      "compromiso": "",
+      "compromiso": "9:30 A 11:15",
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
@@ -53099,7 +53099,7 @@
       "lugar": "SIGMA CARTAGO",
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
-      "compromiso": "",
+      "compromiso": "TEMPRANO",
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
