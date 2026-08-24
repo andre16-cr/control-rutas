@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T17:29:24.140494+00:00",
+  "generated_at": "2026-08-24T17:56:34.347717+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-24T17:29:18.115Z"
+    "modified_time": "2026-08-24T17:56:22.843Z"
   },
   "records": [
     {
@@ -52872,7 +52872,7 @@
       "destino": "POCHOTE / ECOS",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52968,7 +52968,7 @@
       "destino": "FORMUQUISA",
       "responsable": "CHITO",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ALAJUELA"
@@ -53112,7 +53112,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53200,6 +53200,18 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
+    },
+    {
+      "id": "20260824-030",
+      "fecha": "2026-08-24",
+      "lugar": "TECNOVAL",
+      "destino": "OFICINA",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
     }
   ]
 }
