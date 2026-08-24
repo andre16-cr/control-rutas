@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T14:59:36.341398+00:00",
+  "generated_at": "2026-08-24T17:27:40.198923+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-24T14:59:30.125Z"
+    "modified_time": "2026-08-24T17:27:28.350Z"
   },
   "records": [
     {
@@ -52860,7 +52860,7 @@
       "destino": "POCHOTE",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -52884,7 +52884,7 @@
       "destino": "MEXIFRUTAS",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE BARRIO MEXICO"
@@ -52896,7 +52896,7 @@
       "destino": "MEXIFRUTAS",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -52908,7 +52908,7 @@
       "destino": "MEXIFRUTAS",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53018,7 +53018,7 @@
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "MATERIAL NO HA LLEGADO.  VERIFICAR",
       "ubicacion": "CARTAGO"
     },
     {
@@ -53040,7 +53040,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "9:30 A 11:15",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "LAGUNILLA HEREDIA"
@@ -53076,7 +53076,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HATILLO"
@@ -53124,7 +53124,7 @@
       "destino": "PETROGAS",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -53136,7 +53136,7 @@
       "destino": "PETROGAS",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -53148,7 +53148,7 @@
       "destino": "PETROGAS",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "DESAMPARADOS"
@@ -53176,6 +53176,30 @@
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
+    },
+    {
+      "id": "20260824-028",
+      "fecha": "2026-08-24",
+      "lugar": "BUEN PRECIO",
+      "destino": "SIGMA CARTAGO",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CURRIDABAT"
+    },
+    {
+      "id": "20260824-029",
+      "fecha": "2026-08-24",
+      "lugar": "SIGMA CARTAGO",
+      "destino": "ENTREGAR",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
     }
   ]
 }
