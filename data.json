@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25T15:07:04.389188+00:00",
+  "generated_at": "2026-08-26T00:44:34.238480+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-25T15:06:36.255Z"
+    "modified_time": "2026-08-26T00:44:02.744Z"
   },
   "records": [
     {
@@ -53220,7 +53220,7 @@
       "destino": "ABRE",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53232,7 +53232,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN DIEGO, TRES RIOS"
@@ -53244,7 +53244,7 @@
       "destino": "ECOS",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ESCAZU"
@@ -53256,7 +53256,7 @@
       "destino": "ECOS",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53268,7 +53268,7 @@
       "destino": "ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53280,9 +53280,9 @@
       "destino": "UNILEVER",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "MATERIAL NO ESTA LISTO",
       "ubicacion": "CARTAGO"
     },
     {
@@ -53292,7 +53292,7 @@
       "destino": "UNILEVER",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53304,7 +53304,7 @@
       "destino": "UNILEVER",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -53328,9 +53328,9 @@
       "destino": "UNILEVER / PROYECTOS",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "PROYECTOS?",
       "ubicacion": "GOICOECHEA"
     },
     {
@@ -53352,7 +53352,7 @@
       "destino": "UNILEVER",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -53364,7 +53364,7 @@
       "destino": "CRISTAL",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53376,7 +53376,7 @@
       "destino": "ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -53388,7 +53388,7 @@
       "destino": "ECOS",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -53400,7 +53400,7 @@
       "destino": "ECOS",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53412,7 +53412,7 @@
       "destino": "HOTELERA CALI",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -53424,7 +53424,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53436,7 +53436,7 @@
       "destino": "PERSONNA",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53448,7 +53448,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53460,7 +53460,7 @@
       "destino": "DEL ORO",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -53472,9 +53472,9 @@
       "destino": "ENTREGAR / DEV",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "pendiente devolucion",
       "ubicacion": "COYOL"
     },
     {
@@ -53484,7 +53484,7 @@
       "destino": "DEMASA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53496,7 +53496,7 @@
       "destino": "ENVIAR OCAMPO",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -53508,7 +53508,7 @@
       "destino": "DEMASA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
@@ -53520,7 +53520,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -53532,7 +53532,7 @@
       "destino": "ENVIAR CHIQUITA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53544,7 +53544,7 @@
       "destino": "ENVIAR ZARCEREÑOS",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -53556,9 +53556,9 @@
       "destino": "PARADISE",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "MATERIAL LISTO 12MD.",
       "ubicacion": "PASEO COLON"
     },
     {
@@ -53568,7 +53568,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -53580,7 +53580,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -53590,12 +53590,252 @@
       "fecha": "2026-08-25",
       "lugar": "SIGMA CARTAGO",
       "destino": "ENTREGAR",
-      "responsable": "CHITO",
+      "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
+    },
+    {
+      "id": "20260825-033",
+      "fecha": "2026-08-25",
+      "lugar": "OFICINA STOCK",
+      "destino": "PETROGAS",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260825-034",
+      "fecha": "2026-08-25",
+      "lugar": "TECNOVAL",
+      "destino": "PETROGAS",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20260825-035",
+      "fecha": "2026-08-25",
+      "lugar": "TUBOCOBRE",
+      "destino": "PETROGAS",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20260825-036",
+      "fecha": "2026-08-25",
+      "lugar": "PETROGAS",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CARTAGO"
+    },
+    {
+      "id": "20260825-037",
+      "fecha": "2026-08-25",
+      "lugar": "SIGMA ALAJUELA",
+      "destino": "RECOGER BOMBA",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260825-038",
+      "fecha": "2026-08-25",
+      "lugar": "WALMART",
+      "destino": "RECOGER PANEL",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "COYOL"
+    },
+    {
+      "id": "20260825-039",
+      "fecha": "2026-08-25",
+      "lugar": "IESA CURRI",
+      "destino": "LLEVAR PANEL",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260825-040",
+      "fecha": "2026-08-25",
+      "lugar": "GRUPO 10",
+      "destino": "SIGMA CARTAGO",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "DESAMPARADOS"
+    },
+    {
+      "id": "20260825-041",
+      "fecha": "2026-08-25",
+      "lugar": "SIGMA CARTAGO",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260825-042",
+      "fecha": "2026-08-25",
+      "lugar": "SOLUCIONES INTEGRALES",
+      "destino": "CRISTAL",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260825-043",
+      "fecha": "2026-08-25",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260825-044",
+      "fecha": "2026-08-25",
+      "lugar": "CAPRIS",
+      "destino": "CRISTAL",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20260825-045",
+      "fecha": "2026-08-25",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260825-046",
+      "fecha": "2026-08-25",
+      "lugar": "FERRETECNICA",
+      "destino": "CLOROX",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SAN FRANCISCO"
+    },
+    {
+      "id": "20260825-047",
+      "fecha": "2026-08-25",
+      "lugar": "CLOROX",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SAN FRANCISCO"
+    },
+    {
+      "id": "20260825-048",
+      "fecha": "2026-08-25",
+      "lugar": "GUACAMAYA",
+      "destino": "UNILEVER",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260825-049",
+      "fecha": "2026-08-25",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
+    },
+    {
+      "id": "20260825-050",
+      "fecha": "2026-08-25",
+      "lugar": "MAFISA",
+      "destino": "CRISTAL",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CALLE BLANCOS"
+    },
+    {
+      "id": "20260825-051",
+      "fecha": "2026-08-25",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260825-052",
+      "fecha": "2026-08-25",
+      "lugar": "CENTRAL VALVULAS",
+      "destino": "PETROGAS",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CARTAGO"
     }
   ]
 }
