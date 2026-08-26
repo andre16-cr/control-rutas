@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T19:09:19.472492+00:00",
+  "generated_at": "2026-08-26T22:38:23.677909+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-26T18:22:53.238Z"
+    "modified_time": "2026-08-26T22:38:16.977Z"
   },
   "records": [
     {
@@ -53904,7 +53904,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN FRANCISCO"
@@ -53928,7 +53928,7 @@
       "destino": "UNILEVER",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -53976,7 +53976,7 @@
       "destino": "UNILEVER",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -54000,7 +54000,7 @@
       "destino": "FIRESTONE",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -54012,9 +54012,9 @@
       "destino": "FIRESTONE",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "MATERIAL INCOMPLETO",
       "ubicacion": "HEREDIA"
     },
     {
@@ -54036,7 +54036,7 @@
       "destino": "SAMTEC",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -54142,7 +54142,7 @@
       "fecha": "2026-08-26",
       "lugar": "SIGMA CARTAGO",
       "destino": "ENTREGAR",
-      "responsable": "GERALD",
+      "responsable": "WAGNER",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -54156,7 +54156,7 @@
       "destino": "JW",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -54168,7 +54168,7 @@
       "destino": "JW",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -54240,7 +54240,7 @@
       "destino": "WALMART",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -54312,7 +54312,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN DIEGO, TRES RIOS"
@@ -54360,7 +54360,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -54388,6 +54388,126 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260826-047",
+      "fecha": "2026-08-26",
+      "lugar": "SOLUCIONES INTEGRALES",
+      "destino": "WALMART",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260826-048",
+      "fecha": "2026-08-26",
+      "lugar": "CAPRIS",
+      "destino": "PARADISE",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20260826-049",
+      "fecha": "2026-08-26",
+      "lugar": "PARADISE",
+      "destino": "ENTREGAR",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CARTAGO"
+    },
+    {
+      "id": "20260826-050",
+      "fecha": "2026-08-26",
+      "lugar": "CAPRIS",
+      "destino": "KERRY",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20260826-051",
+      "fecha": "2026-08-26",
+      "lugar": "BUEN PRECIO",
+      "destino": "KERRY",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CURRIDABAT"
+    },
+    {
+      "id": "20260826-052",
+      "fecha": "2026-08-26",
+      "lugar": "OFICINA STOCK",
+      "destino": "KERRY",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260826-053",
+      "fecha": "2026-08-26",
+      "lugar": "IESA CURRI",
+      "destino": "KERRY",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260826-054",
+      "fecha": "2026-08-26",
+      "lugar": "UTH URUCA",
+      "destino": "KERRY",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260826-055",
+      "fecha": "2026-08-26",
+      "lugar": "LAGAR DESAMPA",
+      "destino": "KERRY",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260826-056",
+      "fecha": "2026-08-26",
+      "lugar": "KERRY",
+      "destino": "ENTREGAR",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
     }
   ]
 }
