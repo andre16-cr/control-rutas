@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-27T15:05:21.546976+00:00",
+  "generated_at": "2026-08-27T17:26:43.464433+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-27T15:05:13.527Z"
+    "modified_time": "2026-08-27T17:26:36.896Z"
   },
   "records": [
     {
@@ -51963,7 +51963,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "SAN JOSE"
     },
     {
       "id": "20260820-027",
@@ -54584,6 +54584,18 @@
     {
       "id": "20260827-007",
       "fecha": "2026-08-27",
+      "lugar": "FABRICA",
+      "destino": "FIRESTONE",
+      "responsable": "CHITO",
+      "compromiso": "PENDIENTE",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260827-008",
+      "fecha": "2026-08-27",
       "lugar": "TECNOVAL",
       "destino": "ECOLAB",
       "responsable": "WAGNER",
@@ -54594,7 +54606,7 @@
       "ubicacion": "ZAPOTE"
     },
     {
-      "id": "20260827-008",
+      "id": "20260827-009",
       "fecha": "2026-08-27",
       "lugar": "ECOLAB",
       "destino": "ENTREGAR",
@@ -54606,7 +54618,7 @@
       "ubicacion": ""
     },
     {
-      "id": "20260827-009",
+      "id": "20260827-010",
       "fecha": "2026-08-27",
       "lugar": "INDUNI",
       "destino": "ENTREGAR",
@@ -54618,31 +54630,31 @@
       "ubicacion": ""
     },
     {
-      "id": "20260827-010",
-      "fecha": "2026-08-27",
-      "lugar": "CRISTAL",
-      "destino": "ENTREGARE",
-      "responsable": "WAGNER",
-      "compromiso": "",
-      "estado": "PENDIENTE",
-      "urgencia": false,
-      "observaciones": "",
-      "ubicacion": "HEREDIA"
-    },
-    {
       "id": "20260827-011",
       "fecha": "2026-08-27",
-      "lugar": "MONARO",
+      "lugar": "CRISTAL",
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
-      "compromiso": "ANTES DE LAS 12",
-      "estado": "PENDIENTE",
+      "compromiso": "",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
     },
     {
       "id": "20260827-012",
+      "fecha": "2026-08-27",
+      "lugar": "MONARO",
+      "destino": "ENTREGAR",
+      "responsable": "WAGNER",
+      "compromiso": "ANTES DE LAS 12",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260827-013",
       "fecha": "2026-08-27",
       "lugar": "LEAHO",
       "destino": "UNILEVER",
@@ -54654,7 +54666,7 @@
       "ubicacion": "BELEN"
     },
     {
-      "id": "20260827-013",
+      "id": "20260827-014",
       "fecha": "2026-08-27",
       "lugar": "EQUIGAS",
       "destino": "UNILEVER",
@@ -54663,10 +54675,10 @@
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "SAN JOSE"
     },
     {
-      "id": "20260827-014",
+      "id": "20260827-015",
       "fecha": "2026-08-27",
       "lugar": "ELVATRON",
       "destino": "UNILEVER",
@@ -54678,7 +54690,7 @@
       "ubicacion": "URUCA"
     },
     {
-      "id": "20260827-015",
+      "id": "20260827-016",
       "fecha": "2026-08-27",
       "lugar": "BUEN PRECIO",
       "destino": "UNILEVER",
@@ -54690,19 +54702,31 @@
       "ubicacion": "CURRIDABAT"
     },
     {
-      "id": "20260827-016",
+      "id": "20260827-017",
+      "fecha": "2026-08-27",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "SE ENTREGAN SACOS DE CEMENTO DE BUEN PRECIO",
+      "ubicacion": "BELEN"
+    },
+    {
+      "id": "20260827-018",
       "fecha": "2026-08-27",
       "lugar": "DEL ORO",
       "destino": "ENTREGAR",
       "responsable": "WAGNER",
       "compromiso": "PENDIENTE",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "COYOL"
     },
     {
-      "id": "20260827-017",
+      "id": "20260827-019",
       "fecha": "2026-08-27",
       "lugar": "TAVO",
       "destino": "ENVIAR MEXI / ARSITECH",
@@ -54714,43 +54738,43 @@
       "ubicacion": ""
     },
     {
-      "id": "20260827-018",
+      "id": "20260827-020",
       "fecha": "2026-08-27",
       "lugar": "COCA COLA",
       "destino": "ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CALLE BLANCOS"
     },
     {
-      "id": "20260827-019",
+      "id": "20260827-021",
       "fecha": "2026-08-27",
       "lugar": "SATEC",
       "destino": "KERRY",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
     },
     {
-      "id": "20260827-020",
+      "id": "20260827-022",
       "fecha": "2026-08-27",
       "lugar": "KERRY",
       "destino": "ENTREGAR",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
     },
     {
-      "id": "20260827-021",
+      "id": "20260827-023",
       "fecha": "2026-08-27",
       "lugar": "DEMASA",
       "destino": "ENTREGAR",
@@ -54762,19 +54786,19 @@
       "ubicacion": "PAVAS"
     },
     {
-      "id": "20260827-022",
+      "id": "20260827-024",
       "fecha": "2026-08-27",
       "lugar": "ABOGADO",
       "destino": "PAPELES",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
     },
     {
-      "id": "20260827-023",
+      "id": "20260827-025",
       "fecha": "2026-08-27",
       "lugar": "BEIRUTE",
       "destino": "SIGMA MTV",
@@ -54786,7 +54810,7 @@
       "ubicacion": "SAN JOSE"
     },
     {
-      "id": "20260827-024",
+      "id": "20260827-026",
       "fecha": "2026-08-27",
       "lugar": "SIGMA MTV",
       "destino": "ENVIAR",
@@ -54798,19 +54822,19 @@
       "ubicacion": ""
     },
     {
-      "id": "20260827-025",
+      "id": "20260827-027",
       "fecha": "2026-08-27",
       "lugar": "CEMENTOS PROGRESO",
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "PATARRA 7-12MD",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
     },
     {
-      "id": "20260827-026",
+      "id": "20260827-028",
       "fecha": "2026-08-27",
       "lugar": "UTH CALLE BLANCOS",
       "destino": "CENTRAL VETERINARIA",
@@ -54822,7 +54846,7 @@
       "ubicacion": ""
     },
     {
-      "id": "20260827-027",
+      "id": "20260827-029",
       "fecha": "2026-08-27",
       "lugar": "TECNOVAL",
       "destino": "CENTRAL VETERINARIA",
@@ -54834,7 +54858,7 @@
       "ubicacion": "ZAPOTE"
     },
     {
-      "id": "20260827-028",
+      "id": "20260827-030",
       "fecha": "2026-08-27",
       "lugar": "BUEN PRECIO",
       "destino": "CENTRAL VETERINARIA",
@@ -54846,7 +54870,7 @@
       "ubicacion": "CURRIDABAT"
     },
     {
-      "id": "20260827-029",
+      "id": "20260827-031",
       "fecha": "2026-08-27",
       "lugar": "CENTRAL VETERINARIA",
       "destino": "ENTREGAR",
@@ -54858,7 +54882,7 @@
       "ubicacion": "CARTAGO"
     },
     {
-      "id": "20260827-030",
+      "id": "20260827-032",
       "fecha": "2026-08-27",
       "lugar": "IRSA",
       "destino": "ENTREGAR",
@@ -54868,6 +54892,102 @@
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "EL TEJAR"
+    },
+    {
+      "id": "20260827-033",
+      "fecha": "2026-08-27",
+      "lugar": "CONSTRUPLAZA ESCAZU",
+      "destino": "WALMART",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260827-034",
+      "fecha": "2026-08-27",
+      "lugar": "WALMART",
+      "destino": "ENTREGAR",
+      "responsable": "WAGNER",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "COYOL"
+    },
+    {
+      "id": "20260827-035",
+      "fecha": "2026-08-27",
+      "lugar": "FABRICA",
+      "destino": "DEL ORO",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260827-036",
+      "fecha": "2026-08-27",
+      "lugar": "ENVIAR",
+      "destino": "DEL ORO",
+      "responsable": "CHITO",
+      "compromiso": "ENC. TEMPISQUE",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260827-037",
+      "fecha": "2026-08-27",
+      "lugar": "UTH URUCA",
+      "destino": "SIGMA CARTAGO",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260827-038",
+      "fecha": "2026-08-27",
+      "lugar": "SIGMA CARTAGO",
+      "destino": "ENTREGAR",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260827-039",
+      "fecha": "2026-08-27",
+      "lugar": "TECNOVAL",
+      "destino": "VIDIKA",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20260827-040",
+      "fecha": "2026-08-27",
+      "lugar": "VIDIKA",
+      "destino": "ENTREGAR",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
     }
   ]
 }
