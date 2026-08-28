@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-28T16:27:39.953455+00:00",
+  "generated_at": "2026-08-28T18:17:50.342412+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-28T16:27:27.432Z"
+    "modified_time": "2026-08-28T18:17:39.298Z"
   },
   "records": [
     {
@@ -54012,7 +54012,7 @@
       "destino": "FIRESTONE",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "TRASLADO",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "FALTO MATERIAL DE RECOGER",
       "ubicacion": "HEREDIA"
@@ -54024,7 +54024,7 @@
       "destino": "ENVIAR FIRESTONE",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "TRASLADO",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -54048,7 +54048,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "TRASLADO",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ALAJUELA"
@@ -54288,7 +54288,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "TRASLADO",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -54300,7 +54300,7 @@
       "destino": "TRAMITAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -55032,7 +55032,7 @@
       "destino": "SIGMA TV",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -55082,7 +55082,7 @@
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "RECOGIDO CONSIGNACION Y OFICINA",
       "ubicacion": "GOICOECHEA"
     },
     {
@@ -55092,9 +55092,9 @@
       "destino": "UNILEVER / CONSIG",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "RECOGIDO CONSIGNACION - UNILEVER PENDIENTE 12MD",
       "ubicacion": "URUCA"
     },
     {
@@ -55116,7 +55116,7 @@
       "destino": "DEVOLUCION",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -55164,9 +55164,9 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "2 CILINDROS PENDIENTES",
       "ubicacion": "BELEN"
     },
     {
@@ -55188,7 +55188,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "1ER PUNTO",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -55210,9 +55210,9 @@
       "fecha": "2026-08-26",
       "lugar": "TECNOVAL",
       "destino": "ECOLAB",
-      "responsable": "NOEL",
+      "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -55260,7 +55260,7 @@
       "destino": "ECOS",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -55284,7 +55284,7 @@
       "destino": "KERRY",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -55308,7 +55308,7 @@
       "destino": "TRAMITAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -55344,7 +55344,7 @@
       "destino": "CONSIGNACION",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "MORAVIA"
@@ -55366,7 +55366,7 @@
       "fecha": "2026-08-26",
       "lugar": "SBQ",
       "destino": "SIGMA ALAJUELA",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "PIRY",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -55378,7 +55378,7 @@
       "fecha": "2026-08-26",
       "lugar": "SIGMA ALAJUELA",
       "destino": "ENTREGAR",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "PIRY",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -55392,7 +55392,7 @@
       "destino": "KERRY",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "CURRIDABAT / HEREDIA"
@@ -55404,7 +55404,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "PAVAS"
