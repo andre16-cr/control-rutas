@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-28T18:36:31.342973+00:00",
+  "generated_at": "2026-08-28T20:17:55.741957+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-08-28T18:17:39.298Z"
+    "modified_time": "2026-08-28T20:17:49.435Z"
   },
   "records": [
     {
@@ -55056,7 +55056,7 @@
       "destino": "UNILEVER",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -55080,7 +55080,7 @@
       "destino": "UNILEVER / OFICINA / CONSIG",
       "responsable": "GERALD",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "RECOGIDO CONSIGNACION Y OFICINA",
       "ubicacion": "GOICOECHEA"
@@ -55200,7 +55200,7 @@
       "destino": "ECOLAB",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -55296,7 +55296,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -55320,7 +55320,7 @@
       "destino": "CONSIGNACION",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "TIBAS"
@@ -55332,7 +55332,7 @@
       "destino": "CONSIGNACION",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -55356,7 +55356,7 @@
       "destino": "CONSIGNACION",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -55528,6 +55528,42 @@
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
+    },
+    {
+      "id": "20260826-099",
+      "fecha": "2026-08-26",
+      "lugar": "GRIFFITH",
+      "destino": "TRAMITAR",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "LAGUNILLA HEREDIA"
+    },
+    {
+      "id": "20260826-100",
+      "fecha": "2026-08-26",
+      "lugar": "OFICINA STOCK",
+      "destino": "UNILEVER",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20260826-101",
+      "fecha": "2026-08-26",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
     }
   ]
 }
