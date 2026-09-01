@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T17:58:47.626949+00:00",
+  "generated_at": "2026-09-01T19:09:46.739299+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-09-01T17:54:00.108Z"
+    "modified_time": "2026-09-01T18:29:03.184Z"
   },
   "records": [
     {
@@ -40467,7 +40467,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "PRIMER PUNTO",
-      "ubicacion": ""
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260724-019",
@@ -55860,7 +55860,7 @@
       "destino": "CONSIGNACION",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -55872,7 +55872,7 @@
       "destino": "ALCAMES",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "CALLE BLANCOS"
@@ -55894,7 +55894,7 @@
       "fecha": "2026-09-01",
       "lugar": "TECNOVAL",
       "destino": "ALCAMES",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "NOEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -55906,7 +55906,7 @@
       "fecha": "2026-09-01",
       "lugar": "ALCAMES",
       "destino": "ENTREGAR",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "NOEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -55929,8 +55929,8 @@
       "id": "20260901-030",
       "fecha": "2026-09-01",
       "lugar": "TORNICENTRO",
-      "destino": "UNILEVER",
-      "responsable": "SIN ASIGNAR",
+      "destino": "CRISTAL",
+      "responsable": "GERALD",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -55942,7 +55942,31 @@
       "fecha": "2026-09-01",
       "lugar": "CRISTAL",
       "destino": "ENTREGAR",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20260901-032",
+      "fecha": "2026-09-01",
+      "lugar": "CARBONE",
+      "destino": "EQUIPOS HERRERA",
+      "responsable": "GERALD",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20260901-033",
+      "fecha": "2026-09-01",
+      "lugar": "EQUIPOS HERRERA",
+      "destino": "ENTREGAR",
+      "responsable": "GERALD",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
