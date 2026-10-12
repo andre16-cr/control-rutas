@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T19:23:09.529018+00:00",
+  "generated_at": "2026-10-12T21:05:12.478243+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-12T19:19:51.817Z"
+    "modified_time": "2026-10-12T20:31:38.195Z"
   },
   "records": [
     {
@@ -65544,7 +65544,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "LA LIMA CARTAGO"
@@ -65664,7 +65664,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -65688,7 +65688,7 @@
       "destino": "ENTREGAR CRISTAL",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -65700,7 +65700,7 @@
       "destino": "ENTREGAR CRISTAL",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -65712,7 +65712,7 @@
       "destino": "ENTREGAR CRISTAL",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "TIBAS"
