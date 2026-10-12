@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T21:05:12.478243+00:00",
+  "generated_at": "2026-10-12T23:02:08.209589+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-12T20:31:38.195Z"
+    "modified_time": "2026-10-12T22:18:46.907Z"
   },
   "records": [
     {
@@ -65436,7 +65436,7 @@
       "destino": "JW",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -65568,7 +65568,7 @@
       "destino": "SIGMA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE AV.10"
@@ -65592,7 +65592,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -65640,7 +65640,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
