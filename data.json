@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T14:43:10.911249+00:00",
+  "generated_at": "2026-10-14T14:46:26.572360+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-14T14:41:30.890Z"
+    "modified_time": "2026-10-14T14:41:39.880Z"
   },
   "records": [
     {
@@ -66432,7 +66432,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
