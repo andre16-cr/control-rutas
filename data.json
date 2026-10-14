@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T14:46:26.572360+00:00",
+  "generated_at": "2026-10-14T17:26:04.529743+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-14T14:41:39.880Z"
+    "modified_time": "2026-10-14T17:19:55.889Z"
   },
   "records": [
     {
@@ -66216,7 +66216,7 @@
       "destino": "ZAPOTAL",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -66228,7 +66228,7 @@
       "destino": "ZAPOTAL",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CURRIDABAT"
@@ -66240,7 +66240,7 @@
       "destino": "ENVIAR ZAPOTAL",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -66276,7 +66276,7 @@
       "destino": "ENVIAR BERMUDEZ",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -66300,9 +66300,9 @@
       "destino": "SIGMA",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO TIENEN EL MATERIAL SE COMPRA EN FERRETECNICA",
       "ubicacion": ""
     },
     {
@@ -66312,9 +66312,9 @@
       "destino": "ENTREGAR X2",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SOLO SE ENTREGA 1",
       "ubicacion": ""
     },
     {
@@ -66336,7 +66336,7 @@
       "destino": "FIRESTONES / ELADIO",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -66444,7 +66444,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -66456,7 +66456,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
