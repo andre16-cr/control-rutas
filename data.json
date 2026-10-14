@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T21:54:19.347202+00:00",
+  "generated_at": "2026-10-14T22:56:48.368815+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-14T21:43:26.107Z"
+    "modified_time": "2026-10-14T22:47:11.834Z"
   },
   "records": [
     {
@@ -66288,7 +66288,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -66372,7 +66372,7 @@
       "destino": "ELADIO ARIAS",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -66408,9 +66408,9 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO RECIBIERON POR QUE LOS CEPILLOS SON CON MADERA",
       "ubicacion": "LAGUNILLA HEREDIA"
     },
     {
