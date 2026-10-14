@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T17:27:18.903826+00:00",
+  "generated_at": "2026-10-14T21:54:19.347202+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-14T17:19:55.889Z"
+    "modified_time": "2026-10-14T21:43:26.107Z"
   },
   "records": [
     {
@@ -66252,7 +66252,7 @@
       "destino": "PROING",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE BARRIO MEXICO"
@@ -66264,7 +66264,7 @@
       "destino": "ENVIAR PROING",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -66324,7 +66324,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -66348,7 +66348,7 @@
       "destino": "ENVIAR FIRESTONE",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -66360,7 +66360,7 @@
       "destino": "ELADIO",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -66384,7 +66384,7 @@
       "destino": "GRIFFITH",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -66396,7 +66396,7 @@
       "destino": "GRIFFITH",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE AV.10"
@@ -66460,6 +66460,138 @@
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
+    },
+    {
+      "id": "20261014-024",
+      "fecha": "2026-10-14",
+      "lugar": "BUEN PRECIO",
+      "destino": "CRISTAL",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CURRIDABAT"
+    },
+    {
+      "id": "20261014-025",
+      "fecha": "2026-10-14",
+      "lugar": "DITESA URUCA",
+      "destino": "CRISTAL",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261014-026",
+      "fecha": "2026-10-14",
+      "lugar": "LAGAR",
+      "destino": "CRISTAL",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261014-027",
+      "fecha": "2026-10-14",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261014-028",
+      "fecha": "2026-10-14",
+      "lugar": "TECNOFIJACIONES",
+      "destino": "GRIFFITH",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261014-029",
+      "fecha": "2026-10-14",
+      "lugar": "CAPRIS",
+      "destino": "GRIFFITH",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20261014-030",
+      "fecha": "2026-10-14",
+      "lugar": "ELVATRON",
+      "destino": "GRIFFITH",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20261014-031",
+      "fecha": "2026-10-14",
+      "lugar": "MAYZAP",
+      "destino": "GRIFFITH",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261014-032",
+      "fecha": "2026-10-14",
+      "lugar": "NOVEX",
+      "destino": "GRIFFITH",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261014-033",
+      "fecha": "2026-10-14",
+      "lugar": "CARBONE",
+      "destino": "GRIFFITH",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20261014-034",
+      "fecha": "2026-10-14",
+      "lugar": "GRIFFITH",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "LAGUNILLA HEREDIA"
     }
   ]
 }
