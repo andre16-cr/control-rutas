@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T16:52:28.350835+00:00",
+  "generated_at": "2026-10-15T18:07:20.470963+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-15T16:40:27.790Z"
+    "modified_time": "2026-10-15T17:58:55.416Z"
   },
   "records": [
     {
@@ -66660,7 +66660,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -66672,7 +66672,7 @@
       "destino": "CONSIGNACION / OFICINA",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ALAJUELA"
@@ -66720,7 +66720,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CALLE BLANCOS"
@@ -66936,7 +66936,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "MORAVIA"
@@ -66948,7 +66948,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -66972,7 +66972,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -66984,7 +66984,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -66996,7 +66996,7 @@
       "destino": "GRIFFITH",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -67020,7 +67020,7 @@
       "destino": "GRIFFITH",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -67048,6 +67048,18 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
+    },
+    {
+      "id": "20261015-039",
+      "fecha": "2026-10-15",
+      "lugar": "ARSA",
+      "destino": "GRIFFITH",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "GOICOECHEA"
     }
   ]
 }
