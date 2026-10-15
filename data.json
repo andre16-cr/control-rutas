@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T18:07:20.470963+00:00",
+  "generated_at": "2026-10-15T22:34:54.969393+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-15T17:58:55.416Z"
+    "modified_time": "2026-10-15T22:23:47.507Z"
   },
   "records": [
     {
@@ -66636,7 +66636,7 @@
       "destino": "ENVIAR WESTIN",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -66684,7 +66684,7 @@
       "destino": "CONSIGNACION",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -66708,7 +66708,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "LAGUNILLA HEREDIA"
@@ -66730,11 +66730,11 @@
       "fecha": "2026-10-15",
       "lugar": "REALTEC",
       "destino": "OFICINA",
-      "responsable": "CHITO",
+      "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE CAMBIA PARA EL DIA SIGUIENTE POR URGENCIAS",
       "ubicacion": ""
     },
     {
@@ -66742,11 +66742,11 @@
       "fecha": "2026-10-15",
       "lugar": "ROSEJO",
       "destino": "CONSIGNACION",
-      "responsable": "CHITO",
+      "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE CAMBIA PARA EL DIA SIGUIENTE POR URGENCIAS",
       "ubicacion": "PAVAS"
     },
     {
@@ -66754,11 +66754,11 @@
       "fecha": "2026-10-15",
       "lugar": "GERMANTEC",
       "destino": "CONSIGNACION",
-      "responsable": "CHITO",
+      "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE CAMBIA PARA EL DIA SIGUIENTE POR URGENCIAS",
       "ubicacion": "CURRIDABAT"
     },
     {
@@ -66804,7 +66804,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "COMPROMISO",
       "ubicacion": ""
@@ -66828,7 +66828,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -66888,7 +66888,7 @@
       "destino": "ENTREGAR CITRICOS",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -66900,7 +66900,7 @@
       "destino": "CITRICOS",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -66924,7 +66924,7 @@
       "destino": "ENTREGAR AZ HOSPITALITY",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -66960,7 +66960,7 @@
       "destino": "DOS PINOS OFICINA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CURRIDABAT / HEREDIA"
@@ -67006,9 +67006,9 @@
       "fecha": "2026-10-15",
       "lugar": "UTH CALLE BLANCOS",
       "destino": "GRIFFITH",
-      "responsable": "CHITO",
+      "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -67032,7 +67032,7 @@
       "destino": "GRIFFITH",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "SAN FRANCISCO"
@@ -67044,7 +67044,7 @@
       "destino": "GRIFFITH",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -67056,10 +67056,34 @@
       "destino": "GRIFFITH",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
+    },
+    {
+      "id": "20261015-040",
+      "fecha": "2026-10-15",
+      "lugar": "CARBONE",
+      "destino": "CRISTAL",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20261015-041",
+      "fecha": "2026-10-15",
+      "lugar": "TECNOVAL",
+      "destino": "CENTRAL VET",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
     }
   ]
 }
