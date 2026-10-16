@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T19:50:44.188820+00:00",
+  "generated_at": "2026-10-16T22:46:54.176523+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-16T19:09:24.764Z"
+    "modified_time": "2026-10-16T22:44:23.952Z"
   },
   "records": [
     {
@@ -67104,7 +67104,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -67164,7 +67164,7 @@
       "destino": "JW / RIMAC/ CONSIGNACION",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -67200,7 +67200,7 @@
       "destino": "RIMAC",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -67212,7 +67212,7 @@
       "destino": "RIMAC",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -67224,7 +67224,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -67260,9 +67260,9 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "EL CLIENTE NO RECIBE HOY",
       "ubicacion": "PAVAS"
     },
     {
@@ -67380,7 +67380,7 @@
       "destino": "KERRY",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -67392,7 +67392,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "TIEMPO HASTA LAS 3PM",
       "ubicacion": "PAVAS"
@@ -67404,7 +67404,7 @@
       "destino": "CONSIGNACION",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
@@ -67416,7 +67416,7 @@
       "destino": "CONSIGNACION",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "TIBAS"
@@ -67428,7 +67428,7 @@
       "destino": "CONSIGNACION",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -67440,7 +67440,7 @@
       "destino": "CONSIGNACION",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HATILLO"
@@ -67462,7 +67462,7 @@
       "fecha": "2026-10-16",
       "lugar": "CENTRONIKS",
       "destino": "DOS PINOS OFICINA",
-      "responsable": "CHITO",
+      "responsable": "GABEX",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -67500,9 +67500,9 @@
       "destino": "RECOGER CABLE",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE CAMBIA PARA PODER CUMPLIR CON LA URGENCIA",
       "ubicacion": ""
     },
     {
@@ -67512,9 +67512,9 @@
       "destino": "CONSIGNACION",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE CAMBIA PARA PODER CUMPLIR CON LA URGENCIA",
       "ubicacion": "TIBAS"
     },
     {
@@ -67522,9 +67522,9 @@
       "fecha": "2026-10-16",
       "lugar": "TECNOVAL",
       "destino": "JARVIN ANTONIO SANDINO",
-      "responsable": "WAY",
+      "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -67536,7 +67536,7 @@
       "destino": "JARVIN ANTONIO SANDINO",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -67582,9 +67582,9 @@
       "fecha": "2026-10-16",
       "lugar": "PANAPLAST",
       "destino": "CLOROX",
-      "responsable": "WAY",
+      "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -67594,9 +67594,9 @@
       "fecha": "2026-10-16",
       "lugar": "CLOROX",
       "destino": "ENTREGAR",
-      "responsable": "WAY",
+      "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "SAN FRANCISCO"
