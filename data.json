@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T22:46:54.176523+00:00",
+  "generated_at": "2026-10-16T22:58:00.850998+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-16T22:44:23.952Z"
+    "modified_time": "2026-10-16T22:56:13.449Z"
   },
   "records": [
     {
@@ -67404,7 +67404,7 @@
       "destino": "CONSIGNACION",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "TRASLADO",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
