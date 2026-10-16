@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T16:56:01.657793+00:00",
+  "generated_at": "2026-10-16T17:58:31.144839+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-16T16:42:29.007Z"
+    "modified_time": "2026-10-16T17:47:20.095Z"
   },
   "records": [
     {
@@ -67176,7 +67176,7 @@
       "destino": "JW / RIMAC / SIGMA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -67188,7 +67188,7 @@
       "destino": "JW",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -67284,7 +67284,7 @@
       "destino": "OFICINA X 2",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -67344,7 +67344,7 @@
       "destino": "CONSIGNACION",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -67608,7 +67608,7 @@
       "destino": "QUIMUSA",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
