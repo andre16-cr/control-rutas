@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T15:33:16.446493+00:00",
+  "generated_at": "2026-10-16T16:56:01.657793+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-16T15:28:20.751Z"
+    "modified_time": "2026-10-16T16:42:29.007Z"
   },
   "records": [
     {
@@ -67140,7 +67140,7 @@
       "destino": "JW / RIMAC",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "STO DOMINGO"
@@ -67152,7 +67152,7 @@
       "destino": "JW",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN FRANCISCO"
@@ -67248,7 +67248,7 @@
       "destino": "FORMUQUISA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -67308,7 +67308,7 @@
       "destino": "CONSIGNACION",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN SEBASTIAN, SJ"
@@ -67356,7 +67356,7 @@
       "destino": "KERRY",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -67462,7 +67462,7 @@
       "fecha": "2026-10-16",
       "lugar": "CENTRONIKS",
       "destino": "DOS PINOS OFICINA",
-      "responsable": "WAY",
+      "responsable": "CHITO",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -67476,7 +67476,7 @@
       "destino": "ENTREGAR X2 FACTURAS",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -67516,6 +67516,126 @@
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "TIBAS"
+    },
+    {
+      "id": "20261016-037",
+      "fecha": "2026-10-16",
+      "lugar": "TECNOVAL",
+      "destino": "JARVIN ANTONIO SANDINO",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20261016-038",
+      "fecha": "2026-10-16",
+      "lugar": "OFICINA",
+      "destino": "JARVIN ANTONIO SANDINO",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261016-039",
+      "fecha": "2026-10-16",
+      "lugar": "JARVIN ANTONIO SANDINO",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261016-040",
+      "fecha": "2026-10-16",
+      "lugar": "TORCASA",
+      "destino": "CORYMEX",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SAN JOSE AV.10"
+    },
+    {
+      "id": "20261016-041",
+      "fecha": "2026-10-16",
+      "lugar": "CORYMEX",
+      "destino": "ENTREGAR ENCOMIENDA",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261016-042",
+      "fecha": "2026-10-16",
+      "lugar": "PANAPLAST",
+      "destino": "CLOROX",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20261016-043",
+      "fecha": "2026-10-16",
+      "lugar": "CLOROX",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SAN FRANCISCO"
+    },
+    {
+      "id": "20261016-044",
+      "fecha": "2026-10-16",
+      "lugar": "TECNOVAL",
+      "destino": "QUIMUSA",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20261016-045",
+      "fecha": "2026-10-16",
+      "lugar": "OFICINA",
+      "destino": "QUIMUSA",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261016-046",
+      "fecha": "2026-10-16",
+      "lugar": "QUIMUSA",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SAN JOSE, URUCA"
     }
   ]
 }
