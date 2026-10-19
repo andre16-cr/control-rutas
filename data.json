@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T20:19:09.799249+00:00",
+  "generated_at": "2026-10-19T21:47:10.386835+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-19T20:17:45.454Z"
+    "modified_time": "2026-10-19T21:38:58.535Z"
   },
   "records": [
     {
@@ -67656,9 +67656,9 @@
       "destino": "RECOGER CARRUCHA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
-      "observaciones": "informar",
+      "observaciones": "EL CABLE NO LO DEVOLVIO EL CLIENTE",
       "ubicacion": ""
     },
     {
@@ -67704,7 +67704,7 @@
       "destino": "ELADIO",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -67860,9 +67860,9 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO DIO TIEMPO POR TEMA DE URGENCIAS",
       "ubicacion": ""
     },
     {
@@ -67920,7 +67920,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "GABRIEL NO LE DIO TIEMPO WAY AYUDA",
       "ubicacion": "HEREDIA"
@@ -67932,7 +67932,7 @@
       "destino": "OFICINA",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "GABRIEL NO LE DIO TIEMPO WAY AYUDA",
       "ubicacion": ""
@@ -67942,11 +67942,11 @@
       "fecha": "2026-10-19",
       "lugar": "MAFISA",
       "destino": "UNILEVER",
-      "responsable": "GABRIEL",
+      "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
-      "observaciones": "",
+      "observaciones": "NOEL AYUDÓ A RECOGER MATERIAL",
       "ubicacion": "CALLE BLANCOS"
     },
     {
@@ -67954,11 +67954,11 @@
       "fecha": "2026-10-19",
       "lugar": "ARSA",
       "destino": "UNILEVER",
-      "responsable": "GABRIEL",
+      "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
-      "observaciones": "",
+      "observaciones": "NOEL AYUDÓ A RECOGER MATERIAL",
       "ubicacion": "GOICOECHEA"
     },
     {
@@ -67966,11 +67966,11 @@
       "fecha": "2026-10-19",
       "lugar": "TECNOVAL",
       "destino": "UNILEVER",
-      "responsable": "GABRIEL",
+      "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
-      "observaciones": "",
+      "observaciones": "NOEL AYUDÓ A RECOGER MATERIAL",
       "ubicacion": "ZAPOTE"
     },
     {
@@ -67980,7 +67980,7 @@
       "destino": "UNILEVER",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -67992,7 +67992,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
