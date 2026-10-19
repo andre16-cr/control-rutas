@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T21:47:10.386835+00:00",
+  "generated_at": "2026-10-19T22:42:43.538767+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-19T21:38:58.535Z"
+    "modified_time": "2026-10-19T22:17:01.744Z"
   },
   "records": [
     {
@@ -67668,7 +67668,7 @@
       "destino": "CONSIGNACION",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "PENDIENTE",
       "ubicacion": "TIBAS"
@@ -67680,7 +67680,7 @@
       "destino": "CONSIGNACION",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "PENDIENTE",
       "ubicacion": "TIBAS"
@@ -67716,7 +67716,7 @@
       "destino": "ENVIAR ELADIO ARIAS",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
