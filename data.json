@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T14:39:14.561102+00:00",
+  "generated_at": "2026-10-20T16:06:15.335787+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-20T14:36:25.241Z"
+    "modified_time": "2026-10-20T15:58:21.079Z"
   },
   "records": [
     {
@@ -67996,6 +67996,162 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
+    },
+    {
+      "id": "20261020-001",
+      "fecha": "2026-10-20",
+      "lugar": "ENTEGAR",
+      "destino": "CLOROX",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261020-002",
+      "fecha": "2026-10-20",
+      "lugar": "ENTEGAR",
+      "destino": "FRUCTA",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261020-003",
+      "fecha": "2026-10-20",
+      "lugar": "ENTEGAR",
+      "destino": "DOS PINOS OC X2",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261020-004",
+      "fecha": "2026-10-20",
+      "lugar": "ENTEGAR",
+      "destino": "CRISTAL",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "ANTES 9:00AM",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261020-005",
+      "fecha": "2026-10-20",
+      "lugar": "DEVOLUCION",
+      "destino": "CONSTRUPLAZA ESCAZU",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261020-006",
+      "fecha": "2026-10-20",
+      "lugar": "CONSTRUPLAZA ESCAZU",
+      "destino": "UNILEVER OC X3",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261020-007",
+      "fecha": "2026-10-20",
+      "lugar": "ENTEGAR",
+      "destino": "RENAME OC",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "ANTES 9:00AM",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261020-008",
+      "fecha": "2026-10-20",
+      "lugar": "ENTEGAR",
+      "destino": "EXTRALUM CARTAGO",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261020-009",
+      "fecha": "2026-10-20",
+      "lugar": "GRUPO CASTRO",
+      "destino": "KERRY",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261020-010",
+      "fecha": "2026-10-20",
+      "lugar": "ECOSEAL",
+      "destino": "CONSIGNACION OFICINA",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "ALAJUELA, POAS"
+    },
+    {
+      "id": "20261020-011",
+      "fecha": "2026-10-20",
+      "lugar": "INDUDI",
+      "destino": "WALMART",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HATILLO"
+    },
+    {
+      "id": "20261020-012",
+      "fecha": "2026-10-20",
+      "lugar": "SOLUCIONES INTEGRALES",
+      "destino": "WALMART",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261020-013",
+      "fecha": "2026-10-20",
+      "lugar": "CONCRETE",
+      "destino": "WALMART",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
     }
   ]
 }
