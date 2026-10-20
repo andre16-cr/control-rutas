@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T20:25:12.134467+00:00",
+  "generated_at": "2026-10-20T22:17:06.303388+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-20T20:06:03.464Z"
+    "modified_time": "2026-10-20T21:29:39.494Z"
   },
   "records": [
     {
@@ -68016,7 +68016,7 @@
       "destino": "FRUCTA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68160,7 +68160,7 @@
       "destino": "CITRICOS",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -68184,7 +68184,7 @@
       "destino": "QUIMUSA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
