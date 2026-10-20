@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T16:06:15.335787+00:00",
+  "generated_at": "2026-10-20T17:33:02.772768+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-20T15:58:21.079Z"
+    "modified_time": "2026-10-20T17:18:40.718Z"
   },
   "records": [
     {
@@ -68004,7 +68004,7 @@
       "destino": "CLOROX",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68028,7 +68028,7 @@
       "destino": "DOS PINOS OC X2",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68040,7 +68040,7 @@
       "destino": "CRISTAL",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "ANTES 9:00AM",
       "ubicacion": ""
@@ -68064,7 +68064,7 @@
       "destino": "UNILEVER OC X3",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68088,9 +68088,9 @@
       "destino": "EXTRALUM CARTAGO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "MATERIAL IBA INCORRECTO VENDEDOR PIDE ENTREGAR MIERCOLES",
       "ubicacion": ""
     },
     {
@@ -68100,7 +68100,7 @@
       "destino": "KERRY",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68112,7 +68112,7 @@
       "destino": "CONSIGNACION OFICINA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ALAJUELA, POAS"
@@ -68122,7 +68122,7 @@
       "fecha": "2026-10-20",
       "lugar": "INDUDI",
       "destino": "WALMART",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "NOEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -68134,7 +68134,7 @@
       "fecha": "2026-10-20",
       "lugar": "SOLUCIONES INTEGRALES",
       "destino": "WALMART",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "WAY",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -68146,12 +68146,36 @@
       "fecha": "2026-10-20",
       "lugar": "CONCRETE",
       "destino": "WALMART",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "NOEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
+    },
+    {
+      "id": "20261020-014",
+      "fecha": "2026-10-20",
+      "lugar": "ARSA",
+      "destino": "CITRICOS",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "GOICOECHEA"
+    },
+    {
+      "id": "20261020-015",
+      "fecha": "2026-10-20",
+      "lugar": "ARSA",
+      "destino": "OFICINA",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "GOICOECHEA"
     }
   ]
 }
