@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T22:42:43.538767+00:00",
+  "generated_at": "2026-10-20T14:39:14.561102+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-19T22:17:01.744Z"
+    "modified_time": "2026-10-20T14:36:25.241Z"
   },
   "records": [
     {
@@ -67668,7 +67668,7 @@
       "destino": "CONSIGNACION",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "TRASLADO",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "PENDIENTE",
       "ubicacion": "TIBAS"
