@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T17:33:02.772768+00:00",
+  "generated_at": "2026-10-20T20:22:06.484105+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-20T17:18:40.718Z"
+    "modified_time": "2026-10-20T20:06:03.464Z"
   },
   "records": [
     {
@@ -99,7 +99,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260323-009",
@@ -183,7 +183,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260323-016",
@@ -267,7 +267,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260323-023",
@@ -315,7 +315,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN FRANCISCO"
+      "ubicacion": "SAN FRANCISCO- COYOL"
     },
     {
       "id": "20260323-027",
@@ -327,7 +327,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260323-028",
@@ -639,7 +639,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC TEMPISQUE"
     },
     {
       "id": "20260325-001",
@@ -819,7 +819,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": ""
     },
     {
       "id": "20260325-016",
@@ -855,7 +855,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260325-019",
@@ -891,7 +891,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260325-022",
@@ -915,7 +915,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260325-024",
@@ -1119,7 +1119,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260326-012",
@@ -1335,7 +1335,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260406-001",
@@ -1551,7 +1551,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260407-014",
@@ -1575,7 +1575,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA LA VALENCIA"
+      "ubicacion": "LA VALENCIA"
     },
     {
       "id": "20260407-016",
@@ -1815,7 +1815,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "COMPLETADA 9-4",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260408-013",
@@ -1923,7 +1923,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ZONA FRANCACOYOL"
     },
     {
       "id": "20260408-022",
@@ -2019,7 +2019,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA LA VALENCIA"
+      "ubicacion": "LA VALENCIA"
     },
     {
       "id": "20260408-030",
@@ -2067,7 +2067,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN SEBASTIAN, SJ"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260408-034",
@@ -2115,7 +2115,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260408-038",
@@ -2343,7 +2343,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260409-003",
@@ -2595,7 +2595,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "POR URGENCIAS UNILEVER",
-      "ubicacion": "ALAJUELA"
+      "ubicacion": "PARQUE INDUSTRIAL Z"
     },
     {
       "id": "20260409-024",
@@ -2703,7 +2703,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260409-033",
@@ -2727,7 +2727,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA LA VALENCIA"
+      "ubicacion": "LA VALENCIA"
     },
     {
       "id": "20260409-035",
@@ -3279,7 +3279,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260410-034",
@@ -3399,7 +3399,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260410-044",
@@ -4107,7 +4107,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "SAN JOSE",
-      "ubicacion": "SAN JOSE"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260414-006",
@@ -4203,7 +4203,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "TRES RIOS",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260414-014",
@@ -4395,7 +4395,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260414-030",
@@ -4479,7 +4479,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "BARRIO MEXICO",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260414-037",
@@ -4611,7 +4611,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "LAGUNILLA HEREDIA",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260414-048",
@@ -4647,7 +4647,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "NO SE DEJAN LAMINA",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260414-051",
@@ -4839,7 +4839,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "PENDIENTE 14-4",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260415-007",
@@ -4971,7 +4971,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260415-018",
@@ -5043,7 +5043,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260415-024",
@@ -5067,7 +5067,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "??",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260415-026",
@@ -5355,7 +5355,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260415-050",
@@ -5379,7 +5379,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260415-052",
@@ -5427,7 +5427,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260415-056",
@@ -5547,7 +5547,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ALAJUELA"
+      "ubicacion": "PARQUE INDUSTRIAL Z"
     },
     {
       "id": "20260416-010",
@@ -6015,7 +6015,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "NO RECIBEN ELECTRODOS",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260416-049",
@@ -6111,7 +6111,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "HEREDIA - TRASLADO POR URGENCIA PARADISE",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260417-005",
@@ -6351,7 +6351,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "PRIMER PUNTO",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260417-025",
@@ -6363,7 +6363,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260417-026",
@@ -6459,7 +6459,7 @@
       "estado": "TRASLADO",
       "urgencia": true,
       "observaciones": "NO SE COORDINO CITA PARA LUNES, SE TRASLADA MARTES",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260417-034",
@@ -6591,7 +6591,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260417-045",
@@ -6627,7 +6627,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "HEREDIA",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260417-048",
@@ -6687,7 +6687,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "PENDIENTE 16-4",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260420-001",
@@ -6855,7 +6855,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "PENDIENTE 17-4",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260420-015",
@@ -7011,7 +7011,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "PENDIENTE 17-4.  ATRASO 1H EN ENTREGA",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260420-028",
@@ -7071,7 +7071,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260420-033",
@@ -7143,7 +7143,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260420-039",
@@ -7287,7 +7287,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE, URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260421-012",
@@ -7383,7 +7383,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260421-020",
@@ -7623,7 +7623,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260421-040",
@@ -7659,7 +7659,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260421-043",
@@ -7719,7 +7719,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260422-001",
@@ -7767,7 +7767,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260422-005",
@@ -7983,7 +7983,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260422-023",
@@ -8115,7 +8115,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260422-034",
@@ -8175,7 +8175,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "ENCOMIENDA",
-      "ubicacion": "ENC. BARQUERO"
+      "ubicacion": "ENC. BARQUERO SUQUIRRES"
     },
     {
       "id": "20260422-039",
@@ -8499,7 +8499,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ALAJUELA"
+      "ubicacion": "PARQUE INDUSTRIAL Z"
     },
     {
       "id": "20260423-020",
@@ -8571,7 +8571,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260423-026",
@@ -8667,7 +8667,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ENC. BARQUERO"
+      "ubicacion": "ENC. BARQUERO SUQUIRRES"
     },
     {
       "id": "20260423-034",
@@ -8823,7 +8823,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260423-047",
@@ -8847,7 +8847,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260424-001",
@@ -8883,7 +8883,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "PENDIENTE 23-4",
-      "ubicacion": "ALAJUELA"
+      "ubicacion": "PARQUE INDUSTRIAL Z"
     },
     {
       "id": "20260424-004",
@@ -9027,7 +9027,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260424-016",
@@ -9243,7 +9243,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260424-034",
@@ -9603,7 +9603,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260427-015",
@@ -9651,7 +9651,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "PENDIENTE 24-4",
-      "ubicacion": "ALAJUELA"
+      "ubicacion": "PARQUE INDUSTRIAL Z"
     },
     {
       "id": "20260427-019",
@@ -9915,7 +9915,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "CITA 1PM",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260428-011",
@@ -9963,7 +9963,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOAQUIN HEREDIA"
+      "ubicacion": "SAN JOAQUIN"
     },
     {
       "id": "20260428-015",
@@ -10071,7 +10071,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260428-024",
@@ -10167,7 +10167,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260428-032",
@@ -10191,7 +10191,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOAQUIN HEREDIA"
+      "ubicacion": "SAN JOAQUIN"
     },
     {
       "id": "20260428-034",
@@ -10263,7 +10263,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260428-040",
@@ -10347,7 +10347,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260428-047",
@@ -10359,7 +10359,7 @@
       "estado": "TRASLADO",
       "urgencia": true,
       "observaciones": "ENTREGA DE CANDADO TARDO 40M APROX.",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260428-048",
@@ -10467,7 +10467,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260429-006",
@@ -10527,7 +10527,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260429-011",
@@ -10539,7 +10539,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "PENDIENTE 29-4",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260429-012",
@@ -10839,7 +10839,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260429-037",
@@ -10887,7 +10887,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOAQUIN HEREDIA"
+      "ubicacion": "SAN JOAQUIN"
     },
     {
       "id": "20260429-041",
@@ -10995,7 +10995,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ZONA FRANCACOYOL"
     },
     {
       "id": "20260429-050",
@@ -11055,7 +11055,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260430-001",
@@ -11091,7 +11091,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260430-004",
@@ -11103,7 +11103,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260430-005",
@@ -11295,7 +11295,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260430-021",
@@ -11679,7 +11679,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260504-005",
@@ -11787,7 +11787,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260504-014",
@@ -11859,7 +11859,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOAQUIN HEREDIA"
+      "ubicacion": "SAN JOAQUIN"
     },
     {
       "id": "20260504-020",
@@ -11907,7 +11907,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260504-024",
@@ -12183,7 +12183,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "CITA 2:30",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260505-006",
@@ -12219,7 +12219,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "PENDIENTE 4-5",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260505-009",
@@ -12387,7 +12387,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260505-023",
@@ -12399,7 +12399,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "NO SE PUDO TRAMITAR X FALTA DE DOCS",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260505-024",
@@ -12543,7 +12543,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260505-036",
@@ -12639,7 +12639,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "PENDIENTE 4-5",
-      "ubicacion": "SAN JOAQUIN HEREDIA"
+      "ubicacion": "SAN JOAQUIN"
     },
     {
       "id": "20260505-044",
@@ -12903,7 +12903,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260506-009",
@@ -13011,7 +13011,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC TEMPISQUE"
     },
     {
       "id": "20260506-018",
@@ -13071,7 +13071,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "PENDIENTE 5-5",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260506-023",
@@ -13107,7 +13107,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260506-026",
@@ -13203,7 +13203,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "PENDIENTE 5-5",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260506-034",
@@ -13323,7 +13323,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260506-044",
@@ -13431,7 +13431,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "RECOGIDO SAMTEC",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260507-007",
@@ -13443,7 +13443,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "CITA 1 -1:30",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260507-008",
@@ -13455,7 +13455,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ALAJUELA"
+      "ubicacion": "PARQUE INDUSTRIAL Z"
     },
     {
       "id": "20260507-009",
@@ -13527,7 +13527,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOAQUIN HEREDIA"
+      "ubicacion": "SAN JOAQUIN"
     },
     {
       "id": "20260507-015",
@@ -13623,7 +13623,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260507-023",
@@ -13635,7 +13635,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260507-024",
@@ -13803,7 +13803,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260507-038",
@@ -13827,7 +13827,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260507-040",
@@ -14019,7 +14019,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260508-001",
@@ -14379,7 +14379,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260508-031",
@@ -14619,7 +14619,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOAQUIN HEREDIA"
+      "ubicacion": "SAN JOAQUIN"
     },
     {
       "id": "20260511-017",
@@ -14667,7 +14667,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260511-021",
@@ -14751,7 +14751,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "1PM - 2PM",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260511-028",
@@ -14907,7 +14907,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260511-041",
@@ -15183,7 +15183,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260512-014",
@@ -15735,7 +15735,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": ""
     },
     {
       "id": "20260513-002",
@@ -15795,7 +15795,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ZONA FRANCACOYOL"
     },
     {
       "id": "20260513-007",
@@ -16191,7 +16191,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA LA VALENCIA"
+      "ubicacion": "LA VALENCIA"
     },
     {
       "id": "20260513-040",
@@ -16227,7 +16227,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260513-043",
@@ -16455,7 +16455,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA LA VALENCIA"
+      "ubicacion": "LA VALENCIA"
     },
     {
       "id": "20260514-006",
@@ -16599,7 +16599,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260514-018",
@@ -16719,7 +16719,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "2PM",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260514-028",
@@ -16875,7 +16875,7 @@
       "estado": "TRASLADO",
       "urgencia": true,
       "observaciones": "COMPROMISO",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260514-041",
@@ -16899,7 +16899,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260514-043",
@@ -17319,7 +17319,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260515-028",
@@ -17439,7 +17439,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260515-038",
@@ -17583,7 +17583,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260515-050",
@@ -17775,7 +17775,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260518-006",
@@ -17895,7 +17895,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260518-016",
@@ -17955,7 +17955,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260518-021",
@@ -18147,7 +18147,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260518-037",
@@ -18171,7 +18171,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260518-039",
@@ -18183,7 +18183,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260518-040",
@@ -18231,7 +18231,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260518-044",
@@ -18279,7 +18279,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260518-048",
@@ -18399,7 +18399,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260519-002",
@@ -18435,7 +18435,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260519-005",
@@ -18543,7 +18543,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260519-014",
@@ -18795,7 +18795,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260519-035",
@@ -18807,7 +18807,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260519-036",
@@ -18855,7 +18855,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260519-040",
@@ -19131,7 +19131,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260520-017",
@@ -19239,7 +19239,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN SEBASTIAN, SJ"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260520-026",
@@ -19383,7 +19383,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "CARIARI"
     },
     {
       "id": "20260520-038",
@@ -19623,7 +19623,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260521-003",
@@ -19803,7 +19803,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "NO HABIA MATERIAL",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260521-018",
@@ -20103,7 +20103,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260521-043",
@@ -20247,7 +20247,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260522-006",
@@ -20295,7 +20295,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "AUTORIZADO POR IDA EL CAMBIO",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260522-010",
@@ -20343,7 +20343,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "ANTES 12MD",
-      "ubicacion": "SAN FRANCISCO"
+      "ubicacion": "SAN FRANCISCO- COYOL"
     },
     {
       "id": "20260522-014",
@@ -20559,7 +20559,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "11AM",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260522-032",
@@ -20595,7 +20595,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260522-035",
@@ -21099,7 +21099,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260525-025",
@@ -21387,7 +21387,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ZONA FRANCACOYOL"
     },
     {
       "id": "20260526-002",
@@ -21435,7 +21435,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "CITA 3:30",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260526-006",
@@ -21687,7 +21687,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA LA VALENCIA"
+      "ubicacion": "LA VALENCIA"
     },
     {
       "id": "20260526-027",
@@ -22155,7 +22155,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260527-025",
@@ -22455,7 +22455,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260528-001",
@@ -22515,7 +22515,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260528-006",
@@ -22539,7 +22539,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ALAJUELA"
+      "ubicacion": "PARQUE INDUSTRIAL Z"
     },
     {
       "id": "20260528-008",
@@ -22671,7 +22671,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260528-019",
@@ -22887,7 +22887,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260529-004",
@@ -23427,7 +23427,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "REVISAR CASO.  WAGNER REPORTA QUE OC NO COINCIDE.  SE GENERA NUEVO OC. A LA ESPERA",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260601-007",
@@ -23763,7 +23763,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260602-005",
@@ -23787,7 +23787,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260602-007",
@@ -23859,7 +23859,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": ""
     },
     {
       "id": "20260602-013",
@@ -23967,7 +23967,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260602-022",
@@ -24099,7 +24099,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260602-033",
@@ -24267,7 +24267,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260602-047",
@@ -24351,7 +24351,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260602-054",
@@ -24447,7 +24447,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": ""
     },
     {
       "id": "20260603-008",
@@ -24459,7 +24459,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260603-009",
@@ -24663,7 +24663,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260603-026",
@@ -24675,7 +24675,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260603-027",
@@ -24699,7 +24699,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260603-029",
@@ -24807,7 +24807,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "CITA 12 - 1:30.  PUNTO NO APUNTADO EN PAPEL",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260603-038",
@@ -24891,7 +24891,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260603-045",
@@ -25011,7 +25011,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260603-055",
@@ -25023,7 +25023,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260604-001",
@@ -25071,7 +25071,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ZONA FRANCACOYOL"
     },
     {
       "id": "20260604-005",
@@ -25095,7 +25095,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260604-007",
@@ -25119,7 +25119,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "CITA 1:30",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260604-009",
@@ -25131,7 +25131,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260604-010",
@@ -25227,7 +25227,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20260604-018",
@@ -25251,7 +25251,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN SEBASTIAN, SJ"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260604-020",
@@ -25371,7 +25371,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260604-030",
@@ -25551,7 +25551,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "PRIORIDAD",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260604-045",
@@ -25695,7 +25695,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260604-057",
@@ -25983,7 +25983,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260605-023",
@@ -26127,7 +26127,7 @@
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260605-035",
@@ -26175,7 +26175,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260605-039",
@@ -26235,7 +26235,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260605-044",
@@ -26295,7 +26295,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260605-049",
@@ -26331,7 +26331,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260608-003",
@@ -26583,7 +26583,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ZONA FRANCACOYOL"
     },
     {
       "id": "20260608-024",
@@ -26619,7 +26619,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260608-027",
@@ -26775,7 +26775,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260609-003",
@@ -26955,7 +26955,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "ERROR EN COMPRA.  FALTA UNA LINEA",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260609-018",
@@ -27135,7 +27135,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260609-033",
@@ -27303,7 +27303,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260609-047",
@@ -27375,7 +27375,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260609-053",
@@ -27423,7 +27423,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260610-003",
@@ -27435,7 +27435,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260610-004",
@@ -27579,7 +27579,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260610-016",
@@ -27615,7 +27615,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260610-019",
@@ -27639,7 +27639,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "2:30 - 3 PM CITAS",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260610-021",
@@ -27759,7 +27759,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260610-031",
@@ -27795,7 +27795,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260611-001",
@@ -28443,7 +28443,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260612-005",
@@ -28455,7 +28455,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260612-006",
@@ -28479,7 +28479,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": ""
     },
     {
       "id": "20260612-008",
@@ -28803,7 +28803,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE, URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260612-035",
@@ -28995,7 +28995,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260612-051",
@@ -29067,7 +29067,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN SEBASTIAN, SJ"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260615-002",
@@ -29235,7 +29235,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOAQUIN HEREDIA"
+      "ubicacion": "SAN JOAQUIN"
     },
     {
       "id": "20260615-016",
@@ -29319,7 +29319,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE, URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260615-023",
@@ -29367,7 +29367,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "CITA 2:30",
-      "ubicacion": "SAN FRANCISCO"
+      "ubicacion": "SAN FRANCISCO- COYOL"
     },
     {
       "id": "20260615-027",
@@ -29403,7 +29403,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260615-030",
@@ -29463,7 +29463,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "CITA 2PM",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260615-035",
@@ -29619,7 +29619,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260616-004",
@@ -29667,7 +29667,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260616-008",
@@ -29823,7 +29823,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260616-021",
@@ -29883,7 +29883,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260616-026",
@@ -29919,7 +29919,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "CITA 11AM",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260616-029",
@@ -30219,7 +30219,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260617-017",
@@ -30375,7 +30375,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260617-030",
@@ -30435,7 +30435,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "MATERIAL NO ESTA LISTO HASTA MARTES - MIERC",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20260618-002",
@@ -30483,7 +30483,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "MATERIAL FALTANTE EN PROVEEDOR",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260618-006",
@@ -30687,7 +30687,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "MATERIAL FALTANTE EN PROVEEDOR",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260619-005",
@@ -30927,7 +30927,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260619-025",
@@ -31215,7 +31215,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260622-003",
@@ -31383,7 +31383,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260622-017",
@@ -31563,7 +31563,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "CITA 2PM",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260623-012",
@@ -31599,7 +31599,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260623-015",
@@ -31683,7 +31683,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260623-022",
@@ -31911,7 +31911,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260623-041",
@@ -31971,7 +31971,7 @@
       "estado": "TRASLADO",
       "urgencia": true,
       "observaciones": "POR INDICACION DE JIMMY",
-      "ubicacion": "SAN JOSE, URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260623-046",
@@ -32031,7 +32031,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE, URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260624-003",
@@ -32259,7 +32259,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260624-022",
@@ -32271,7 +32271,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260624-023",
@@ -32355,7 +32355,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260624-030",
@@ -32415,7 +32415,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260624-035",
@@ -32571,7 +32571,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260625-005",
@@ -32619,7 +32619,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260625-009",
@@ -32691,7 +32691,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260625-015",
@@ -32799,7 +32799,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260625-024",
@@ -32931,7 +32931,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260625-035",
@@ -32943,7 +32943,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260625-036",
@@ -32991,7 +32991,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOAQUIN HEREDIA"
+      "ubicacion": "SAN JOAQUIN"
     },
     {
       "id": "20260625-040",
@@ -33243,7 +33243,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260626-013",
@@ -33255,7 +33255,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260626-014",
@@ -33291,7 +33291,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN SEBASTIAN, SJ"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260626-017",
@@ -33375,7 +33375,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260626-024",
@@ -33399,7 +33399,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260626-026",
@@ -33435,7 +33435,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "CARIARI"
     },
     {
       "id": "20260626-029",
@@ -33591,7 +33591,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260626-042",
@@ -33639,7 +33639,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260626-046",
@@ -33711,7 +33711,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260626-052",
@@ -33843,7 +33843,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260629-010",
@@ -34083,7 +34083,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "NO RECIBEN DEVOLUCION, A LA ESPERA DE CORREO",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260629-030",
@@ -34251,7 +34251,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260630-010",
@@ -34467,7 +34467,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260630-028",
@@ -34647,7 +34647,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC TEMPISQUE"
     },
     {
       "id": "20260701-004",
@@ -34731,7 +34731,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260701-011",
@@ -35139,7 +35139,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260702-011",
@@ -35523,7 +35523,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260703-002",
@@ -35811,7 +35811,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260703-026",
@@ -35847,7 +35847,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "SE ENTREGA 7-7",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260703-029",
@@ -35895,7 +35895,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260703-033",
@@ -35907,7 +35907,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "SE ENTREGA 8-7",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260703-034",
@@ -36243,7 +36243,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "HASTA 11AM",
-      "ubicacion": "SAN FRANCISCO"
+      "ubicacion": "SAN FRANCISCO- COYOL"
     },
     {
       "id": "20260706-016",
@@ -36291,7 +36291,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260706-020",
@@ -36363,7 +36363,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260706-026",
@@ -36471,7 +36471,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "TRASLADO",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260707-008",
@@ -36495,7 +36495,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260707-010",
@@ -36507,7 +36507,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260707-011",
@@ -36615,7 +36615,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOAQUIN HEREDIA"
+      "ubicacion": "SAN JOAQUIN"
     },
     {
       "id": "20260707-020",
@@ -36831,7 +36831,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260707-038",
@@ -37047,7 +37047,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260708-007",
@@ -37059,7 +37059,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE, URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260708-008",
@@ -37215,7 +37215,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260708-021",
@@ -37419,7 +37419,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260708-038",
@@ -37575,7 +37575,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260716-002",
@@ -37623,7 +37623,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260716-006",
@@ -37767,7 +37767,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "CITA 2PM.  TRASLADO PARA ATENCIÓN DE URGENCIAS",
-      "ubicacion": "SAN FRANCISCO"
+      "ubicacion": "SAN FRANCISCO- COYOL"
     },
     {
       "id": "20260716-018",
@@ -37983,7 +37983,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260717-001",
@@ -38031,7 +38031,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260717-005",
@@ -38175,7 +38175,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN FRANCISCO"
+      "ubicacion": "SAN FRANCISCO- COYOL"
     },
     {
       "id": "20260717-017",
@@ -38439,7 +38439,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20260717-039",
@@ -38499,7 +38499,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260717-044",
@@ -38715,7 +38715,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "CITA 1:30",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260720-016",
@@ -38931,7 +38931,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "TEMPRANO",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260721-005",
@@ -39063,7 +39063,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "TEMPRANO",
-      "ubicacion": "SAN JOSE, URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260721-016",
@@ -39123,7 +39123,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260721-021",
@@ -39219,7 +39219,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "INDICAN QUE NO HABIA CITA AGENDADA",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260721-029",
@@ -39339,7 +39339,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "CITA 1:30",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260722-004",
@@ -39543,7 +39543,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260722-021",
@@ -39663,7 +39663,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260722-031",
@@ -39807,7 +39807,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "NO RECIBEN TUBOS POR TAMAÑO",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260723-004",
@@ -39999,7 +39999,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN SEBASTIAN, SJ"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260723-020",
@@ -40011,7 +40011,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260723-021",
@@ -40179,7 +40179,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20260723-035",
@@ -40371,7 +40371,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260724-011",
@@ -40395,7 +40395,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20260724-013",
@@ -40611,7 +40611,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260724-031",
@@ -40647,7 +40647,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260727-001",
@@ -40659,7 +40659,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "1ER PUNTO",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260727-002",
@@ -40827,7 +40827,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260727-016",
@@ -41031,7 +41031,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "RECOGE PARA QUE NOEL ENTREGUE",
-      "ubicacion": ""
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260727-033",
@@ -41511,7 +41511,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "1ER PUNTO",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260728-020",
@@ -41955,7 +41955,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260729-014",
@@ -42159,7 +42159,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "RECOGER ANTES DE MEDIO DIA",
-      "ubicacion": "SAN SEBASTIAN, SJ"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260730-002",
@@ -42171,7 +42171,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260730-003",
@@ -42183,7 +42183,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260730-004",
@@ -42279,7 +42279,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "PRIMER PUNTO",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260730-012",
@@ -42315,7 +42315,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260730-015",
@@ -42531,7 +42531,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260730-033",
@@ -42567,7 +42567,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20260730-036",
@@ -42771,7 +42771,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260731-013",
@@ -42903,7 +42903,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260731-024",
@@ -42951,7 +42951,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260731-028",
@@ -43119,7 +43119,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260804-007",
@@ -43227,7 +43227,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260804-016",
@@ -43359,7 +43359,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20260804-027",
@@ -43551,7 +43551,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260805-005",
@@ -43755,7 +43755,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ZONA FRANCACOYOL"
     },
     {
       "id": "20260805-022",
@@ -43959,7 +43959,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260805-039",
@@ -43971,7 +43971,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260805-040",
@@ -44235,7 +44235,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260806-003",
@@ -44247,7 +44247,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260806-004",
@@ -44379,7 +44379,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260806-015",
@@ -44667,7 +44667,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOAQUIN HEREDIA"
+      "ubicacion": "SAN JOAQUIN"
     },
     {
       "id": "20260806-039",
@@ -44691,7 +44691,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260806-041",
@@ -44787,7 +44787,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260806-049",
@@ -44835,7 +44835,7 @@
       "estado": "TRASLADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260806-053",
@@ -45015,7 +45015,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260807-007",
@@ -45195,7 +45195,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260807-022",
@@ -45207,7 +45207,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE, URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260807-023",
@@ -45231,7 +45231,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "CARIARI"
     },
     {
       "id": "20260807-025",
@@ -45267,7 +45267,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260807-028",
@@ -45459,7 +45459,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260807-044",
@@ -45483,7 +45483,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOAQUIN HEREDIA"
+      "ubicacion": "SAN JOAQUIN"
     },
     {
       "id": "20260807-046",
@@ -45495,7 +45495,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260807-047",
@@ -45951,7 +45951,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260808-028",
@@ -45963,7 +45963,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE, URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260808-029",
@@ -45975,7 +45975,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "CARIARI"
     },
     {
       "id": "20260808-030",
@@ -46083,7 +46083,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260808-039",
@@ -46119,7 +46119,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260808-042",
@@ -46131,7 +46131,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260808-043",
@@ -46167,7 +46167,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20260808-046",
@@ -46275,7 +46275,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260808-055",
@@ -46299,7 +46299,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260808-057",
@@ -46467,7 +46467,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN SEBASTIAN, SJ"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260808-071",
@@ -46527,7 +46527,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20260810-005",
@@ -46647,7 +46647,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "CONVERSADO CON IDA",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260810-015",
@@ -46719,7 +46719,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260810-021",
@@ -46827,7 +46827,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "TRAMITAR PENDIENTE",
-      "ubicacion": "SAN JOSE, URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260810-030",
@@ -46983,7 +46983,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260810-043",
@@ -47187,7 +47187,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOAQUIN HEREDIA"
+      "ubicacion": "SAN JOAQUIN"
     },
     {
       "id": "20260811-002",
@@ -47451,7 +47451,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260811-024",
@@ -47595,7 +47595,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260811-036",
@@ -47607,7 +47607,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260811-037",
@@ -47655,7 +47655,7 @@
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260811-041",
@@ -47895,7 +47895,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260812-003",
@@ -47991,7 +47991,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260812-011",
@@ -48111,7 +48111,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260812-021",
@@ -48207,7 +48207,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260812-029",
@@ -48219,7 +48219,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260812-030",
@@ -48435,7 +48435,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260812-048",
@@ -48543,7 +48543,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260813-008",
@@ -48675,7 +48675,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ALAJUELA"
+      "ubicacion": "PARQUE INDUSTRIAL Z"
     },
     {
       "id": "20260813-019",
@@ -48699,7 +48699,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA LA VALENCIA"
+      "ubicacion": "LA VALENCIA"
     },
     {
       "id": "20260813-021",
@@ -48771,7 +48771,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "SE CONVERSO CON IDA",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260813-027",
@@ -48927,7 +48927,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260813-040",
@@ -49299,7 +49299,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260814-022",
@@ -49311,7 +49311,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ALAJUELA"
+      "ubicacion": "PARQUE INDUSTRIAL Z"
     },
     {
       "id": "20260814-023",
@@ -49347,7 +49347,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "-"
+      "ubicacion": ""
     },
     {
       "id": "20260814-026",
@@ -49527,7 +49527,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260814-041",
@@ -49983,7 +49983,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "MATERIAL ENTREGA 2 DÍAS",
-      "ubicacion": ""
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260817-030",
@@ -50043,7 +50043,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260817-035",
@@ -50535,7 +50535,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260818-028",
@@ -50619,7 +50619,7 @@
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "CARIARI"
     },
     {
       "id": "20260818-035",
@@ -50715,7 +50715,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260818-043",
@@ -50775,7 +50775,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260818-048",
@@ -51147,7 +51147,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260819-027",
@@ -51171,7 +51171,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260819-029",
@@ -51207,7 +51207,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260819-032",
@@ -51243,7 +51243,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260819-035",
@@ -51291,7 +51291,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20260819-039",
@@ -51303,7 +51303,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260819-040",
@@ -51567,7 +51567,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ENC. MI BUS"
     },
     {
       "id": "20260819-062",
@@ -51615,7 +51615,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20260819-066",
@@ -51627,7 +51627,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "CARIARI"
     },
     {
       "id": "20260819-067",
@@ -51759,7 +51759,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ZONA FRANCACOYOL"
     },
     {
       "id": "20260820-010",
@@ -51867,7 +51867,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260820-019",
@@ -52023,7 +52023,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260820-032",
@@ -52275,7 +52275,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "TIBAS"
+      "ubicacion": ""
     },
     {
       "id": "20260820-053",
@@ -52347,7 +52347,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260821-004",
@@ -52395,7 +52395,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260821-008",
@@ -52431,7 +52431,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20260821-011",
@@ -52491,7 +52491,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "MATERIAL NO LISTO",
-      "ubicacion": ""
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260821-016",
@@ -52635,7 +52635,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260821-028",
@@ -52863,7 +52863,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260824-002",
@@ -52887,7 +52887,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260824-004",
@@ -52959,7 +52959,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260824-010",
@@ -52995,7 +52995,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "MATERIAL DISPONIBLE HASTA MAÑANA.",
-      "ubicacion": ""
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260824-013",
@@ -53067,7 +53067,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260824-019",
@@ -53175,7 +53175,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260824-028",
@@ -53235,7 +53235,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260825-003",
@@ -53319,7 +53319,7 @@
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260825-010",
@@ -53343,7 +53343,7 @@
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260825-012",
@@ -53475,7 +53475,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "pendiente devolucion",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260825-023",
@@ -53487,7 +53487,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260825-024",
@@ -53643,7 +53643,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260825-037",
@@ -54051,7 +54051,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ALAJUELA"
+      "ubicacion": "PARQUE INDUSTRIAL Z"
     },
     {
       "id": "20260826-019",
@@ -54111,7 +54111,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260826-024",
@@ -54243,7 +54243,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260826-035",
@@ -54291,7 +54291,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260826-039",
@@ -54315,7 +54315,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260826-041",
@@ -54519,7 +54519,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260827-002",
@@ -54555,7 +54555,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ALAJUELA"
+      "ubicacion": "PARQUE INDUSTRIAL Z"
     },
     {
       "id": "20260827-005",
@@ -54651,7 +54651,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260827-013",
@@ -54723,7 +54723,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260827-019",
@@ -55011,7 +55011,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260827-042",
@@ -55143,7 +55143,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN SEBASTIAN, SJ"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260828-012",
@@ -55155,7 +55155,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260828-013",
@@ -55539,7 +55539,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260828-045",
@@ -55635,7 +55635,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN SEBASTIAN, SJ"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260901-006",
@@ -56103,7 +56103,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260902-008",
@@ -56151,7 +56151,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260902-012",
@@ -56283,7 +56283,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260902-023",
@@ -56331,7 +56331,7 @@
       "estado": "TRASLADO",
       "urgencia": true,
       "observaciones": "CERRADO 5PM",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260902-027",
@@ -56703,7 +56703,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260903-010",
@@ -56739,7 +56739,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260903-013",
@@ -56823,7 +56823,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260903-020",
@@ -56835,7 +56835,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260903-021",
@@ -57099,7 +57099,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "SE ENVIO POR OTRA ENCOMIENDA",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260903-043",
@@ -57135,7 +57135,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260903-046",
@@ -57291,7 +57291,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260908-006",
@@ -57423,7 +57423,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260908-017",
@@ -57507,7 +57507,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20260908-024",
@@ -57663,7 +57663,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260909-003",
@@ -57723,7 +57723,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260909-008",
@@ -57747,7 +57747,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260909-010",
@@ -57759,7 +57759,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260909-011",
@@ -57915,7 +57915,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260909-024",
@@ -57975,7 +57975,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "CARIARI"
     },
     {
       "id": "20260909-029",
@@ -58155,7 +58155,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260909-044",
@@ -58191,7 +58191,7 @@
       "estado": "TRASLADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "CARIARI"
     },
     {
       "id": "20260909-047",
@@ -58275,7 +58275,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA BELEN"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260909-054",
@@ -58299,7 +58299,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260909-056",
@@ -58335,7 +58335,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260910-003",
@@ -58419,7 +58419,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "CARIARI"
     },
     {
       "id": "20260910-010",
@@ -58491,7 +58491,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260910-016",
@@ -58599,7 +58599,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260910-025",
@@ -58707,7 +58707,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260910-034",
@@ -58779,7 +58779,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260910-040",
@@ -58803,7 +58803,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260910-042",
@@ -58851,7 +58851,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260910-046",
@@ -58923,7 +58923,7 @@
       "estado": "PENDIENTE",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260910-051",
@@ -58971,7 +58971,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260911-002",
@@ -59379,7 +59379,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260911-036",
@@ -59391,7 +59391,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260911-037",
@@ -59571,7 +59571,7 @@
       "estado": "PENDIENTE",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260911-052",
@@ -59859,7 +59859,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260914-024",
@@ -59895,7 +59895,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260914-027",
@@ -59979,7 +59979,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260914-034",
@@ -60111,7 +60111,7 @@
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOAQUIN HEREDIA"
+      "ubicacion": "SAN JOAQUIN"
     },
     {
       "id": "20260916-009",
@@ -60171,7 +60171,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA, STO DOMINGO"
+      "ubicacion": "STO DOMINGO"
     },
     {
       "id": "20260916-014",
@@ -60183,7 +60183,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260916-015",
@@ -60207,7 +60207,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20260916-017",
@@ -60219,7 +60219,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260916-018",
@@ -60255,7 +60255,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20260916-021",
@@ -60267,7 +60267,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260916-022",
@@ -60579,7 +60579,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ZONA FRANCACOYOL"
     },
     {
       "id": "20260917-014",
@@ -60663,7 +60663,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20260917-021",
@@ -60675,7 +60675,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260917-022",
@@ -60699,7 +60699,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "CARIARI"
     },
     {
       "id": "20260917-024",
@@ -60939,7 +60939,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20260918-006",
@@ -61059,7 +61059,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "ZONA FRANCACOYOL"
     },
     {
       "id": "20260918-016",
@@ -61467,7 +61467,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260925-006",
@@ -61491,7 +61491,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20260925-008",
@@ -61503,7 +61503,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260925-009",
@@ -61563,7 +61563,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "ATRASA EN WALMART POR CONTENEDOR VARADO",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20260925-014",
@@ -61671,7 +61671,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20260925-023",
@@ -61827,7 +61827,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20260925-036",
@@ -61935,7 +61935,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260925-045",
@@ -62019,7 +62019,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "ULTRAPARK HEREDIA"
+      "ubicacion": "ULTRAPARK -INTEL"
     },
     {
       "id": "20260928-003",
@@ -62031,7 +62031,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20260928-004",
@@ -62091,7 +62091,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20260928-009",
@@ -62379,7 +62379,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN FRANCISCO"
+      "ubicacion": "SAN FRANCISCO- COYOL"
     },
     {
       "id": "20260929-009",
@@ -62859,7 +62859,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20261001-005",
@@ -62991,7 +62991,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20261001-016",
@@ -63231,7 +63231,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20261002-010",
@@ -63315,7 +63315,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20261002-017",
@@ -63507,7 +63507,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20261002-033",
@@ -63747,7 +63747,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20261005-014",
@@ -63843,7 +63843,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20261005-022",
@@ -63915,7 +63915,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20261006-003",
@@ -63987,7 +63987,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "NO SE ENTREGO POR TIEMPO",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20261006-009",
@@ -64071,7 +64071,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20261006-016",
@@ -64107,7 +64107,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20261006-019",
@@ -64119,7 +64119,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "LO RECOGE WAY",
-      "ubicacion": "SAN SEBASTIAN, SJ"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20261006-020",
@@ -64311,7 +64311,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20261006-036",
@@ -64359,7 +64359,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20261007-004",
@@ -64443,7 +64443,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20261007-011",
@@ -64455,7 +64455,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20261007-012",
@@ -64467,7 +64467,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20261007-013",
@@ -64515,7 +64515,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20261007-017",
@@ -64527,7 +64527,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "LIMA"
     },
     {
       "id": "20261007-018",
@@ -64587,7 +64587,7 @@
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN DIEGO, TRES RIOS"
+      "ubicacion": "TRES RIOS"
     },
     {
       "id": "20261008-004",
@@ -64683,7 +64683,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20261008-012",
@@ -64707,7 +64707,7 @@
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "CARIARI"
     },
     {
       "id": "20261008-014",
@@ -64839,7 +64839,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOSE, URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20261008-025",
@@ -64947,7 +64947,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20261009-002",
@@ -65067,7 +65067,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20261009-012",
@@ -65259,7 +65259,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20261009-028",
@@ -65319,7 +65319,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "TIBAS - URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20261009-033",
@@ -65427,7 +65427,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "SANTO DOMINGO"
     },
     {
       "id": "20261012-004",
@@ -65547,7 +65547,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LA LIMA CARTAGO"
+      "ubicacion": "LA LIMA"
     },
     {
       "id": "20261012-014",
@@ -65607,7 +65607,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "CARTAGO"
+      "ubicacion": "LIMA"
     },
     {
       "id": "20261012-019",
@@ -65751,7 +65751,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "HEREDIA"
+      "ubicacion": "ZONA FRANCA METROPOLITANA"
     },
     {
       "id": "20261013-002",
@@ -65931,7 +65931,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "1 PUNTO",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20261013-017",
@@ -66255,7 +66255,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN JOSE BARRIO MEXICO"
+      "ubicacion": "BARRIO MEXICO"
     },
     {
       "id": "20261014-007",
@@ -66411,7 +66411,7 @@
       "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "NO RECIBIERON POR QUE LOS CEPILLOS SON CON MADERA",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20261014-020",
@@ -66519,7 +66519,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "URUCA"
     },
     {
       "id": "20261014-029",
@@ -66591,7 +66591,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20261015-001",
@@ -66711,7 +66711,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "LAGUNILLA HEREDIA"
+      "ubicacion": "HEREDIA"
     },
     {
       "id": "20261015-011",
@@ -66891,7 +66891,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20261015-026",
@@ -67251,7 +67251,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "URUCA"
     },
     {
       "id": "20261016-015",
@@ -67311,7 +67311,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "SAN SEBASTIAN, SJ"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20261016-020",
@@ -67479,7 +67479,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20261016-034",
@@ -67635,7 +67635,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "SAN JOSE, URUCA"
+      "ubicacion": "URUCA"
     },
     {
       "id": "20261019-001",
@@ -67779,7 +67779,7 @@
       "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": "COYOL"
+      "ubicacion": "BELEN"
     },
     {
       "id": "20261019-013",
@@ -68124,10 +68124,10 @@
       "destino": "WALMART",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": "HATILLO"
+      "ubicacion": "CASTELLA"
     },
     {
       "id": "20261020-012",
@@ -68136,7 +68136,7 @@
       "destino": "WALMART",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -68148,7 +68148,7 @@
       "destino": "WALMART",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -68158,7 +68158,7 @@
       "fecha": "2026-10-20",
       "lugar": "ARSA",
       "destino": "CITRICOS",
-      "responsable": "CHITO",
+      "responsable": "GABRIEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -68172,10 +68172,34 @@
       "destino": "OFICINA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
+    },
+    {
+      "id": "20261020-016",
+      "fecha": "2026-10-20",
+      "lugar": "OFICINA",
+      "destino": "QUIMUSA",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261020-017",
+      "fecha": "2026-10-20",
+      "lugar": "BALISA",
+      "destino": "ECOLAB",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SAN JOSE"
     }
   ]
 }
