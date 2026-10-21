@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T15:04:46.517192+00:00",
+  "generated_at": "2026-10-21T15:33:32.688518+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-21T14:58:49.520Z"
+    "modified_time": "2026-10-21T15:16:25.168Z"
   },
   "records": [
     {
@@ -68448,7 +68448,7 @@
       "destino": "EXTRALUM X2",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -68544,7 +68544,7 @@
       "destino": "ELADIO ARIAS ENVIAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
