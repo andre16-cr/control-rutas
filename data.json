@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T15:33:32.688518+00:00",
+  "generated_at": "2026-10-21T20:17:09.091642+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-21T15:16:25.168Z"
+    "modified_time": "2026-10-21T19:25:40.961Z"
   },
   "records": [
     {
@@ -68208,7 +68208,7 @@
       "destino": "CAFE REY X2",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN FRANCISCO"
@@ -68220,7 +68220,7 @@
       "destino": "CAFE REY X2",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68232,7 +68232,7 @@
       "destino": "CAFE REY",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68256,7 +68256,7 @@
       "destino": "PROYECTOS",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -68268,7 +68268,7 @@
       "destino": "DEVOLUCION",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -68292,7 +68292,7 @@
       "destino": "ENTREGAR PLANTA HEREDIA",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -68328,7 +68328,7 @@
       "destino": "AMERECAN BRANDAS / PROYECTOS",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68340,7 +68340,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68352,7 +68352,7 @@
       "destino": "PROYECTOS",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "LA VALENCIA"
@@ -68364,7 +68364,7 @@
       "destino": "ENVIAR CHIQUITA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68376,7 +68376,7 @@
       "destino": "MEXIFRUTAS",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PASEO COLON"
@@ -68388,7 +68388,7 @@
       "destino": "ENVIAR MEXIFRUTAS",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68400,7 +68400,7 @@
       "destino": "ALCAMES",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "STO DOMINGO"
@@ -68436,7 +68436,7 @@
       "destino": "EXTRALUM",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SANTA ANA"
@@ -68456,14 +68456,14 @@
     {
       "id": "20261021-022",
       "fecha": "2026-10-21",
-      "lugar": "EXTRALYUM",
+      "lugar": "EXTRALUM",
       "destino": "EXTRALUM X3",
       "responsable": "CHITO",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "COMPROMISO ENTREGA DE MATERIAL",
-      "ubicacion": ""
+      "ubicacion": "CARTAGO"
     },
     {
       "id": "20261021-023",
@@ -68484,7 +68484,7 @@
       "destino": "UNILEVER",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68496,7 +68496,7 @@
       "destino": "UNILEVER / CRISTAL",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68508,7 +68508,7 @@
       "destino": "UNILEVER",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
@@ -68556,7 +68556,7 @@
       "destino": "ENTREGAR CITA",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "CITA A LAS 1:30PM",
       "ubicacion": "PAVAS"
@@ -68568,7 +68568,7 @@
       "destino": "CRISTAL",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68584,6 +68584,18 @@
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261021-033",
+      "fecha": "2026-10-21",
+      "lugar": "LANCO BELEN",
+      "destino": "CRISTAL",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
     }
   ]
 }
