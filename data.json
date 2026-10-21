@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T20:17:09.091642+00:00",
+  "generated_at": "2026-10-21T22:53:30.587735+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-21T19:25:40.961Z"
+    "modified_time": "2026-10-21T22:40:34.962Z"
   },
   "records": [
     {
@@ -68244,7 +68244,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "EMPCACAR POR COTIZACION",
       "ubicacion": ""
@@ -68316,7 +68316,7 @@
       "destino": "JW / ECOS",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68424,7 +68424,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "COMPROMISO",
       "ubicacion": "SAN SEBAS"
@@ -68460,7 +68460,7 @@
       "destino": "EXTRALUM X3",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "COMPROMISO ENTREGA DE MATERIAL",
       "ubicacion": "CARTAGO"
@@ -68472,7 +68472,7 @@
       "destino": "CONSIGNACION",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68532,7 +68532,7 @@
       "destino": "ENTREGAR X3",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -68580,7 +68580,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
