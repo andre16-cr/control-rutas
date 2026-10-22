@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T19:07:52.670818+00:00",
+  "generated_at": "2026-10-22T22:39:10.789180+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-22T19:02:46.512Z"
+    "modified_time": "2026-10-22T21:43:49.025Z"
   },
   "records": [
     {
@@ -68616,9 +68616,9 @@
       "destino": "GUARCO / ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "Reciben hasta las  3pm no se pudo por cambios de ruta",
       "ubicacion": ""
     },
     {
@@ -68724,9 +68724,9 @@
       "destino": "DEL ORO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "DESPUES DE LAS 2PM",
+      "observaciones": "entregan hasta las 4 y 50 y del Oro recibe hasta las 3",
       "ubicacion": ""
     },
     {
@@ -68842,9 +68842,9 @@
       "fecha": "2026-10-22",
       "lugar": "KERRY",
       "destino": "ENTREGAR",
-      "responsable": "NOEL",
+      "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "3 PM",
       "ubicacion": "PAVAS"
@@ -68880,7 +68880,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -68892,7 +68892,7 @@
       "destino": "ALCAMES",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68904,7 +68904,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN SEBAS"
@@ -68928,7 +68928,7 @@
       "destino": "DEMASA PARRITA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
