@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T16:02:53.253114+00:00",
+  "generated_at": "2026-10-22T19:07:52.670818+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-22T15:57:49.946Z"
+    "modified_time": "2026-10-22T19:02:46.512Z"
   },
   "records": [
     {
@@ -68640,7 +68640,7 @@
       "destino": "FIRESTONE",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68652,7 +68652,7 @@
       "destino": "ENVIAR FIRESTONE",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68664,7 +68664,7 @@
       "destino": "TRAMITAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -68676,7 +68676,7 @@
       "destino": "DEL ORO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68760,7 +68760,7 @@
       "destino": "KERRY",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "TIBAS"
@@ -68772,7 +68772,7 @@
       "destino": "KERRY",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68784,7 +68784,7 @@
       "destino": "KERRY",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -68796,7 +68796,7 @@
       "destino": "KERRY",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "DESPUES DE LA 12 MD",
       "ubicacion": ""
@@ -68818,9 +68818,9 @@
       "fecha": "2026-10-22",
       "lugar": "INDUDI",
       "destino": "KERRY",
-      "responsable": "NOEL",
+      "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CASTELLA"
@@ -68868,7 +68868,7 @@
       "destino": "KERRY",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68916,7 +68916,7 @@
       "destino": "ELADIO ARIAS",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68940,7 +68940,7 @@
       "destino": "DEVOLUCION",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "COMPROMISO",
       "ubicacion": "URUCA"
