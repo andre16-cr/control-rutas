@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T15:38:20.717919+00:00",
+  "generated_at": "2026-10-23T17:29:04.008566+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-23T15:33:38.219Z"
+    "modified_time": "2026-10-23T17:26:26.196Z"
   },
   "records": [
     {
@@ -68964,7 +68964,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -68976,7 +68976,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -68997,7 +68997,7 @@
       "id": "20261023-005",
       "fecha": "2026-10-23",
       "lugar": "VEGETALES FRESQUITA",
-      "destino": "ENTREGAR",
+      "destino": "ENCOMIENDA",
       "responsable": "GABRIEL",
       "compromiso": "",
       "estado": "PENDIENTE",
@@ -69024,7 +69024,7 @@
       "destino": "KERRY",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -69048,7 +69048,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "HASTA LAS 3PM",
       "ubicacion": "PAVAS"
@@ -69060,7 +69060,7 @@
       "destino": "SIGMA",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -69108,7 +69108,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -69132,7 +69132,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -69156,7 +69156,7 @@
       "destino": "ENTREGAR X 2",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -69192,7 +69192,7 @@
       "destino": "KERRY",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -69208,6 +69208,42 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20261023-023",
+      "fecha": "2026-10-23",
+      "lugar": "REFRACTARIOS",
+      "destino": "OFICINA",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20261023-024",
+      "fecha": "2026-10-23",
+      "lugar": "MAXINDUSTRIAS",
+      "destino": "OFICINA",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261023-025",
+      "fecha": "2026-10-23",
+      "lugar": "TECNOVAL",
+      "destino": "UNILEVER",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
     }
   ]
 }
