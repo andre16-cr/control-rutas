@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T22:39:10.789180+00:00",
+  "generated_at": "2026-10-23T15:38:20.717919+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-22T21:43:49.025Z"
+    "modified_time": "2026-10-23T15:33:38.219Z"
   },
   "records": [
     {
@@ -68944,6 +68944,270 @@
       "urgencia": false,
       "observaciones": "COMPROMISO",
       "ubicacion": "URUCA"
+    },
+    {
+      "id": "20261023-001",
+      "fecha": "2026-10-23",
+      "lugar": "UTH URUCA",
+      "destino": "VEGETALES FRESQUITA",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261023-002",
+      "fecha": "2026-10-23",
+      "lugar": "VEGETALES FRESQUITA",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "CARTAGO"
+    },
+    {
+      "id": "20261023-003",
+      "fecha": "2026-10-23",
+      "lugar": "CORRUGADOS DE",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261023-004",
+      "fecha": "2026-10-23",
+      "lugar": "TORCASA",
+      "destino": "VEGETALES FRESQUITA",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SAN JOSE AV.10"
+    },
+    {
+      "id": "20261023-005",
+      "fecha": "2026-10-23",
+      "lugar": "VEGETALES FRESQUITA",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CARTAGO"
+    },
+    {
+      "id": "20261023-006",
+      "fecha": "2026-10-23",
+      "lugar": "FERRETECNICA",
+      "destino": "KERRY",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "SAN FRANCISCO"
+    },
+    {
+      "id": "20261023-007",
+      "fecha": "2026-10-23",
+      "lugar": "UTH CALLE BLANCOS",
+      "destino": "KERRY",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261023-008",
+      "fecha": "2026-10-23",
+      "lugar": "LAGAR PURRAL",
+      "destino": "KERRY",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261023-009",
+      "fecha": "2026-10-23",
+      "lugar": "KERRY",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "HASTA LAS 3PM",
+      "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20261023-010",
+      "fecha": "2026-10-23",
+      "lugar": "PANAPLAST",
+      "destino": "SIGMA",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20261023-011",
+      "fecha": "2026-10-23",
+      "lugar": "SIGMA CARTAGO",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261023-012",
+      "fecha": "2026-10-23",
+      "lugar": "SEPREORO",
+      "destino": "GRIFFITH",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261023-013",
+      "fecha": "2026-10-23",
+      "lugar": "GRIFFITH",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261023-014",
+      "fecha": "2026-10-23",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "BELEN"
+    },
+    {
+      "id": "20261023-015",
+      "fecha": "2026-10-23",
+      "lugar": "SATEC",
+      "destino": "DEL OROR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261023-016",
+      "fecha": "2026-10-23",
+      "lugar": "DEL OROR",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261023-017",
+      "fecha": "2026-10-23",
+      "lugar": "JYB",
+      "destino": "LLEVAR MOTOR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "COMPROMISO",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261023-018",
+      "fecha": "2026-10-23",
+      "lugar": "MALAVASI",
+      "destino": "ENTREGAR X 2",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261023-019",
+      "fecha": "2026-10-23",
+      "lugar": "TRANSRODEN",
+      "destino": "ENVIAR ELADIO ARIAS",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261023-020",
+      "fecha": "2026-10-23",
+      "lugar": "ARSA",
+      "destino": "OFICINA IDA",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "GOICOECHEA"
+    },
+    {
+      "id": "20261023-021",
+      "fecha": "2026-10-23",
+      "lugar": "CAPRIS",
+      "destino": "KERRY",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20261023-022",
+      "fecha": "2026-10-23",
+      "lugar": "KERRY",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
     }
   ]
 }
