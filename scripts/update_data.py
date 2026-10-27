@@ -189,14 +189,13 @@ def read_routes(excel_bytes):
 ):
         
         if len(row) <= max(positions.values()):
-            print(
-                f"ADVERTENCIA: Fila {row_number} "
-                f"tiene {len(row)} columnas; "
-                f"se esperaban al menos "
+            raise RuntimeError(
+                f"Fila {row_number}: "
+                f"se recibieron {len(row)} columnas, "
+                f"pero se necesitan al menos "
                 f"{max(positions.values()) + 1}. "
-                f"Se omite."
-        )
-        continue
+                f"Revisar encabezados y rango del Excel."
+            )
     
         fecha_raw = row[
             positions["Fecha"]
