@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T23:47:30.368562+00:00",
+  "generated_at": "2026-10-27T23:48:44.547130+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-27T23:47:22.105Z"
+    "modified_time": "2026-10-27T23:48:07.761Z"
   },
   "records": [
     {
@@ -70200,7 +70200,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "TRASLADO",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
