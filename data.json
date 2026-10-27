@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T15:16:09.492467+00:00",
+  "generated_at": "2026-10-27T20:09:22.407868+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-27T15:13:29.655Z"
+    "modified_time": "2026-10-27T20:09:07.698Z"
   },
   "records": [
     {
@@ -58914,18 +58914,6 @@
       "ubicacion": ""
     },
     {
-      "id": "-001",
-      "fecha": "",
-      "lugar": "DEL ORO",
-      "destino": "ENTREGAR",
-      "responsable": "SIN ASIGNAR",
-      "compromiso": "",
-      "estado": "PENDIENTE",
-      "urgencia": true,
-      "observaciones": "",
-      "ubicacion": "BELEN"
-    },
-    {
       "id": "20260910-051",
       "fecha": "2026-09-10",
       "lugar": "EPA",
@@ -69840,7 +69828,7 @@
       "destino": "SUR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -69852,7 +69840,7 @@
       "destino": "ENTREGAR SUR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -69864,7 +69852,7 @@
       "destino": "WALMART COYOL",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN SEBASTIAN, SJ"
@@ -69876,7 +69864,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -69912,7 +69900,7 @@
       "destino": "CAMINO REAL",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -69924,7 +69912,7 @@
       "destino": "CAMINO REAL",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -69936,7 +69924,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -69948,7 +69936,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN SEBAS"
@@ -69960,7 +69948,7 @@
       "destino": "LUIS ELIZONDO / SIGMA MTV",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -69972,7 +69960,7 @@
       "destino": "ENVIAR SIGMA MTV",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -69996,7 +69984,7 @@
       "destino": "UNILEVER",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70008,7 +69996,7 @@
       "destino": "UNILEVER",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BARRIO MEXICO"
@@ -70020,7 +70008,7 @@
       "destino": "UNILEVER",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
@@ -70032,7 +70020,7 @@
       "destino": "UNILEVER",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
@@ -70044,7 +70032,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -70056,7 +70044,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70078,9 +70066,9 @@
       "fecha": "2026-10-27",
       "lugar": "FERRETECNIA",
       "destino": "UNILEVER",
-      "responsable": "GABRIEL",
+      "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -70088,14 +70076,134 @@
     {
       "id": "20261027-023",
       "fecha": "2026-10-27",
-      "lugar": "",
-      "destino": "UNILEVER",
-      "responsable": "GABRIEL",
+      "lugar": "DITESA",
+      "destino": "KERRY",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20261027-024",
+      "fecha": "2026-10-27",
+      "lugar": "URUCA",
+      "destino": "KERRY",
+      "responsable": "NOEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
+    },
+    {
+      "id": "20261027-025",
+      "fecha": "2026-10-27",
+      "lugar": "BEUN PRECIO",
+      "destino": "KERRY",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261027-026",
+      "fecha": "2026-10-27",
+      "lugar": "UTH CALLE BLANCOS",
+      "destino": "KERRY",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261027-027",
+      "fecha": "2026-10-27",
+      "lugar": "STOCK",
+      "destino": "KERRY",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261027-028",
+      "fecha": "2026-10-27",
+      "lugar": "KERRY",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20261027-029",
+      "fecha": "2026-10-27",
+      "lugar": "COMPONENTES",
+      "destino": "CRISTAL",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "EL PROVEEDOR NO TIENE EL MATERIAL HOY",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261027-030",
+      "fecha": "2026-10-27",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261027-031",
+      "fecha": "2026-10-27",
+      "lugar": "SIESA",
+      "destino": "UNILEVER",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SANTA ANA"
+    },
+    {
+      "id": "20261027-032",
+      "fecha": "2026-10-27",
+      "lugar": "ALMACENES UNIDOS",
+      "destino": "CRISTAL",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HATILLO"
+    },
+    {
+      "id": "20261027-033",
+      "fecha": "2026-10-27",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
     }
   ]
 }
