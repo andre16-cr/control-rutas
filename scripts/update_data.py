@@ -180,10 +180,23 @@ def read_routes(excel_bytes):
     records = []
     seq_by_date = {}
 
-    for row in ws.iter_rows(
-        min_row=2,
-        values_only=True
-    ):
+    for row_number, row in enumerate(
+        ws.iter_rows(
+            min_row=2,
+            values_only=True
+        ),
+    start=2
+):
+        
+    if len(row) <= max(positions.values()):
+        print(
+            f"ADVERTENCIA: Fila {row_number} "
+            f"tiene {len(row)} columnas; "
+            f"se esperaban al menos "
+            f"{max(positions.values()) + 1}. "
+            f"Se omite."
+        )
+        continue
         fecha_raw = row[
             positions["Fecha"]
         ]
