@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-28T22:43:34.364795+00:00",
+  "generated_at": "2026-10-28T23:26:01.157656+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-28T22:36:51.426Z"
+    "modified_time": "2026-10-28T23:02:01.221Z"
   },
   "records": [
     {
@@ -70356,7 +70356,7 @@
       "destino": "TRAMITAR Y ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "ANTES 11 AM",
       "ubicacion": ""
@@ -70380,7 +70380,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70392,7 +70392,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
