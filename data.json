@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-28T15:09:28.345579+00:00",
+  "generated_at": "2026-10-28T20:47:17.726162+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-28T15:06:04.947Z"
+    "modified_time": "2026-10-28T20:46:25.910Z"
   },
   "records": [
     {
@@ -70212,7 +70212,7 @@
       "destino": "KERRY",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70260,7 +70260,7 @@
       "destino": "COCA COLA CALLE BLANCOS",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70284,7 +70284,7 @@
       "destino": "CONSIGNACION SIGMA / DEVOLUCION",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70296,7 +70296,7 @@
       "destino": "ENVIAR GLP / JW / ´POCHOTE",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70320,7 +70320,7 @@
       "destino": "SIGMA CARTAGO CONSIGNA",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70332,7 +70332,7 @@
       "destino": "FERRETECNICA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70344,7 +70344,7 @@
       "destino": "WALMART COYOL",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70358,7 +70358,7 @@
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "ANTES 11 AM",
       "ubicacion": ""
     },
     {
@@ -70416,7 +70416,7 @@
       "destino": "FARIBETH",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70428,7 +70428,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70440,7 +70440,7 @@
       "destino": "CRISTAL",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70452,9 +70452,9 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "ANTES 12 MD",
       "ubicacion": ""
     },
     {
@@ -70476,9 +70476,9 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "ANTES 12 MD",
       "ubicacion": ""
     },
     {
@@ -70488,7 +70488,7 @@
       "destino": "RECOGER CONSIGNACION CARTAGO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70512,7 +70512,7 @@
       "destino": "ENVIAR DEL MONTE",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70524,7 +70524,7 @@
       "destino": "UNILEVER",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70548,7 +70548,7 @@
       "destino": "CRISTAL / CENTRAL VETERINARIA",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70560,7 +70560,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70584,7 +70584,7 @@
       "destino": "KERRY",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -70596,7 +70596,7 @@
       "destino": "KERRY",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -70618,9 +70618,9 @@
       "fecha": "2026-10-28",
       "lugar": "UTH CALLE BLANCOS",
       "destino": "CLOROX",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -70630,7 +70630,67 @@
       "fecha": "2026-10-28",
       "lugar": "CLOROX",
       "destino": "ENTREGAR",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-037",
+      "fecha": "2026-10-28",
+      "lugar": "LEAHO",
+      "destino": "UNILEVER",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-038",
+      "fecha": "2026-10-28",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-039",
+      "fecha": "2026-10-28",
+      "lugar": "CAPRIS",
+      "destino": "SIGMA CARTAGO",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-040",
+      "fecha": "2026-10-28",
+      "lugar": "STOCK",
+      "destino": "SIGMA CARTAGO",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-041",
+      "fecha": "2026-10-28",
+      "lugar": "SIGMA CARTAGO",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
