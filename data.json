@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-28T20:47:17.726162+00:00",
+  "generated_at": "2026-10-28T22:43:34.364795+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-28T20:46:25.910Z"
+    "modified_time": "2026-10-28T22:36:51.426Z"
   },
   "records": [
     {
@@ -70224,7 +70224,7 @@
       "destino": "KERRY",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70236,7 +70236,7 @@
       "destino": "KERRY",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70248,7 +70248,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70272,9 +70272,9 @@
       "destino": "ENTREGAR CALLE BLANCOS",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "RECIBEN HASTA LAS 4 Y NO LES DA TIEMPO",
       "ubicacion": ""
     },
     {
@@ -70308,7 +70308,7 @@
       "destino": "RETIRAR JW",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70368,7 +70368,7 @@
       "destino": "ECOLAB",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70404,9 +70404,9 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE PASA PARA EL DIA SIGUIENTE POR PRESAS",
       "ubicacion": ""
     },
     {
@@ -70572,9 +70572,9 @@
       "destino": "SIGMA CARTAGO CONSIGNA",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE PASA AL DIA SIGUIENTE POR URGENCIAS",
       "ubicacion": ""
     },
     {
@@ -70608,7 +70608,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -70668,7 +70668,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -70680,7 +70680,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -70691,6 +70691,30 @@
       "lugar": "SIGMA CARTAGO",
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-042",
+      "fecha": "2026-10-28",
+      "lugar": "CARBONE",
+      "destino": "CERVECERIA",
+      "responsable": "MANUEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-043",
+      "fecha": "2026-10-28",
+      "lugar": "CERVECERIA",
+      "destino": "ENTREGAR",
+      "responsable": "MANUEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
