@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T23:48:44.547130+00:00",
+  "generated_at": "2026-10-28T15:09:28.345579+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-27T23:48:07.761Z"
+    "modified_time": "2026-10-28T15:06:04.947Z"
   },
   "records": [
     {
@@ -70155,7 +70155,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "EL PROVEEDOR NO TIENE EL MATERIAL HOY",
-      "ubicacion": ""
+      "ubicacion": "SAN JOSE"
     },
     {
       "id": "20261027-030",
@@ -70167,7 +70167,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "COYOL"
     },
     {
       "id": "20261027-031",
@@ -70179,7 +70179,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "PAVAS"
     },
     {
       "id": "20261027-032",
@@ -70191,7 +70191,7 @@
       "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "SAN JOSE"
     },
     {
       "id": "20261027-033",
@@ -70201,6 +70201,438 @@
       "responsable": "WAY",
       "compromiso": "",
       "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CALLE BLANCOS"
+    },
+    {
+      "id": "20261028-001",
+      "fecha": "2026-10-28",
+      "lugar": "SHERWIN WILLIAMS",
+      "destino": "KERRY",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-002",
+      "fecha": "2026-10-28",
+      "lugar": "PROLIM",
+      "destino": "KERRY",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-003",
+      "fecha": "2026-10-28",
+      "lugar": "WALMART",
+      "destino": "KERRY",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-004",
+      "fecha": "2026-10-28",
+      "lugar": "KERRY",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-005",
+      "fecha": "2026-10-28",
+      "lugar": "BEIRUTE",
+      "destino": "COCA COLA CALLE BLANCOS",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-006",
+      "fecha": "2026-10-28",
+      "lugar": "COCA COLA",
+      "destino": "ENTREGAR CALLE BLANCOS",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-007",
+      "fecha": "2026-10-28",
+      "lugar": "UTH CALLE BLANCOS",
+      "destino": "CONSIGNACION SIGMA / DEVOLUCION",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-008",
+      "fecha": "2026-10-28",
+      "lugar": "CURUBANDE",
+      "destino": "ENVIAR GLP / JW / ´POCHOTE",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-009",
+      "fecha": "2026-10-28",
+      "lugar": "CARMIOL",
+      "destino": "RETIRAR JW",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-010",
+      "fecha": "2026-10-28",
+      "lugar": "MEGALINEAS",
+      "destino": "SIGMA CARTAGO CONSIGNA",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-011",
+      "fecha": "2026-10-28",
+      "lugar": "PACIFICO EXPRES",
+      "destino": "FERRETECNICA",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-012",
+      "fecha": "2026-10-28",
+      "lugar": "ACEROS ESPECIALES",
+      "destino": "WALMART COYOL",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-013",
+      "fecha": "2026-10-28",
+      "lugar": "WALMART COYOL",
+      "destino": "TRAMITAR Y ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-014",
+      "fecha": "2026-10-28",
+      "lugar": "CONSTRUPLAZA",
+      "destino": "ECOLAB",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-015",
+      "fecha": "2026-10-28",
+      "lugar": "ECOLAB",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-016",
+      "fecha": "2026-10-28",
+      "lugar": "PROQUINAL",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-017",
+      "fecha": "2026-10-28",
+      "lugar": "COVIDEN",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-018",
+      "fecha": "2026-10-28",
+      "lugar": "ALAISA",
+      "destino": "FARIBETH",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-019",
+      "fecha": "2026-10-28",
+      "lugar": "FARIBETH",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-020",
+      "fecha": "2026-10-28",
+      "lugar": "LAGAR SAN JOAQUIN",
+      "destino": "CRISTAL",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-021",
+      "fecha": "2026-10-28",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-022",
+      "fecha": "2026-10-28",
+      "lugar": "GASTON",
+      "destino": "PROQUINAL",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-023",
+      "fecha": "2026-10-28",
+      "lugar": "KITTY",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-024",
+      "fecha": "2026-10-28",
+      "lugar": "ELECTROVAL",
+      "destino": "RECOGER CONSIGNACION CARTAGO",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-025",
+      "fecha": "2026-10-28",
+      "lugar": "MAFISA",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-026",
+      "fecha": "2026-10-28",
+      "lugar": "TRANSRODEN",
+      "destino": "ENVIAR DEL MONTE",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-027",
+      "fecha": "2026-10-28",
+      "lugar": "STEREN CURRI",
+      "destino": "UNILEVER",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-028",
+      "fecha": "2026-10-28",
+      "lugar": "ARSA",
+      "destino": "UNILEVER",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-029",
+      "fecha": "2026-10-28",
+      "lugar": "TECNOVAL",
+      "destino": "CRISTAL / CENTRAL VETERINARIA",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-030",
+      "fecha": "2026-10-28",
+      "lugar": "CENTRAL VET",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-031",
+      "fecha": "2026-10-28",
+      "lugar": "VEDOBA Y OBANDO",
+      "destino": "SIGMA CARTAGO CONSIGNA",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-032",
+      "fecha": "2026-10-28",
+      "lugar": "TECNOVAL",
+      "destino": "KERRY",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-033",
+      "fecha": "2026-10-28",
+      "lugar": "FERRETECNICA",
+      "destino": "KERRY",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-034",
+      "fecha": "2026-10-28",
+      "lugar": "KERRY",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-035",
+      "fecha": "2026-10-28",
+      "lugar": "UTH CALLE BLANCOS",
+      "destino": "CLOROX",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261028-036",
+      "fecha": "2026-10-28",
+      "lugar": "CLOROX",
+      "destino": "ENTREGAR",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
