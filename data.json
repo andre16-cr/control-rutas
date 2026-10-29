@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-28T23:26:01.157656+00:00",
+  "generated_at": "2026-10-29T14:54:59.917893+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-28T23:02:01.221Z"
+    "modified_time": "2026-10-29T14:54:50.104Z"
   },
   "records": [
     {
@@ -70536,7 +70536,7 @@
       "destino": "UNILEVER",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -70716,9 +70716,105 @@
       "destino": "ENTREGAR",
       "responsable": "MANUEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261029-001",
+      "fecha": "2026-10-29",
+      "lugar": "INDUNI",
+      "destino": "ENTREGAR X2 FACTURAS",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261029-002",
+      "fecha": "2026-10-29",
+      "lugar": "VEDOBA Y OBANDO",
+      "destino": "OFICINA",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "COMPROMISO",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261029-003",
+      "fecha": "2026-10-29",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "ANTES 12MD NOEL RECOGE GASTON",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261029-004",
+      "fecha": "2026-10-29",
+      "lugar": "WURTH",
+      "destino": "FRUCTA",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261029-005",
+      "fecha": "2026-10-29",
+      "lugar": "ENCOMIENDA BARQUERO",
+      "destino": "ENVIAR FRUCTA X2",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261029-006",
+      "fecha": "2026-10-29",
+      "lugar": "UTH CALLE BLANCOS",
+      "destino": "FRUCTA",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261029-007",
+      "fecha": "2026-10-29",
+      "lugar": "TORCASA",
+      "destino": "FRUCTA",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261029-008",
+      "fecha": "2026-10-29",
+      "lugar": "FAMA",
+      "destino": "SIGMA C",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "ENTREGAR A NOEL",
       "ubicacion": ""
     }
   ]
