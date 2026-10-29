@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-29T21:56:22.550198+00:00",
+  "generated_at": "2026-10-29T22:56:43.892523+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-29T21:29:19.672Z"
+    "modified_time": "2026-10-29T22:42:53.506Z"
   },
   "records": [
     {
@@ -71028,7 +71028,7 @@
       "destino": "SIGMA C",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -71040,7 +71040,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "CHITO RECOGE FAMA",
       "ubicacion": ""
@@ -71064,7 +71064,7 @@
       "destino": "KERRY",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -71256,7 +71256,7 @@
       "destino": "ENTREGAR",
       "responsable": "DYLAN",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -71270,6 +71270,66 @@
       "compromiso": "",
       "estado": "COMPLETADO",
       "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261029-047",
+      "fecha": "2026-10-29",
+      "lugar": "ARSA",
+      "destino": "OFICINA",
+      "responsable": "DYLAN",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261029-048",
+      "fecha": "2026-10-29",
+      "lugar": "TECNOVAL",
+      "destino": "UNILEVER",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261029-049",
+      "fecha": "2026-10-29",
+      "lugar": "TRAINFOR",
+      "destino": "JOSE ANTONIOI",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261029-050",
+      "fecha": "2026-10-29",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261029-051",
+      "fecha": "2026-10-29",
+      "lugar": "JOSE ANTONIOI",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
     }
