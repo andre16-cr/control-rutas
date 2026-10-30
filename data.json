@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T20:30:05.651864+00:00",
+  "generated_at": "2026-10-30T22:37:16.455967+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-30T20:27:10.172Z"
+    "modified_time": "2026-10-30T22:32:30.392Z"
   },
   "records": [
     {
@@ -71340,7 +71340,7 @@
       "destino": "WALMART COYOL",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -71532,7 +71532,7 @@
       "destino": "JW",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -71544,7 +71544,7 @@
       "destino": "ENVIAR JW",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -71664,7 +71664,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -71676,7 +71676,7 @@
       "destino": "JOSE ANTONIOI",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -71688,7 +71688,7 @@
       "destino": "ENTERGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -71700,7 +71700,7 @@
       "destino": "DEVOLUCION",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -71724,7 +71724,7 @@
       "destino": "FRUTERA LA PAZ",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -71736,7 +71736,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -71760,7 +71760,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -71817,6 +71817,30 @@
       "id": "20261030-041",
       "fecha": "2026-10-30",
       "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "MANUEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261030-042",
+      "fecha": "2026-10-30",
+      "lugar": "ROLINSA HEREDIA",
+      "destino": "CRISTAL",
+      "responsable": "MANUEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261030-043",
+      "fecha": "2026-10-30",
+      "lugar": "CRISTAL",
       "destino": "ENTREGAR",
       "responsable": "MANUEL",
       "compromiso": "",
