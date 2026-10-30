@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T18:40:47.451318+00:00",
+  "generated_at": "2026-10-30T20:30:05.651864+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-30T18:33:23.803Z"
+    "modified_time": "2026-10-30T20:27:10.172Z"
   },
   "records": [
     {
@@ -71520,7 +71520,7 @@
       "destino": "JW",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -71628,7 +71628,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -71712,7 +71712,7 @@
       "destino": "FRUTERA LA PAZ",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -71748,7 +71748,7 @@
       "destino": "CLOROX",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -71759,6 +71759,66 @@
       "lugar": "CLOROX",
       "destino": "ENTREGAR",
       "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261030-037",
+      "fecha": "2026-10-30",
+      "lugar": "TECNOVAL",
+      "destino": "DEVOLUCION",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261030-038",
+      "fecha": "2026-10-30",
+      "lugar": "JUMAR",
+      "destino": "CAJETA",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261030-039",
+      "fecha": "2026-10-30",
+      "lugar": "ELECTROMAZ",
+      "destino": "UNILEVER",
+      "responsable": "MANUEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261030-040",
+      "fecha": "2026-10-30",
+      "lugar": "SIESA",
+      "destino": "UNILEVER",
+      "responsable": "MANUEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261030-041",
+      "fecha": "2026-10-30",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "MANUEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
