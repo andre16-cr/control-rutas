@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T18:04:45.630442+00:00",
+  "generated_at": "2026-10-30T18:37:54.468732+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-30T18:00:57.545Z"
+    "modified_time": "2026-10-30T18:33:23.803Z"
   },
   "records": [
     {
@@ -71388,7 +71388,7 @@
       "destino": "ENTREGAR / DEVOLUCION",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -71674,7 +71674,7 @@
       "fecha": "2026-10-30",
       "lugar": "TRAIFOR",
       "destino": "JOSE ANTONIOI",
-      "responsable": "GABRIEL",
+      "responsable": "CHITO",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -71686,7 +71686,7 @@
       "fecha": "2026-10-30",
       "lugar": "JOSE ANTONIOI",
       "destino": "ENTERGAR",
-      "responsable": "GABRIEL",
+      "responsable": "CHITO",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -71698,7 +71698,7 @@
       "fecha": "2026-10-30",
       "lugar": "TRAINFOR",
       "destino": "DEVOLUCION",
-      "responsable": "GABRIEL",
+      "responsable": "CHITO",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -71746,7 +71746,7 @@
       "fecha": "2026-10-30",
       "lugar": "BUEN PRECIO",
       "destino": "CLOROX",
-      "responsable": "CHITO",
+      "responsable": "WAY",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -71758,7 +71758,7 @@
       "fecha": "2026-10-30",
       "lugar": "CLOROX",
       "destino": "ENTREGAR",
-      "responsable": "CHITO",
+      "responsable": "WAY",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
