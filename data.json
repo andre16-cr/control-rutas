@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T15:15:51.608390+00:00",
+  "generated_at": "2026-11-02T15:48:10.987066+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-10-30T23:44:08.032Z"
+    "modified_time": "2026-11-02T15:44:30.605Z"
   },
   "records": [
     {
@@ -72095,6 +72095,18 @@
       "lugar": "COMECA",
       "destino": "ENTREGAR",
       "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261102-022",
+      "fecha": "2026-11-02",
+      "lugar": "OFFICE DEPOT",
+      "destino": "DEL ORO",
+      "responsable": "CHITO",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
