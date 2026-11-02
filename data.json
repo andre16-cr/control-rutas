@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T18:11:53.068029+00:00",
+  "generated_at": "2026-11-02T20:05:43.829944+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-02T17:50:03.711Z"
+    "modified_time": "2026-11-02T19:58:50.124Z"
   },
   "records": [
     {
@@ -71856,7 +71856,7 @@
       "destino": "KERRY",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -71880,7 +71880,7 @@
       "destino": "KERRY",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -71892,7 +71892,7 @@
       "destino": "KERRY",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -71916,7 +71916,7 @@
       "destino": "SIGMA COYOL",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -71928,9 +71928,9 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "CEDI COYOL",
+      "observaciones": "SE CAMBIA DE DIA POR EL TAMAÑO DEL MATERIAL",
       "ubicacion": ""
     },
     {
@@ -71976,7 +71976,7 @@
       "destino": "DEL ORO",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72012,9 +72012,9 @@
       "destino": "WALMART COYOL",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO HABIA MATERIAL DISPONIBLE Y SE REVISA CON EL CLIENTE",
       "ubicacion": ""
     },
     {
@@ -72036,9 +72036,9 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO HABIA MATERIAL DISPONIBLE Y SE REVISA CON EL CLIENTE",
       "ubicacion": ""
     },
     {
@@ -72072,7 +72072,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72132,7 +72132,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -72154,7 +72154,7 @@
       "fecha": "2026-11-02",
       "lugar": "TELTRON",
       "destino": "ALCAMES",
-      "responsable": "CHITO",
+      "responsable": "GABRIEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -72166,7 +72166,7 @@
       "fecha": "2026-11-02",
       "lugar": "ALCAMES",
       "destino": "ENTREGAR",
-      "responsable": "CHITO",
+      "responsable": "GABRIEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -72181,6 +72181,18 @@
       "responsable": "CHITO",
       "compromiso": "",
       "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261102-029",
+      "fecha": "2026-11-02",
+      "lugar": "TRAINFOR",
+      "destino": "DEVOLUCION",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
