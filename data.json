@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T15:48:10.987066+00:00",
+  "generated_at": "2026-11-02T18:11:53.068029+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-02T15:44:30.605Z"
+    "modified_time": "2026-11-02T17:50:03.711Z"
   },
   "records": [
     {
@@ -71868,7 +71868,7 @@
       "destino": "KERRY",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -71940,7 +71940,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -71952,7 +71952,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72000,7 +72000,7 @@
       "destino": "WALMART COYOL",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72024,7 +72024,7 @@
       "destino": "WALMART COYOL",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72060,7 +72060,7 @@
       "destino": "COVIDEN",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72084,7 +72084,7 @@
       "destino": "COMECA",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72096,7 +72096,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72108,8 +72108,80 @@
       "destino": "DEL ORO",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261102-023",
+      "fecha": "2026-11-02",
+      "lugar": "BUEN PRECIO",
+      "destino": "SIGMA CARTAGO",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "X2",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261102-024",
+      "fecha": "2026-11-02",
+      "lugar": "MAFISA",
+      "destino": "SIGMA CARTAGO",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261102-025",
+      "fecha": "2026-11-02",
+      "lugar": "SIGMA CARTAGO",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261102-026",
+      "fecha": "2026-11-02",
+      "lugar": "TELTRON",
+      "destino": "ALCAMES",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261102-027",
+      "fecha": "2026-11-02",
+      "lugar": "ALCAMES",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261102-028",
+      "fecha": "2026-11-02",
+      "lugar": "IESA CALLE BLANCOS",
+      "destino": "OFICINA",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
     }
