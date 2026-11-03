@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T15:07:13.752589+00:00",
+  "generated_at": "2026-11-03T16:03:07.293233+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-03T15:05:23.159Z"
+    "modified_time": "2026-11-03T16:01:40.388Z"
   },
   "records": [
     {
@@ -72204,7 +72204,7 @@
       "destino": "JW",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72240,7 +72240,7 @@
       "destino": "WESTIN",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72396,7 +72396,7 @@
       "destino": "CLOROX",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72492,7 +72492,7 @@
       "destino": "ENVIAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72504,7 +72504,7 @@
       "destino": "ENVIAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72567,6 +72567,114 @@
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261103-032",
+      "fecha": "2026-11-03",
+      "lugar": "IESA CURRIDABAT",
+      "destino": "CRISTAL",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261103-033",
+      "fecha": "2026-11-03",
+      "lugar": "CETRANSA",
+      "destino": "CRISTAL",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261103-034",
+      "fecha": "2026-11-03",
+      "lugar": "EPA CURRIDABAT",
+      "destino": "CRISTAL",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261103-035",
+      "fecha": "2026-11-03",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261103-036",
+      "fecha": "2026-11-03",
+      "lugar": "TORCASA",
+      "destino": "SIGMA CARTAGO",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261103-037",
+      "fecha": "2026-11-03",
+      "lugar": "SIGMA CARTAGO",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261103-038",
+      "fecha": "2026-11-03",
+      "lugar": "CONSTRUPLAZA ESCAZU",
+      "destino": "CRISTAL",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261103-039",
+      "fecha": "2026-11-03",
+      "lugar": "TALLER ALFA",
+      "destino": "CRISTAL",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261103-040",
+      "fecha": "2026-11-03",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "ANTES 1130",
       "ubicacion": ""
     }
   ]
