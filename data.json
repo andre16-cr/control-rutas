@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-04T22:01:42.858772+00:00",
+  "generated_at": "2026-11-04T22:10:45.942798+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-04T21:50:51.693Z"
+    "modified_time": "2026-11-04T22:10:20.451Z"
   },
   "records": [
     {
@@ -73232,7 +73232,7 @@
     {
       "id": "20261104-044",
       "fecha": "2026-11-04",
-      "lugar": "EPA CURRIDABAT",
+      "lugar": "EPA",
       "destino": "UNILEVER",
       "responsable": "CHITO",
       "compromiso": "",
