@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-04T19:19:01.735689+00:00",
+  "generated_at": "2026-11-04T22:01:42.858772+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-04T19:09:02.917Z"
+    "modified_time": "2026-11-04T21:50:51.693Z"
   },
   "records": [
     {
@@ -72718,11 +72718,11 @@
       "fecha": "2026-11-04",
       "lugar": "WALMART COYOL",
       "destino": "ENTREGAR",
-      "responsable": "GABRIEL",
+      "responsable": "WAY",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "LA LLEVA WAGNER",
       "ubicacion": ""
     },
     {
@@ -72730,9 +72730,9 @@
       "fecha": "2026-11-04",
       "lugar": "CHIQUITA",
       "destino": "ENVIAR ENCOMIENDA MENDEZ",
-      "responsable": "GABRIEL",
+      "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72768,9 +72768,9 @@
       "destino": "EMVIAR JW",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "FALTA MATERIAL DE MAREVE",
       "ubicacion": ""
     },
     {
@@ -72780,9 +72780,9 @@
       "destino": "TRAMITAR X3",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO LLEVAR A TRAMITE (INDICADO POR PRISCILLA)",
       "ubicacion": "SAN SEBAS"
     },
     {
@@ -72804,7 +72804,7 @@
       "destino": "SIGMA MTV CONSIGNACION",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72874,9 +72874,9 @@
       "fecha": "2026-11-04",
       "lugar": "INDUDI",
       "destino": "KERRY",
-      "responsable": "NOEL",
+      "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CASTELLA"
@@ -72898,9 +72898,9 @@
       "fecha": "2026-11-04",
       "lugar": "KERRY",
       "destino": "ENTREGAR X3 Y TRAMITAR X1",
-      "responsable": "NOEL",
+      "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -72924,7 +72924,7 @@
       "destino": "EXTRALUM HEREDIA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ALAJUELA"
@@ -72936,7 +72936,7 @@
       "destino": "ENTREGAR EN HEREDIA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72948,9 +72948,9 @@
       "destino": "UNILEVER / DEL MONTE",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO ESTABA FACTURA DEL MONTE",
       "ubicacion": "GOICOECHEA"
     },
     {
@@ -73056,7 +73056,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -73068,7 +73068,7 @@
       "destino": "SIGMA MTV CONSIGNACION",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HATILLO"
@@ -73152,7 +73152,7 @@
       "destino": "OFICINA",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BARREAL"
@@ -73176,7 +73176,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -73200,7 +73200,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "URUCA - HOSP. MEXICO"
@@ -73223,6 +73223,30 @@
       "lugar": "UNILEVER",
       "destino": "ENTREGAR",
       "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
+    },
+    {
+      "id": "20261104-044",
+      "fecha": "2026-11-04",
+      "lugar": "EPA CURRIDABAT",
+      "destino": "UNILEVER",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261104-045",
+      "fecha": "2026-11-04",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
