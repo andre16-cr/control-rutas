@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T21:56:56.446001+00:00",
+  "generated_at": "2026-11-05T22:36:13.186965+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-05T21:32:04.669Z"
+    "modified_time": "2026-11-05T22:18:20.077Z"
   },
   "records": [
     {
@@ -73332,7 +73332,7 @@
       "destino": "OFICINA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -73668,7 +73668,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "PAVAS"
