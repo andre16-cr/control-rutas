@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-04T22:10:45.942798+00:00",
+  "generated_at": "2026-11-05T16:37:13.305005+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-04T22:10:20.451Z"
+    "modified_time": "2026-11-05T16:35:59.978Z"
   },
   "records": [
     {
@@ -72720,7 +72720,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "LA LLEVA WAGNER",
       "ubicacion": ""
@@ -72852,7 +72852,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -72960,7 +72960,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -72972,7 +72972,7 @@
       "destino": "PROYECTOS",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -73008,7 +73008,7 @@
       "destino": "SIGMA MTV CONSIGNACION",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "TIBAS"
@@ -73020,7 +73020,7 @@
       "destino": "SIGMA MTV CONSIGNACION",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -73092,7 +73092,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -73140,7 +73140,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -73236,7 +73236,7 @@
       "destino": "UNILEVER",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -73248,10 +73248,310 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
+    },
+    {
+      "id": "20261105-001",
+      "fecha": "2026-11-05",
+      "lugar": "DITESA",
+      "destino": "DEVOLUCION",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20261105-002",
+      "fecha": "2026-11-05",
+      "lugar": "MARVALE",
+      "destino": "OFICINA",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "BELEN"
+    },
+    {
+      "id": "20261105-003",
+      "fecha": "2026-11-05",
+      "lugar": "MAREVE",
+      "destino": "JW",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "TRASLADO",
+      "urgencia": false,
+      "observaciones": "SE ENTREGA EL LUNES, MATERIAL NO ESTABA",
+      "ubicacion": "SANTO DOMINGO"
+    },
+    {
+      "id": "20261105-004",
+      "fecha": "2026-11-05",
+      "lugar": "JW",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "TRASLADO",
+      "urgencia": false,
+      "observaciones": "SE ENTREGA EL LUNES, MATERIAL NO ESTABA",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261105-005",
+      "fecha": "2026-11-05",
+      "lugar": "BUEN PRECIO",
+      "destino": "KERRY",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "CURRIDABAT"
+    },
+    {
+      "id": "20261105-006",
+      "fecha": "2026-11-05",
+      "lugar": "MAFISA",
+      "destino": "UNILEVER",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "CALLE BLANCOS"
+    },
+    {
+      "id": "20261105-007",
+      "fecha": "2026-11-05",
+      "lugar": "REFRACTARIOS",
+      "destino": "OFICINA",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20261105-008",
+      "fecha": "2026-11-05",
+      "lugar": "KERRY",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20261105-009",
+      "fecha": "2026-11-05",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "BELEN"
+    },
+    {
+      "id": "20261105-010",
+      "fecha": "2026-11-05",
+      "lugar": "WALMART COYOL",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261105-011",
+      "fecha": "2026-11-05",
+      "lugar": "BUEN PRECIO",
+      "destino": "ALIMENTOS BERMUDEZ",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "CURRIDABAT"
+    },
+    {
+      "id": "20261105-012",
+      "fecha": "2026-11-05",
+      "lugar": "ARSA",
+      "destino": "DEVOLUCION",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "GOICOECHEA"
+    },
+    {
+      "id": "20261105-013",
+      "fecha": "2026-11-05",
+      "lugar": "MAFISA",
+      "destino": "ALIMENTOS BERMUDEZ",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "CALLE BLANCOS"
+    },
+    {
+      "id": "20261105-014",
+      "fecha": "2026-11-05",
+      "lugar": "ALIMENTOS BERMUDEZ",
+      "destino": "ENTREGAR ENCOMIENDA",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "ENC."
+    },
+    {
+      "id": "20261105-015",
+      "fecha": "2026-11-05",
+      "lugar": "ELECTRO BEYCO",
+      "destino": "ENTREGAR ENCOMIENDA",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261105-016",
+      "fecha": "2026-11-05",
+      "lugar": "DEL MONTE",
+      "destino": "ENTREGAR PENDIENTE",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "ENC. CARIBEÑOS"
+    },
+    {
+      "id": "20261105-017",
+      "fecha": "2026-11-05",
+      "lugar": "SIGMA CARTAGO",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261105-018",
+      "fecha": "2026-11-05",
+      "lugar": "SIGMA CARTAGO",
+      "destino": "TRAMITAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261105-019",
+      "fecha": "2026-11-05",
+      "lugar": "SIGMA CARTAGO",
+      "destino": "RETIRAR MANGUERA",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261105-020",
+      "fecha": "2026-11-05",
+      "lugar": "MEGALINES",
+      "destino": "CRISTAL",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261105-021",
+      "fecha": "2026-11-05",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261105-022",
+      "fecha": "2026-11-05",
+      "lugar": "WURTH",
+      "destino": "FRUCTA",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261105-023",
+      "fecha": "2026-11-05",
+      "lugar": "FRUCTA",
+      "destino": "ENVIAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261105-024",
+      "fecha": "2026-11-05",
+      "lugar": "BUEN PRECIO",
+      "destino": "CRISTAL",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CURRIDABAT"
+    },
+    {
+      "id": "20261105-025",
+      "fecha": "2026-11-05",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
     }
   ]
 }
