@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T16:37:13.305005+00:00",
+  "generated_at": "2026-11-05T17:30:38.962789+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-05T16:35:59.978Z"
+    "modified_time": "2026-11-05T17:12:05.484Z"
   },
   "records": [
     {
@@ -73320,7 +73320,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CALLE BLANCOS"
@@ -73368,7 +73368,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -73500,7 +73500,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -73512,7 +73512,7 @@
       "destino": "FRUCTA",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -73524,7 +73524,7 @@
       "destino": "ENVIAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -73536,7 +73536,7 @@
       "destino": "CRISTAL",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "CURRIDABAT"
@@ -73552,6 +73552,54 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261105-026",
+      "fecha": "2026-11-05",
+      "lugar": "TECNOVAL",
+      "destino": "KERRY",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20261105-027",
+      "fecha": "2026-11-05",
+      "lugar": "KERRY",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20261105-028",
+      "fecha": "2026-11-05",
+      "lugar": "ALMACENES UNIDOS",
+      "destino": "DEVOLUCION / SIGMA C",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HATILLO"
+    },
+    {
+      "id": "20261105-029",
+      "fecha": "2026-11-05",
+      "lugar": "SIGMA C",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
     }
   ]
 }
