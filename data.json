@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T20:18:28.831341+00:00",
+  "generated_at": "2026-11-05T21:56:56.446001+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-05T20:14:46.120Z"
+    "modified_time": "2026-11-05T21:32:04.669Z"
   },
   "records": [
     {
@@ -73596,7 +73596,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -73608,7 +73608,7 @@
       "destino": "UNILEVER",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -73620,7 +73620,7 @@
       "destino": "UNILEVER",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -73644,10 +73644,34 @@
       "destino": "OFICINA",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BARRIO MEXICO"
+    },
+    {
+      "id": "20261105-034",
+      "fecha": "2026-11-05",
+      "lugar": "TECNOVAL",
+      "destino": "DEMASA",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20261105-035",
+      "fecha": "2026-11-05",
+      "lugar": "DEMASA",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
     }
   ]
 }
