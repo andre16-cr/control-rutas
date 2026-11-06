@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T15:51:35.317982+00:00",
+  "generated_at": "2026-11-06T17:22:14.555523+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-06T15:26:26.326Z"
+    "modified_time": "2026-11-06T17:13:59.708Z"
   },
   "records": [
     {
@@ -73680,7 +73680,7 @@
       "destino": "CAFE REY",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -73704,7 +73704,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -73788,7 +73788,7 @@
       "destino": "ISABAL (JARVIN)",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -73812,7 +73812,7 @@
       "destino": "WALMART COYOL",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -73872,7 +73872,7 @@
       "destino": "ENVIAR ALIMENTOS BERMUDEZ",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -73884,7 +73884,7 @@
       "destino": "ENVIAR DEMASA GUAPILES",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -73932,7 +73932,7 @@
       "destino": "ENTREGAR PALMARES",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -73980,7 +73980,7 @@
       "destino": "UNILEVER",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CALLE BLANCOS"
@@ -73992,7 +73992,7 @@
       "destino": "UNILEVER",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
@@ -74056,6 +74056,78 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20261106-033",
+      "fecha": "2026-11-06",
+      "lugar": "CENSOLSA",
+      "destino": "WALMART COYOL",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20261106-034",
+      "fecha": "2026-11-06",
+      "lugar": "WALMART COYOL",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261106-035",
+      "fecha": "2026-11-06",
+      "lugar": "BUEN PRECIO",
+      "destino": "OFICINA",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CURRIDABAT"
+    },
+    {
+      "id": "20261106-036",
+      "fecha": "2026-11-06",
+      "lugar": "EPA CURRIDABAT",
+      "destino": "OFICINA",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261106-037",
+      "fecha": "2026-11-06",
+      "lugar": "MAFISA",
+      "destino": "ALCAMES",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CALLE BLANCOS"
+    },
+    {
+      "id": "20261106-038",
+      "fecha": "2026-11-06",
+      "lugar": "ALCAMES",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SAN SEBAS"
     }
   ]
 }
