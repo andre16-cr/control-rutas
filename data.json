@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T17:36:02.489230+00:00",
+  "generated_at": "2026-11-06T21:28:29.471840+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-06T17:13:59.708Z"
+    "modified_time": "2026-11-06T21:15:21.609Z"
   },
   "records": [
     {
@@ -73716,7 +73716,7 @@
       "destino": "COMECA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -73728,9 +73728,9 @@
       "destino": "COMECA / METALES FLIX",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE NEGOCIA CON VICTOR Y SE PASA A LUNES POR URGENCIAS",
       "ubicacion": ""
     },
     {
@@ -73740,9 +73740,9 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE NEGOCIA CON VICTOR Y SE PASA A LUNES POR URGENCIAS",
       "ubicacion": "URUCA"
     },
     {
@@ -73752,9 +73752,9 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE NEGOCIA CON VICTOR Y SE PASA A LUNES POR URGENCIAS",
       "ubicacion": ""
     },
     {
@@ -73800,7 +73800,7 @@
       "destino": "ENTREGAR A JARVIN",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -73824,7 +73824,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -73848,7 +73848,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -73860,9 +73860,9 @@
       "destino": "DEVOLUCION",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE TRASLADA PARA LUNES PARA CUMPLIR URGENCIAS",
       "ubicacion": ""
     },
     {
@@ -73908,7 +73908,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
@@ -73944,7 +73944,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -73956,7 +73956,7 @@
       "destino": "KERRY",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN SEBASTIAN, SJ"
@@ -73968,7 +73968,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -74004,7 +74004,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -74038,9 +74038,9 @@
       "fecha": "2026-11-06",
       "lugar": "FRUTERA LA PAZ",
       "destino": "ENVIAR",
-      "responsable": "CHITO",
+      "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "ENCOMIENDA"
@@ -74052,7 +74052,7 @@
       "destino": "OFICINA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -74076,7 +74076,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -74112,7 +74112,7 @@
       "destino": "ALCAMES",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "CALLE BLANCOS"
@@ -74124,10 +74124,58 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "SAN SEBAS"
+    },
+    {
+      "id": "20261106-039",
+      "fecha": "2026-11-06",
+      "lugar": "TECNOVAL",
+      "destino": "FRUTERA LA PAZ",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20261106-040",
+      "fecha": "2026-11-06",
+      "lugar": "FRUTERA LA PAZ",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ENCOMIENDA"
+    },
+    {
+      "id": "20261106-041",
+      "fecha": "2026-11-06",
+      "lugar": "EPA BELEN",
+      "destino": "UNILEVER",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261106-042",
+      "fecha": "2026-11-06",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
     }
   ]
 }
