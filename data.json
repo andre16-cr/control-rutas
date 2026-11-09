@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-09T16:03:38.275979+00:00",
+  "generated_at": "2026-11-09T19:57:53.344869+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-09T15:56:51.405Z"
+    "modified_time": "2026-11-09T19:49:54.085Z"
   },
   "records": [
     {
@@ -74184,7 +74184,7 @@
       "destino": "DEVOLUCION",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74220,9 +74220,9 @@
       "destino": "ENVIASR JW",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE TRASLADA PARA DARLE PRIORIDAD A WALMART",
       "ubicacion": ""
     },
     {
@@ -74232,7 +74232,7 @@
       "destino": "ENTRTEGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74244,7 +74244,7 @@
       "destino": "WALMART COYOL",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74268,9 +74268,9 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE TRASLADA PARA DARLE PRIORIDAD A WALMART",
       "ubicacion": "HEREDIA"
     },
     {
@@ -74301,10 +74301,10 @@
       "id": "20261109-011",
       "fecha": "2026-11-09",
       "lugar": "FABRICA",
-      "destino": "COMECA",
+      "destino": "COMECA / METALES FLIX",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "COMPROMISO",
       "ubicacion": "HEREDIA"
@@ -74340,7 +74340,7 @@
       "destino": "RIMAC",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ALAJUELA"
@@ -74352,7 +74352,7 @@
       "destino": "RIMAC",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -74364,7 +74364,7 @@
       "destino": "RIMAC",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74386,9 +74386,9 @@
       "fecha": "2026-11-09",
       "lugar": "ARSA",
       "destino": "CLOROX",
-      "responsable": "WAY",
+      "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -74398,9 +74398,9 @@
       "fecha": "2026-11-09",
       "lugar": "UNIDOS MAYOREO",
       "destino": "CLOROX",
-      "responsable": "WAY",
+      "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HATILLO SAN JOSE"
@@ -74410,9 +74410,9 @@
       "fecha": "2026-11-09",
       "lugar": "CAPRIS",
       "destino": "CLOROX",
-      "responsable": "WAY",
+      "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -74422,7 +74422,7 @@
       "fecha": "2026-11-09",
       "lugar": "CLOROX",
       "destino": "ENTREGAR",
-      "responsable": "WAY",
+      "responsable": "CHITO",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -74436,7 +74436,7 @@
       "destino": "DEVOLUCION MANGUERA",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HATILLO"
@@ -74460,7 +74460,7 @@
       "destino": "PARADISE",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -74484,7 +74484,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
@@ -74518,7 +74518,7 @@
       "fecha": "2026-11-09",
       "lugar": "KAMUK",
       "destino": "ENTREGAR",
-      "responsable": "CHITO",
+      "responsable": "WAY",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -74544,7 +74544,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "SAN SEBAS"
@@ -74556,7 +74556,7 @@
       "destino": "JW X2",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SANTO DOMINGO"
@@ -74588,14 +74588,14 @@
     {
       "id": "20261109-035",
       "fecha": "2026-11-09",
-      "lugar": "NAVATEC",
+      "lugar": "NOVATEC",
       "destino": "CORRUGADOS ATLANTICO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
-      "ubicacion": ""
+      "ubicacion": "SANTA ANA"
     },
     {
       "id": "20261109-036",
@@ -74640,7 +74640,7 @@
       "destino": "CLOROX",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -74676,7 +74676,7 @@
       "destino": "ALCAMES",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74724,7 +74724,7 @@
       "destino": "WALMART COYOL",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -74760,10 +74760,34 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
+    },
+    {
+      "id": "20261109-050",
+      "fecha": "2026-11-09",
+      "lugar": "VIBO",
+      "destino": "ELECTRO BEYCO",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BARRIO MEXICO"
+    },
+    {
+      "id": "20261109-051",
+      "fecha": "2026-11-09",
+      "lugar": "ELECTRO BEYCO",
+      "destino": "ENVIAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
     }
   ]
 }
