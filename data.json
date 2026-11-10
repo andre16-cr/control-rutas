@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T18:25:56.779219+00:00",
+  "generated_at": "2026-11-10T18:44:30.306660+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-10T18:08:16.063Z"
+    "modified_time": "2026-11-10T18:36:50.286Z"
   },
   "records": [
     {
@@ -75304,6 +75304,30 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "SAN FRANCISCO"
+    },
+    {
+      "id": "20261110-044",
+      "fecha": "2026-11-10",
+      "lugar": "UTH URUCA",
+      "destino": "SIGMA CARTAGO",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261110-045",
+      "fecha": "2026-11-10",
+      "lugar": "SIGMA CARTAGO",
+      "destino": "ENTREGAR",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
     }
   ]
 }
