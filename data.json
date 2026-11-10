@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T20:55:18.885322+00:00",
+  "generated_at": "2026-11-10T22:45:50.150581+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-10T20:31:59.394Z"
+    "modified_time": "2026-11-10T22:34:33.058Z"
   },
   "records": [
     {
@@ -74868,7 +74868,7 @@
       "destino": "ENVIAR ALIMENTOS BERMUDEZ X3",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75072,7 +75072,7 @@
       "destino": "ENVIAR CUTRES",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75168,7 +75168,7 @@
       "destino": "ENTREGAR",
       "responsable": "PIRI",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -75180,7 +75180,7 @@
       "destino": "ENTREGAR",
       "responsable": "PIRI",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75192,7 +75192,7 @@
       "destino": "TRAER OFICINA",
       "responsable": "PIRI",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75204,7 +75204,7 @@
       "destino": "TRAER OFICINA",
       "responsable": "PIRI",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75216,7 +75216,7 @@
       "destino": "ENTREGAR",
       "responsable": "PIRI",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -75324,10 +75324,34 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
+    },
+    {
+      "id": "20261110-046",
+      "fecha": "2026-11-10",
+      "lugar": "REALTEC",
+      "destino": "UNILEVER",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261110-047",
+      "fecha": "2026-11-10",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
     }
   ]
 }
