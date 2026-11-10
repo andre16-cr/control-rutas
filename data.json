@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-09T19:58:41.346925+00:00",
+  "generated_at": "2026-11-10T14:36:40.342313+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-09T19:49:54.085Z"
+    "modified_time": "2026-11-10T14:30:16.785Z"
   },
   "records": [
     {
@@ -74208,9 +74208,9 @@
       "destino": "JW",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO DIO TIEMPO POR URGENCIAS",
       "ubicacion": ""
     },
     {
@@ -74256,7 +74256,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74280,7 +74280,7 @@
       "destino": "VEGETALES FRESQUITA",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74292,7 +74292,7 @@
       "destino": "ENTREGAR VEGETALES",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74316,9 +74316,9 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "COMPROMISO",
+      "observaciones": "NO DIO TIEMPO POR URGENCIAS",
       "ubicacion": "URUCA"
     },
     {
@@ -74328,9 +74328,9 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "COMPROMISO",
+      "observaciones": "NO DIO TIEMPO POR URGENCIAS",
       "ubicacion": ""
     },
     {
@@ -74376,7 +74376,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -74424,7 +74424,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN FRANCISCO"
@@ -74448,7 +74448,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "LA LIMA"
@@ -74472,7 +74472,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -74496,7 +74496,7 @@
       "destino": "ENTREGAR / TRAMITAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74508,7 +74508,7 @@
       "destino": "KAMUK",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -74520,7 +74520,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74566,9 +74566,9 @@
       "fecha": "2026-11-09",
       "lugar": "CONTRUPLAZA ESCAZU",
       "destino": "JW",
-      "responsable": "GABRIEL",
+      "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74578,11 +74578,11 @@
       "fecha": "2026-11-09",
       "lugar": "CURUBANDE",
       "destino": "ENVIAR JW",
-      "responsable": "GABRIEL",
+      "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE TRASLADA PARA DARLE PRIORIDAD A WALMART",
       "ubicacion": ""
     },
     {
@@ -74604,7 +74604,7 @@
       "destino": "ENVIAR CORRUGADOS ATLANTICO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74630,7 +74630,7 @@
       "compromiso": "",
       "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "SE TRASLADA PARA ENTREGAR 2 OC JUNTAS",
+      "observaciones": "SE TRASLADA PARA ENTREGAR 3 OC JUNTAS",
       "ubicacion": ""
     },
     {
@@ -74664,7 +74664,7 @@
       "destino": "ENTREGAR CLOROX",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN FRANCISCO"
@@ -74688,7 +74688,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN SEBAS"
@@ -74700,9 +74700,9 @@
       "destino": "MEXIFRUTAS",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO LE DIO TIEMPO POR PROBLEMAS CON LA CADENA",
       "ubicacion": ""
     },
     {
@@ -74712,9 +74712,9 @@
       "destino": "ENVIAR MEXIFRUTAS",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO LE DIO TIEMPO POR PROBLEMAS CON LA CADENA",
       "ubicacion": ""
     },
     {
@@ -74736,7 +74736,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -74772,7 +74772,7 @@
       "destino": "ELECTRO BEYCO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BARRIO MEXICO"
@@ -74784,10 +74784,130 @@
       "destino": "ENVIAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
+    },
+    {
+      "id": "20261110-001",
+      "fecha": "2026-11-10",
+      "lugar": "ALMACEN FISCAL",
+      "destino": "TRAER OFICINA",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261110-002",
+      "fecha": "2026-11-10",
+      "lugar": "BARQUERO",
+      "destino": "ENVIAR FRUCTA / MEXIFRUTA",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261110-003",
+      "fecha": "2026-11-10",
+      "lugar": "TUBO COBRE",
+      "destino": "CORYMEX",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261110-004",
+      "fecha": "2026-11-10",
+      "lugar": "TECNOVAL",
+      "destino": "DEMASA / ALIMENTES BERMUDEZ",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20261110-005",
+      "fecha": "2026-11-10",
+      "lugar": "DEMASA PAVAS",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261110-006",
+      "fecha": "2026-11-10",
+      "lugar": "PSJ",
+      "destino": "ALIMENTOS BERMUDEZ TRAER OFICINA",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "SE SEPARAN EN LA OFICINA",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261110-007",
+      "fecha": "2026-11-10",
+      "lugar": "MEJIA",
+      "destino": "ENVIAR ALIMENTOS BERMUDEZ X3",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261110-008",
+      "fecha": "2026-11-10",
+      "lugar": "ARSA",
+      "destino": "",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "GOICOECHEA"
+    },
+    {
+      "id": "20261110-009",
+      "fecha": "2026-11-10",
+      "lugar": "FERRETECNICA",
+      "destino": "",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "SAN FRANCISCO"
+    },
+    {
+      "id": "20261110-010",
+      "fecha": "2026-11-10",
+      "lugar": "TRES ASES",
+      "destino": "",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "SAN JOSE"
     }
   ]
 }
