@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T14:39:23.021598+00:00",
+  "generated_at": "2026-11-10T18:25:56.779219+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-10T14:36:41.557Z"
+    "modified_time": "2026-11-10T18:08:16.063Z"
   },
   "records": [
     {
@@ -74796,7 +74796,7 @@
       "destino": "TRAER OFICINA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74820,7 +74820,7 @@
       "destino": "CORYMEX",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74832,7 +74832,7 @@
       "destino": "DEMASA / ALIMENTES BERMUDEZ",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -74844,7 +74844,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74856,7 +74856,7 @@
       "destino": "ALIMENTOS BERMUDEZ TRAER OFICINA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "SE SEPARAN EN LA OFICINA",
       "ubicacion": ""
@@ -74880,7 +74880,7 @@
       "destino": "UNILEVER",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -74892,7 +74892,7 @@
       "destino": "UNILEVER",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN FRANCISCO"
@@ -74904,7 +74904,7 @@
       "destino": "UNILEVER",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
@@ -74916,7 +74916,7 @@
       "destino": "UNILEVER",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74928,7 +74928,7 @@
       "destino": "UNILEVER",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74964,7 +74964,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -74976,7 +74976,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -74988,7 +74988,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75000,7 +75000,7 @@
       "destino": "TECNIPLEX",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75012,7 +75012,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75024,7 +75024,7 @@
       "destino": "DEL ORO",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75036,7 +75036,7 @@
       "destino": "DEL ORO",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75048,7 +75048,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -75084,7 +75084,7 @@
       "destino": "DOS PINOS COYOL",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SANTO DOMINGO"
@@ -75096,7 +75096,7 @@
       "destino": "DOS PINOS COYOL",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75118,9 +75118,9 @@
       "fecha": "2026-11-10",
       "lugar": "INODOROS BOLAÑOS",
       "destino": "WESTIN",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "PIRI",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN SEBASTIAN, SJ"
@@ -75130,9 +75130,9 @@
       "fecha": "2026-11-10",
       "lugar": "CURUBANDE",
       "destino": "ENVIAR WESTIN",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "PIRI",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75142,9 +75142,9 @@
       "fecha": "2026-11-10",
       "lugar": "LAGAR URUCA",
       "destino": "PARA JW",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "PIRI",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75154,9 +75154,9 @@
       "fecha": "2026-11-10",
       "lugar": "CURUBANDE",
       "destino": "ENVIAR JW X 2OC",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "PIRI",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75166,7 +75166,7 @@
       "fecha": "2026-11-10",
       "lugar": "COMECA",
       "destino": "ENTREGAR",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "PIRI",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -75178,7 +75178,7 @@
       "fecha": "2026-11-10",
       "lugar": "METALES FLIX",
       "destino": "ENTREGAR",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "PIRI",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -75190,7 +75190,7 @@
       "fecha": "2026-11-10",
       "lugar": "MUEBLES ALVARADO",
       "destino": "TRAER OFICINA",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "PIRI",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -75202,7 +75202,7 @@
       "fecha": "2026-11-10",
       "lugar": "EPA",
       "destino": "TRAER OFICINA",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "PIRI",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -75214,12 +75214,96 @@
       "fecha": "2026-11-10",
       "lugar": "CRISTAL",
       "destino": "ENTREGAR",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "PIRI",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261110-037",
+      "fecha": "2026-11-10",
+      "lugar": "CAPRIS",
+      "destino": "CRISTAL",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "URUCA"
+    },
+    {
+      "id": "20261110-038",
+      "fecha": "2026-11-10",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261110-039",
+      "fecha": "2026-11-10",
+      "lugar": "SIESA",
+      "destino": "UNILEVER",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SANTA ANA"
+    },
+    {
+      "id": "20261110-040",
+      "fecha": "2026-11-10",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
+    },
+    {
+      "id": "20261110-041",
+      "fecha": "2026-11-10",
+      "lugar": "OFICINA",
+      "destino": "LACOFA",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261110-042",
+      "fecha": "2026-11-10",
+      "lugar": "LACOFA",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261110-043",
+      "fecha": "2026-11-10",
+      "lugar": "CLOROX",
+      "destino": "OFICINA",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "SAN FRANCISCO"
     }
   ]
 }
