@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T14:53:23.169756+00:00",
+  "generated_at": "2026-11-11T17:01:24.772510+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-11T14:49:42.880Z"
+    "modified_time": "2026-11-11T16:57:31.434Z"
   },
   "records": [
     {
@@ -75384,7 +75384,7 @@
       "destino": "FIRESTONE",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -75430,9 +75430,9 @@
       "fecha": "2026-11-11",
       "lugar": "TECNOVAL",
       "destino": "DEL ORO / CITRICOS",
-      "responsable": "NOEL",
+      "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -75442,9 +75442,9 @@
       "fecha": "2026-11-11",
       "lugar": "FABRICA NIPLES",
       "destino": "DEL ORO",
-      "responsable": "NOEL",
+      "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75456,7 +75456,7 @@
       "destino": "DEL ORO / CITRICOS / GRIFFITH",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -75492,7 +75492,7 @@
       "destino": "DEL ORO",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75516,7 +75516,7 @@
       "destino": "CITRICOS / GRIFFTIH",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CURRIDABAT"
@@ -75538,9 +75538,9 @@
       "fecha": "2026-11-11",
       "lugar": "CONSTRUPLAZA ALAJUELA",
       "destino": "CITRICOS",
-      "responsable": "NOEL",
+      "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75576,7 +75576,7 @@
       "destino": "GRIFFITH",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75636,7 +75636,7 @@
       "destino": "FORMUQUISA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ESCAZU"
@@ -75648,7 +75648,7 @@
       "destino": "FORMUQUISA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HATILLO SAN JOSE"
@@ -75744,7 +75744,7 @@
       "destino": "WALMART COYOL",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75828,10 +75828,94 @@
       "destino": "JYB",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261111-041",
+      "fecha": "2026-11-11",
+      "lugar": "UNILEVER",
+      "destino": "RECOGER GABACHAS",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
+    },
+    {
+      "id": "20261111-042",
+      "fecha": "2026-11-11",
+      "lugar": "GABACHAS UNILEVER",
+      "destino": "LAVANDERIA",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261111-043",
+      "fecha": "2026-11-11",
+      "lugar": "TECNOVAL",
+      "destino": "UNILEVER",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20261111-044",
+      "fecha": "2026-11-11",
+      "lugar": "DITESA URUCA",
+      "destino": "UNILEVER",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261111-045",
+      "fecha": "2026-11-11",
+      "lugar": "CONSTRUPLAZA ESCAZU",
+      "destino": "UNILEVER",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261111-046",
+      "fecha": "2026-11-11",
+      "lugar": "OFICINA",
+      "destino": "UNILEVER",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261111-047",
+      "fecha": "2026-11-11",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
     }
   ]
 }
