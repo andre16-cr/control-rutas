@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T19:43:30.781949+00:00",
+  "generated_at": "2026-11-11T23:23:02.498393+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-11T19:39:19.123Z"
+    "modified_time": "2026-11-11T23:00:50.535Z"
   },
   "records": [
     {
@@ -75360,9 +75360,9 @@
       "destino": "UNILEVER",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "DESPUES DE LAS 2 PM",
+      "observaciones": "NO TENIAN EL MATERIAL LISTO",
       "ubicacion": ""
     },
     {
@@ -75372,7 +75372,7 @@
       "destino": "OFICINA",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "DESPUES DE LAS 2 PM",
       "ubicacion": ""
@@ -75396,7 +75396,7 @@
       "destino": "ENTREGAR X2 TRAMITAR 1",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -75408,9 +75408,9 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO LE DIO TIEMPO DE LLEGAR",
       "ubicacion": ""
     },
     {
@@ -75504,7 +75504,7 @@
       "destino": "ENTREGAR X2",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -75528,7 +75528,7 @@
       "destino": "CITRICOS",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75552,7 +75552,7 @@
       "destino": "ENTREGAR X2",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -75588,7 +75588,7 @@
       "destino": "GRIFFITH",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE AV.10"
@@ -75600,7 +75600,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -75672,9 +75672,9 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE TRASLADA PARA EL DIA SIGUIENTE",
       "ubicacion": "PAVAS"
     },
     {
@@ -75792,7 +75792,7 @@
       "destino": "ENVIAR ENCOMOIENDA",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75804,7 +75804,7 @@
       "destino": "CAFE REY",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75816,7 +75816,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -75840,7 +75840,7 @@
       "destino": "RECOGER GABACHAS",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -75852,9 +75852,9 @@
       "destino": "LAVANDERIA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": true,
-      "observaciones": "",
+      "observaciones": "NO DIO TIEMPO EN RUTA",
       "ubicacion": ""
     },
     {
@@ -75912,7 +75912,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
