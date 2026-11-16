@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T16:25:55.679329+00:00",
+  "generated_at": "2026-11-16T23:13:11.179467+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-16T16:24:05.724Z"
+    "modified_time": "2026-11-16T23:01:18.311Z"
   },
   "records": [
     {
@@ -77028,7 +77028,7 @@
       "destino": "FORMUQUISA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77052,7 +77052,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -77064,7 +77064,7 @@
       "destino": "LLEVAR EMPAQUE",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BARRIO MEXICO"
@@ -77076,7 +77076,7 @@
       "destino": "LLEVAR ACOPLES",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77088,7 +77088,7 @@
       "destino": "PROYECTOS",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -77112,7 +77112,7 @@
       "destino": "UNILEVER",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77148,7 +77148,7 @@
       "destino": "ICU",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77160,7 +77160,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77172,7 +77172,7 @@
       "destino": "DEVOLUCION",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -77184,7 +77184,7 @@
       "destino": "DOS PINOS COYOL",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77196,7 +77196,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77208,7 +77208,7 @@
       "destino": "DEL ORO",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77220,7 +77220,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -77232,7 +77232,7 @@
       "destino": "TRAMITAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77268,7 +77268,7 @@
       "destino": "ENTREGAR X2",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -77292,7 +77292,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "TRES RIOS"
@@ -77304,7 +77304,7 @@
       "destino": "ENVIAR ELECTROBEYCO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77316,7 +77316,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -77328,7 +77328,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -77340,7 +77340,7 @@
       "destino": "PROYECTOS",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -77352,10 +77352,82 @@
       "destino": "DEVOLUCION / FACTURA / COMPRA",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "CALLE BLANCOS / URUCA"
+    },
+    {
+      "id": "20261116-029",
+      "fecha": "2026-11-16",
+      "lugar": "IMPORTEC",
+      "destino": "UNILEVER",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261116-030",
+      "fecha": "2026-11-16",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "TRASLADO",
+      "urgencia": true,
+      "observaciones": "NO DIO TIEMPO DE ENTREGAR QUEDA PARA EL DIA SIGUIENTE",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261116-031",
+      "fecha": "2026-11-16",
+      "lugar": "TECNOVAL",
+      "destino": "VEGETALES FRESQUITA",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20261116-032",
+      "fecha": "2026-11-16",
+      "lugar": "VEGETALES FRESQUITA",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CARTAGO"
+    },
+    {
+      "id": "20261116-033",
+      "fecha": "2026-11-16",
+      "lugar": "MEGALINEAS",
+      "destino": "CRISTAL",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "TRASLADO",
+      "urgencia": true,
+      "observaciones": "NO DIO TIEMPO PREVVEDOR CERRO ANTES DE LA HORA",
+      "ubicacion": "TIBAS"
+    },
+    {
+      "id": "20261116-034",
+      "fecha": "2026-11-16",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "TRASLADO",
+      "urgencia": true,
+      "observaciones": "NO DIO TIEMPO PREVVEDOR CERRO ANTES DE LA HORA",
+      "ubicacion": "HEREDIA"
     }
   ]
 }
