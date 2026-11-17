@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T15:57:44.121357+00:00",
+  "generated_at": "2026-11-17T20:15:37.298613+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-17T15:52:52.963Z"
+    "modified_time": "2026-11-17T20:07:34.924Z"
   },
   "records": [
     {
@@ -77434,9 +77434,9 @@
       "fecha": "2026-11-17",
       "lugar": "CONSTRU PLAZA ALAJUELA",
       "destino": "SIGMA CARTAGO",
-      "responsable": "GABRIEL",
+      "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77460,7 +77460,7 @@
       "destino": "ENTREGAR X2",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -77508,7 +77508,7 @@
       "destino": "WALMART COYOL",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -77520,7 +77520,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77556,7 +77556,7 @@
       "destino": "INTERCONTINENTAL",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -77568,7 +77568,7 @@
       "destino": "ENTREGAR / DEVOLUCION",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77592,7 +77592,7 @@
       "destino": "STOCK / KERRY X2 / DEMASA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -77602,9 +77602,9 @@
       "fecha": "2026-11-17",
       "lugar": "KERRY",
       "destino": "ENTREGAR",
-      "responsable": "CHITO",
+      "responsable": "VICTOR",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -77626,9 +77626,9 @@
       "fecha": "2026-11-17",
       "lugar": "UTH URUCA",
       "destino": "KERRY",
-      "responsable": "CHITO",
+      "responsable": "VICTOR",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77638,9 +77638,9 @@
       "fecha": "2026-11-17",
       "lugar": "DITESA URUCA",
       "destino": "KERRY",
-      "responsable": "CHITO",
+      "responsable": "VICTOR",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77664,7 +77664,7 @@
       "destino": "ENVIAR MEXIFRUTAS",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77676,7 +77676,7 @@
       "destino": "FRUTERA LA PAZ",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77688,7 +77688,7 @@
       "destino": "FRUTERA LA PAZ X2",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77736,7 +77736,7 @@
       "destino": "VEGETALES FRESQUITA",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -77760,7 +77760,7 @@
       "destino": "PARADISE NE X3",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77784,7 +77784,7 @@
       "destino": "SIGMA CARTAGO",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -77796,7 +77796,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -77832,7 +77832,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "TIBAS"
@@ -77844,7 +77844,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77856,7 +77856,7 @@
       "destino": "FORMUQUISA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77882,7 +77882,7 @@
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO HABIA MATERIAL",
       "ubicacion": "HEREDIA"
     },
     {
@@ -77920,6 +77920,54 @@
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20261117-042",
+      "fecha": "2026-11-17",
+      "lugar": "MEGALINEAS",
+      "destino": "CRISTAL",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "TIBAS"
+    },
+    {
+      "id": "20261117-043",
+      "fecha": "2026-11-17",
+      "lugar": "COMPONENTES ELECTROMECANICOS",
+      "destino": "UNILEVER",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261117-044",
+      "fecha": "2026-11-17",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261117-045",
+      "fecha": "2026-11-17",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
     }
   ]
 }
