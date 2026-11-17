@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T20:15:37.298613+00:00",
+  "generated_at": "2026-11-17T23:58:22.790487+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-17T20:07:34.924Z"
+    "modified_time": "2026-11-17T23:49:24.021Z"
   },
   "records": [
     {
@@ -77472,7 +77472,7 @@
       "destino": "CLOROX",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77484,7 +77484,7 @@
       "destino": "CLOROX",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HATILLO SAN JOSE"
@@ -77496,9 +77496,9 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE PASA DE DIA POR URGENCIAS",
       "ubicacion": "SAN FRANCISCO"
     },
     {
@@ -77542,9 +77542,9 @@
       "fecha": "2026-11-17",
       "lugar": "SATEC",
       "destino": "OFICINA",
-      "responsable": "CHITO",
+      "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77580,7 +77580,7 @@
       "destino": "ENTREGAR DEVOLUCION / FRUTERA LA PAZ X2",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -77652,7 +77652,7 @@
       "destino": "ENVIAR DEMASA GUAPILES",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77712,9 +77712,9 @@
       "destino": "ENTREGAR X2 / TRAMITAR X2",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "EL CLIENTE NO RECIBIO",
       "ubicacion": ""
     },
     {
@@ -77748,7 +77748,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -77772,7 +77772,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -77808,7 +77808,7 @@
       "destino": "JW MARRIOT",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ALAJUELA"
@@ -77820,7 +77820,7 @@
       "destino": "ENVIAR JW MARRIOT / WESTIN",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77868,9 +77868,9 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO DIO TEIMPO",
       "ubicacion": "PAVAS"
     },
     {
@@ -77880,7 +77880,7 @@
       "destino": "FRUTERA LA PAZ",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "NO HABIA MATERIAL",
       "ubicacion": "HEREDIA"
@@ -77892,7 +77892,7 @@
       "destino": "FRUTERA LA PAZ",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -77904,7 +77904,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ENCOMIENDA"
@@ -77916,7 +77916,7 @@
       "destino": "VEGETALES FRESQUITA",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -77968,6 +77968,54 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
+    },
+    {
+      "id": "20261117-046",
+      "fecha": "2026-11-17",
+      "lugar": "TECNOVAL",
+      "destino": "DEMASA GUAPILES",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20261117-047",
+      "fecha": "2026-11-17",
+      "lugar": "VIBO",
+      "destino": "DEMASA GUAPILES",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BARRIO MEXICO"
+    },
+    {
+      "id": "20261117-048",
+      "fecha": "2026-11-17",
+      "lugar": "OCAMPO",
+      "destino": "ENVIAR DEMASA GUAPILES",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261117-049",
+      "fecha": "2026-11-17",
+      "lugar": "MAFISA",
+      "destino": "OFICINA",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CALLE BLANCOS"
     }
   ]
 }
