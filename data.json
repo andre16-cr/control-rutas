@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19T19:06:51.705885+00:00",
+  "generated_at": "2026-11-19T22:04:39.065029+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-19T18:23:10.822Z"
+    "modified_time": "2026-11-19T22:04:15.107Z"
   },
   "records": [
     {
@@ -78540,7 +78540,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -78564,7 +78564,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -78696,7 +78696,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -78792,7 +78792,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -78828,7 +78828,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -78852,7 +78852,7 @@
       "destino": "TRAMITAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -78924,7 +78924,7 @@
       "destino": "CAFE REY / CONSIGNACION / STOCK",
       "responsable": "ANDRES",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -78936,7 +78936,7 @@
       "destino": "CAFE REY / CONSIGNACION /",
       "responsable": "ANDRES",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -78960,7 +78960,7 @@
       "destino": "CAFE REY",
       "responsable": "ANDRES",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -78984,7 +78984,7 @@
       "destino": "CONSIGNACION",
       "responsable": "ANDRES",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CALLE BLANCOS"
@@ -79006,7 +79006,7 @@
       "fecha": "2026-11-19",
       "lugar": "NCH",
       "destino": "CONSIGNACION",
-      "responsable": "ANDRES",
+      "responsable": "CHITO",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -79018,7 +79018,7 @@
       "fecha": "2026-11-19",
       "lugar": "REPOSA",
       "destino": "STOCK",
-      "responsable": "ANDRES",
+      "responsable": "CHITO",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
