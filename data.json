@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-20T15:02:51.363085+00:00",
+  "generated_at": "2026-11-20T15:47:31.821579+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-20T15:01:54.527Z"
+    "modified_time": "2026-11-20T15:44:30.919Z"
   },
   "records": [
     {
@@ -79068,7 +79068,7 @@
       "destino": "GRUPO ITSMO PAPAGAYO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN JOSE"
@@ -79106,7 +79106,7 @@
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "DESPUES DE LAS 2 PM",
       "ubicacion": ""
     },
     {
@@ -79188,7 +79188,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SAN FRANCISCO"
@@ -79296,7 +79296,7 @@
       "destino": "FRUCTA",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "STO DOMINGO"
@@ -79308,7 +79308,7 @@
       "destino": "FRUCTA",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "SANTO DOMINGO"
@@ -79404,7 +79404,7 @@
       "destino": "DEMASA PAVAS / CONSIGNACION",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
