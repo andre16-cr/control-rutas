@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T20:32:27.337156+00:00",
+  "generated_at": "2026-11-23T20:43:48.622735+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-23T20:26:39.204Z"
+    "modified_time": "2026-11-23T20:42:20.257Z"
   },
   "records": [
     {
@@ -79668,7 +79668,7 @@
       "destino": "DOS PINOS",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CALLE BLANCOS"
