@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T15:23:10.169220+00:00",
+  "generated_at": "2026-11-23T15:39:05.799115+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-23T15:10:53.252Z"
+    "modified_time": "2026-11-23T15:29:49.312Z"
   },
   "records": [
     {
@@ -79882,7 +79882,7 @@
       "fecha": "2026-11-23",
       "lugar": "IESA CALLE BLANCOS",
       "destino": "KERRY",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GABRIEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -79894,7 +79894,7 @@
       "fecha": "2026-11-23",
       "lugar": "DITESA URUCA",
       "destino": "KERRY",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GABRIEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -79906,7 +79906,7 @@
       "fecha": "2026-11-23",
       "lugar": "UTH URUCA",
       "destino": "KERRY",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GABRIEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -79918,7 +79918,7 @@
       "fecha": "2026-11-23",
       "lugar": "BUEN PRECIO",
       "destino": "KERRY",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GABRIEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -79930,7 +79930,7 @@
       "fecha": "2026-11-23",
       "lugar": "CARBONE",
       "destino": "KERRY",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GABRIEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -79942,7 +79942,7 @@
       "fecha": "2026-11-23",
       "lugar": "MEGALINEAS",
       "destino": "KERRY",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GABRIEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -79954,7 +79954,7 @@
       "fecha": "2026-11-23",
       "lugar": "LAGAR",
       "destino": "KERRY",
-      "responsable": "SIN ASIGNAR",
+      "responsable": "GABRIEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
