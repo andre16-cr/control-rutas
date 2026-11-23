@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T20:43:48.622735+00:00",
+  "generated_at": "2026-11-23T23:31:47.307698+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-23T20:42:20.257Z"
+    "modified_time": "2026-11-23T22:06:22.077Z"
   },
   "records": [
     {
@@ -79632,7 +79632,7 @@
       "destino": "GRIFFITH",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -79656,7 +79656,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -79680,7 +79680,7 @@
       "destino": "ENTREGAR X 5 OC",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -79728,7 +79728,7 @@
       "destino": "PARADISE",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -79764,7 +79764,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -79812,9 +79812,9 @@
       "destino": "TRAMITAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "TRANSPORTES NO LE DIO TIEMPO DE LLEGAR",
       "ubicacion": "SAN FRANCISCO"
     },
     {
@@ -79836,7 +79836,7 @@
       "destino": "OFICINA",
       "responsable": "MANUEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BARRIO MEXICO"
@@ -79848,7 +79848,7 @@
       "destino": "RECOGER ENMCOMIENDA",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -79872,7 +79872,7 @@
       "destino": "ENVIAR BRAYAN MONTERO",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -79920,7 +79920,7 @@
       "destino": "KERRY",
       "responsable": "MANUEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "CURRIDABAT"
@@ -80000,17 +80000,41 @@
     {
       "id": "20261123-044",
       "fecha": "2026-11-23",
-      "lugar": "TUBO COBRE",
-      "destino": "SALVAL OFICINA",
-      "responsable": "MANUEL",
+      "lugar": "TECNOVAL",
+      "destino": "GLP",
+      "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": true,
-      "observaciones": "",
-      "ubicacion": ""
+      "observaciones": "LA VENDEDORA CANCELA LA URGENCIA",
+      "ubicacion": "ZAPOTE"
     },
     {
       "id": "20261123-045",
+      "fecha": "2026-11-23",
+      "lugar": "CURUBANDE",
+      "destino": "ENVIAR GLP",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "TRASLADO",
+      "urgencia": true,
+      "observaciones": "LA VENDEDORA CANCELA LA URGENCIA",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261123-046",
+      "fecha": "2026-11-23",
+      "lugar": "TECNOVAL",
+      "destino": "DEVOLUCION",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "TRASLADO",
+      "urgencia": false,
+      "observaciones": "NO LE DIO TIEMPO OCUPA IRSE TEMPRANO",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20261123-047",
       "fecha": "2026-11-23",
       "lugar": "TECNOVAL",
       "destino": "OFICINA",
@@ -80020,30 +80044,6 @@
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
-    },
-    {
-      "id": "20261123-046",
-      "fecha": "2026-11-23",
-      "lugar": "TECNOVAL",
-      "destino": "GLP",
-      "responsable": "SIN ASIGNAR",
-      "compromiso": "",
-      "estado": "PENDIENTE",
-      "urgencia": true,
-      "observaciones": "",
-      "ubicacion": "ZAPOTE"
-    },
-    {
-      "id": "20261123-047",
-      "fecha": "2026-11-23",
-      "lugar": "CURUBANDE",
-      "destino": "ENVIAR GLP",
-      "responsable": "SIN ASIGNAR",
-      "compromiso": "",
-      "estado": "PENDIENTE",
-      "urgencia": true,
-      "observaciones": "",
-      "ubicacion": ""
     }
   ]
 }
