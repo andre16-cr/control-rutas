@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T15:39:05.799115+00:00",
+  "generated_at": "2026-11-23T20:32:27.337156+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-23T15:29:49.312Z"
+    "modified_time": "2026-11-23T20:26:39.204Z"
   },
   "records": [
     {
@@ -79512,7 +79512,7 @@
       "destino": "PRO SALUD",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -79524,7 +79524,7 @@
       "destino": "PRO SALUD",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA - HOSP. MEXICO"
@@ -79536,7 +79536,7 @@
       "destino": "ENVIAR PRO SALUD",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -79548,7 +79548,7 @@
       "destino": "UNILEVER",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -79560,7 +79560,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -79584,9 +79584,9 @@
       "destino": "FORMUQUISA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO SABIAMOS QUE CIERRA AL MEDIO DIAS",
       "ubicacion": "HATILLO SAN JOSE"
     },
     {
@@ -79596,7 +79596,7 @@
       "destino": "ENTREGAR X 2 OC",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -79608,7 +79608,7 @@
       "destino": "SIGMA MTV",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -79620,7 +79620,7 @@
       "destino": "ENVIAR SIGMA MTV",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -79644,7 +79644,7 @@
       "destino": "GRIFFITH",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -79692,9 +79692,9 @@
       "destino": "SAVAL",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE TRASLADA PARA EL DIA SIGUIENTE POR EL VENDEODR",
       "ubicacion": ""
     },
     {
@@ -79704,7 +79704,7 @@
       "destino": "CORRUGADOS DEL GUARCO",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -79716,7 +79716,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -79740,7 +79740,7 @@
       "destino": "PARADISE",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CURRIDABAT"
@@ -79776,7 +79776,7 @@
       "destino": "QUIMUSA",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -79788,7 +79788,7 @@
       "destino": "QUIMUSA",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -79824,7 +79824,7 @@
       "destino": "TRAMITAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -79834,7 +79834,7 @@
       "fecha": "2026-11-23",
       "lugar": "VIBO",
       "destino": "OFICINA",
-      "responsable": "GABRIEL",
+      "responsable": "MANUEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -79860,7 +79860,7 @@
       "destino": "ENTREGAR DOCUMENTOS",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -79884,7 +79884,7 @@
       "destino": "KERRY",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -79896,7 +79896,7 @@
       "destino": "KERRY",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -79908,7 +79908,7 @@
       "destino": "KERRY",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -79918,7 +79918,7 @@
       "fecha": "2026-11-23",
       "lugar": "BUEN PRECIO",
       "destino": "KERRY",
-      "responsable": "GABRIEL",
+      "responsable": "MANUEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
@@ -79932,7 +79932,7 @@
       "destino": "KERRY",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -79944,7 +79944,7 @@
       "destino": "KERRY",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "TIBAS"
@@ -79955,6 +79955,90 @@
       "lugar": "LAGAR",
       "destino": "KERRY",
       "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261123-041",
+      "fecha": "2026-11-23",
+      "lugar": "CONSTRUPLAZA ESCAZU",
+      "destino": "UNILEVER",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261123-042",
+      "fecha": "2026-11-23",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR / MUESTRA",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
+    },
+    {
+      "id": "20261123-043",
+      "fecha": "2026-11-23",
+      "lugar": "KERRY",
+      "destino": "ENTREGAR",
+      "responsable": "MANUEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20261123-044",
+      "fecha": "2026-11-23",
+      "lugar": "TUBO COBRE",
+      "destino": "SALVAL OFICINA",
+      "responsable": "MANUEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261123-045",
+      "fecha": "2026-11-23",
+      "lugar": "TECNOVAL",
+      "destino": "OFICINA",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20261123-046",
+      "fecha": "2026-11-23",
+      "lugar": "TECNOVAL",
+      "destino": "GLP",
+      "responsable": "SIN ASIGNAR",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
+    },
+    {
+      "id": "20261123-047",
+      "fecha": "2026-11-23",
+      "lugar": "CURUBANDE",
+      "destino": "ENVIAR GLP",
+      "responsable": "SIN ASIGNAR",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
