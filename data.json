@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T22:50:35.963534+00:00",
+  "generated_at": "2026-11-24T23:25:56.696612+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-24T22:29:28.136Z"
+    "modified_time": "2026-11-24T23:06:42.530Z"
   },
   "records": [
     {
@@ -80496,7 +80496,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
