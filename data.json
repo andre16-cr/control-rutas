@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T20:07:52.696721+00:00",
+  "generated_at": "2026-11-24T22:50:35.963534+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-24T19:59:28.756Z"
+    "modified_time": "2026-11-24T22:29:28.136Z"
   },
   "records": [
     {
@@ -80052,7 +80052,7 @@
       "destino": "LACOFA",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80064,7 +80064,7 @@
       "destino": "ENTREGAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80232,7 +80232,7 @@
       "destino": "OFICINA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -80244,7 +80244,7 @@
       "destino": "OFICINA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80340,7 +80340,7 @@
       "destino": "CONFIRMAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80388,7 +80388,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CASTELLA"
@@ -80400,7 +80400,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -80460,7 +80460,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -80472,10 +80472,34 @@
       "destino": "SIGMA ALAJUELA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
+    },
+    {
+      "id": "20261124-037",
+      "fecha": "2026-11-24",
+      "lugar": "ROAG",
+      "destino": "UNILEVER",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "URUCA - HOSP. MEXICO"
+    },
+    {
+      "id": "20261124-038",
+      "fecha": "2026-11-24",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
     }
   ]
 }
