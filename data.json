@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T15:13:20.656135+00:00",
+  "generated_at": "2026-11-24T17:11:26.793344+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-24T15:07:52.060Z"
+    "modified_time": "2026-11-24T16:35:49.112Z"
   },
   "records": [
     {
@@ -80124,7 +80124,7 @@
       "destino": "GLP",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -80160,7 +80160,7 @@
       "destino": "CHIQUITA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -80208,7 +80208,7 @@
       "destino": "FORMUQUISA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HATILLO SAN JOSE"
@@ -80292,7 +80292,7 @@
       "destino": "JW MARRIOT",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80304,7 +80304,7 @@
       "destino": "JW MARRIOT",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -80352,7 +80352,7 @@
       "destino": "OFICINA / UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
