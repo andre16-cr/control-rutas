@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T17:11:26.793344+00:00",
+  "generated_at": "2026-11-24T20:07:52.696721+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-24T16:35:49.112Z"
+    "modified_time": "2026-11-24T19:59:28.756Z"
   },
   "records": [
     {
@@ -80076,7 +80076,7 @@
       "destino": "TRAMITAR",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80112,7 +80112,7 @@
       "destino": "GLP",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -80136,7 +80136,7 @@
       "destino": "ENVIAR GLP",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -80172,7 +80172,7 @@
       "destino": "ENVIAR CHIQUITA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80184,7 +80184,7 @@
       "destino": "SAVAL  / OFICINA",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80196,9 +80196,9 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "SE TRASLADA PARA DARLE PRIORIDAD A LA URGENCIA",
       "ubicacion": "LA LIMA"
     },
     {
@@ -80220,9 +80220,9 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO SE RECIBEN LOS MARTES MERCADERIA",
       "ubicacion": "PAVAS"
     },
     {
@@ -80268,7 +80268,7 @@
       "destino": "QUIMUSA",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -80280,9 +80280,9 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO SE ENTREGA CLIENTE SE EQUIVOCA CON PEDIDO",
       "ubicacion": "URUCA"
     },
     {
@@ -80316,7 +80316,7 @@
       "destino": "JW MARRIOT",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80328,7 +80328,7 @@
       "destino": "ENVIAR X 2OC",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ENC CURUBANDE"
@@ -80364,7 +80364,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80376,7 +80376,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PASO ANCHO / HEREDIA / CARTAGO"
@@ -80414,6 +80414,66 @@
       "compromiso": "",
       "estado": "COMPLETADO",
       "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261124-032",
+      "fecha": "2026-11-24",
+      "lugar": "ROTRA",
+      "destino": "DEMASA PAVAS",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BARRIO MEXICO"
+    },
+    {
+      "id": "20261124-033",
+      "fecha": "2026-11-24",
+      "lugar": "DEMASA PAVAS",
+      "destino": "ENTREGAR",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261124-034",
+      "fecha": "2026-11-24",
+      "lugar": "IESA",
+      "destino": "CRISTAL",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "CURRIDABAT / BARRIO MEXICO / GUACHIPELIN"
+    },
+    {
+      "id": "20261124-035",
+      "fecha": "2026-11-24",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261124-036",
+      "fecha": "2026-11-24",
+      "lugar": "OFICINA",
+      "destino": "SIGMA ALAJUELA",
+      "responsable": "CHITO",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
     }
