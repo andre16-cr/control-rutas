@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-25T16:41:29.974002+00:00",
+  "generated_at": "2026-11-25T22:07:41.865147+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-25T16:33:56.521Z"
+    "modified_time": "2026-11-25T21:49:18.966Z"
   },
   "records": [
     {
@@ -80532,7 +80532,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80554,7 +80554,7 @@
       "fecha": "2026-11-25",
       "lugar": "CURUBANDE",
       "destino": "ENVIAR ALIMENTOS BERMUDEZ",
-      "responsable": "CHITO",
+      "responsable": "GABRIEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -80566,7 +80566,7 @@
       "fecha": "2026-11-25",
       "lugar": "MIRAVALLES",
       "destino": "ENVIAR BRAYAN MONTERO",
-      "responsable": "CHITO",
+      "responsable": "GABRIEL",
       "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": false,
@@ -80592,7 +80592,7 @@
       "destino": "ENVIAR FOURSEASON",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80616,7 +80616,7 @@
       "destino": "LLEVAR MUESTRA",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80628,7 +80628,7 @@
       "destino": "UNILEVER",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80640,7 +80640,7 @@
       "destino": "UNILEVER",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80652,7 +80652,7 @@
       "destino": "ENTREGAR X 3NC",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -80688,7 +80688,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "CITA 1130",
       "ubicacion": "PAVAS"
@@ -80724,7 +80724,7 @@
       "destino": "PRO SALUD",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80736,7 +80736,7 @@
       "destino": "PRO SALUD",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80746,9 +80746,9 @@
       "fecha": "2026-11-25",
       "lugar": "EMPRESARIOS UNIDOS",
       "destino": "ENVIAR PRO SALUD",
-      "responsable": "GABRIEL",
+      "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80772,7 +80772,7 @@
       "destino": "RECOGER",
       "responsable": "GABRIEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -80784,8 +80784,8 @@
       "destino": "UNILEVER",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
-      "urgencia": false,
+      "estado": "COMPLETADO",
+      "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
     },
@@ -80796,8 +80796,8 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
-      "urgencia": false,
+      "estado": "COMPLETADO",
+      "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
     },
@@ -80824,6 +80824,114 @@
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261125-028",
+      "fecha": "2026-11-25",
+      "lugar": "MONGE",
+      "destino": "FRUTILIGHT",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261125-029",
+      "fecha": "2026-11-25",
+      "lugar": "FRUTILIGHT",
+      "destino": "ENTREGAR",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ENC. BARQUERO SUQUIRRES"
+    },
+    {
+      "id": "20261125-030",
+      "fecha": "2026-11-25",
+      "lugar": "REFRACTARIOS",
+      "destino": "PROYECTOS",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "PAVAS"
+    },
+    {
+      "id": "20261125-031",
+      "fecha": "2026-11-25",
+      "lugar": "CURUBANDE",
+      "destino": "PROYECTOS",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261125-032",
+      "fecha": "2026-11-25",
+      "lugar": "SATEC",
+      "destino": "CRISTAL",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261125-033",
+      "fecha": "2026-11-25",
+      "lugar": "CRISTAL",
+      "destino": "ENTREGAR REINER",
+      "responsable": "GABRIEL",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "HEREDIA"
+    },
+    {
+      "id": "20261125-034",
+      "fecha": "2026-11-25",
+      "lugar": "PERFEX",
+      "destino": "CRISTAL",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261125-035",
+      "fecha": "2026-11-25",
+      "lugar": "LANCO LOURDES",
+      "destino": "UNILEVER",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261125-036",
+      "fecha": "2026-11-25",
+      "lugar": "TECNOVAL",
+      "destino": "UNILEVER",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "ZAPOTE"
     }
   ]
 }
