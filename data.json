@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-26T23:01:48.435993+00:00",
+  "generated_at": "2026-11-26T23:19:57.634549+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-26T22:49:25.838Z"
+    "modified_time": "2026-11-26T23:08:27.820Z"
   },
   "records": [
     {
@@ -81276,7 +81276,7 @@
       "destino": "FRUTAS SELECTAS",
       "responsable": "MANUEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "COYOL"
@@ -81300,7 +81300,7 @@
       "destino": "ENVIAR FRUTAS SELECTAS",
       "responsable": "MANUEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
