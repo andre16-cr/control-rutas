@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-26T22:28:08.467007+00:00",
+  "generated_at": "2026-11-26T23:01:48.435993+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-26T22:25:08.807Z"
+    "modified_time": "2026-11-26T22:49:25.838Z"
   },
   "records": [
     {
@@ -81072,7 +81072,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -81432,9 +81432,9 @@
       "destino": "CONSIGNACION",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "TRASLADO",
       "urgencia": false,
-      "observaciones": "",
+      "observaciones": "NO DIO TIEMPO CIERRAN A LAS 4PM",
       "ubicacion": ""
     },
     {
