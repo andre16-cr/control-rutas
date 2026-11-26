@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-26T20:08:14.893176+00:00",
+  "generated_at": "2026-11-26T22:28:08.467007+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-26T18:55:28.998Z"
+    "modified_time": "2026-11-26T22:25:08.807Z"
   },
   "records": [
     {
@@ -80952,7 +80952,7 @@
       "destino": "UNILEVER",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "GOICOECHEA"
@@ -81036,7 +81036,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -81060,7 +81060,7 @@
       "destino": "PARADISE",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BARRIO MEXICO"
@@ -81120,7 +81120,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "URUCA"
@@ -81216,7 +81216,7 @@
       "destino": "ENVIAR DEL MONTE",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "BUENOS AIRES",
       "ubicacion": ""
@@ -81228,7 +81228,7 @@
       "destino": "ENVIAR DEL MONTE",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "VOLCAN",
       "ubicacion": ""
@@ -81240,7 +81240,7 @@
       "destino": "ENVIAR DEL MONTE",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "SANTA FE",
       "ubicacion": ""
@@ -81252,7 +81252,7 @@
       "destino": "ENVIAR DEL MONTE",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "LOS",
       "ubicacion": ""
@@ -81264,7 +81264,7 @@
       "destino": "ENVIAR DEL MONTE",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "SONADOR",
       "ubicacion": ""
@@ -81348,7 +81348,7 @@
       "destino": "CONSIGNACION",
       "responsable": "MANUEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CURRIDABAT"
@@ -81360,7 +81360,7 @@
       "destino": "CONSIGNACION",
       "responsable": "MANUEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -81396,7 +81396,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -81415,6 +81415,54 @@
     },
     {
       "id": "20261126-041",
+      "fecha": "2026-11-26",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
+    },
+    {
+      "id": "20261126-042",
+      "fecha": "2026-11-26",
+      "lugar": "SOIPROFISA",
+      "destino": "CONSIGNACION",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261126-043",
+      "fecha": "2026-11-26",
+      "lugar": "SATEC",
+      "destino": "CONSIGNACION",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261126-044",
+      "fecha": "2026-11-26",
+      "lugar": "TRES ASESE",
+      "destino": "UNILEVER",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261126-045",
       "fecha": "2026-11-26",
       "lugar": "UNILEVER",
       "destino": "ENTREGAR",
