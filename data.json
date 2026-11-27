@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-27T17:59:50.703000+00:00",
+  "generated_at": "2026-11-27T21:08:38.873800+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-27T17:47:02.059Z"
+    "modified_time": "2026-11-27T20:23:55.222Z"
   },
   "records": [
     {
@@ -81468,7 +81468,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -81480,7 +81480,7 @@
       "destino": "ENTREGAR",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -81564,7 +81564,7 @@
       "destino": "ENTREGAR",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ALAJUELA"
@@ -81624,7 +81624,7 @@
       "destino": "ENVIAR JW / RECOGER X2",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -81684,7 +81684,7 @@
       "destino": "KERRY",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CASTELLA"
@@ -81720,7 +81720,7 @@
       "destino": "CONSIGNACION",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "MORAVIA"
@@ -81748,6 +81748,30 @@
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "STO DOMINGO"
+    },
+    {
+      "id": "20261127-026",
+      "fecha": "2026-11-27",
+      "lugar": "HERRAJES TECNICOS",
+      "destino": "JW",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261127-027",
+      "fecha": "2026-11-27",
+      "lugar": "CURUBANDE",
+      "destino": "ENVIAR JW",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
     },
     {
       "id": "20261126-044",
