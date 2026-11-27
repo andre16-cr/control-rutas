@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-27T21:08:38.873800+00:00",
+  "generated_at": "2026-11-27T23:07:09.536536+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-27T20:23:55.222Z"
+    "modified_time": "2026-11-27T22:23:08.225Z"
   },
   "records": [
     {
@@ -79992,7 +79992,7 @@
       "destino": "ENTREGAR",
       "responsable": "MANUEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -81308,18 +81308,6 @@
     {
       "id": "20261126-032",
       "fecha": "2026-11-26",
-      "lugar": "CURUBANDE",
-      "destino": "RECOGER",
-      "responsable": "MANUEL",
-      "compromiso": "",
-      "estado": "TRASLADO",
-      "urgencia": false,
-      "observaciones": "",
-      "ubicacion": ""
-    },
-    {
-      "id": "20261126-033",
-      "fecha": "2026-11-26",
       "lugar": "MEGALINEAS X2",
       "destino": "CONSIGNACION",
       "responsable": "MANUEL",
@@ -81330,7 +81318,7 @@
       "ubicacion": ""
     },
     {
-      "id": "20261126-034",
+      "id": "20261126-033",
       "fecha": "2026-11-26",
       "lugar": "TORCASA",
       "destino": "CONSIGNACION",
@@ -81342,7 +81330,7 @@
       "ubicacion": "SAN JOSE AV.10"
     },
     {
-      "id": "20261126-035",
+      "id": "20261126-034",
       "fecha": "2026-11-26",
       "lugar": "BUEN PRECIO",
       "destino": "CONSIGNACION",
@@ -81354,7 +81342,7 @@
       "ubicacion": "CURRIDABAT"
     },
     {
-      "id": "20261126-036",
+      "id": "20261126-035",
       "fecha": "2026-11-26",
       "lugar": "DITESA URUCA",
       "destino": "CONSIGNACION",
@@ -81366,7 +81354,7 @@
       "ubicacion": ""
     },
     {
-      "id": "20261126-037",
+      "id": "20261126-036",
       "fecha": "2026-11-26",
       "lugar": "G10 DESAMPA",
       "destino": "CONSIGNACION",
@@ -81378,7 +81366,7 @@
       "ubicacion": ""
     },
     {
-      "id": "20261126-038",
+      "id": "20261126-037",
       "fecha": "2026-11-26",
       "lugar": "COROYA",
       "destino": "UNILEVER",
@@ -81390,7 +81378,7 @@
       "ubicacion": ""
     },
     {
-      "id": "20261126-039",
+      "id": "20261126-038",
       "fecha": "2026-11-26",
       "lugar": "UNILEVER",
       "destino": "ENTREGAR",
@@ -81402,7 +81390,7 @@
       "ubicacion": "BELEN"
     },
     {
-      "id": "20261126-040",
+      "id": "20261126-039",
       "fecha": "2026-11-26",
       "lugar": "TRES ASESE",
       "destino": "UNILEVER",
@@ -81414,7 +81402,7 @@
       "ubicacion": ""
     },
     {
-      "id": "20261126-041",
+      "id": "20261126-040",
       "fecha": "2026-11-26",
       "lugar": "UNILEVER",
       "destino": "ENTREGAR",
@@ -81426,7 +81414,7 @@
       "ubicacion": "BELEN"
     },
     {
-      "id": "20261126-042",
+      "id": "20261126-041",
       "fecha": "2026-11-26",
       "lugar": "SOIPROFISA",
       "destino": "CONSIGNACION",
@@ -81438,7 +81426,7 @@
       "ubicacion": ""
     },
     {
-      "id": "20261126-043",
+      "id": "20261126-042",
       "fecha": "2026-11-26",
       "lugar": "SATEC",
       "destino": "CONSIGNACION",
@@ -81648,7 +81636,7 @@
       "destino": "ENTREGAR",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "CARTAGO"
@@ -81708,7 +81696,7 @@
       "destino": "ENTREGAR X 2 NE",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -81756,7 +81744,7 @@
       "destino": "JW",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
@@ -81768,13 +81756,49 @@
       "destino": "ENVIAR JW",
       "responsable": "WAY",
       "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261127-028",
+      "fecha": "2026-11-27",
+      "lugar": "IESA CALLE BLANCOS",
+      "destino": "UNILEVER",
+      "responsable": "WAY",
+      "compromiso": "",
       "estado": "PENDIENTE",
       "urgencia": true,
       "observaciones": "",
       "ubicacion": ""
     },
     {
-      "id": "20261126-044",
+      "id": "20261127-029",
+      "fecha": "2026-11-27",
+      "lugar": "UTH CALLE BLANCOS",
+      "destino": "UNILEVER",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": ""
+    },
+    {
+      "id": "20261127-030",
+      "fecha": "2026-11-27",
+      "lugar": "UNILEVER",
+      "destino": "ENTREGAR",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "PENDIENTE",
+      "urgencia": true,
+      "observaciones": "",
+      "ubicacion": "BELEN"
+    },
+    {
+      "id": "20261126-043",
       "fecha": "2026-11-26",
       "lugar": "TRES ASESE",
       "destino": "UNILEVER",
@@ -81786,7 +81810,7 @@
       "ubicacion": ""
     },
     {
-      "id": "20261126-045",
+      "id": "20261126-044",
       "fecha": "2026-11-26",
       "lugar": "UNILEVER",
       "destino": "ENTREGAR",
