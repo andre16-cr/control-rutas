@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-27T14:56:42.940154+00:00",
+  "generated_at": "2026-11-27T17:59:50.703000+00:00",
   "source": {
     "name": "Registro Urgencias.xlsx",
-    "modified_time": "2026-11-27T14:39:10.582Z"
+    "modified_time": "2026-11-27T17:47:02.059Z"
   },
   "records": [
     {
@@ -81456,7 +81456,7 @@
       "destino": "WALMART / KERRY / KERRY/",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HATILLO SAN JOSE"
@@ -81502,9 +81502,9 @@
       "fecha": "2026-11-27",
       "lugar": "ROSEJO",
       "destino": "CONSIGNACION",
-      "responsable": "CHITO",
+      "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "PAVAS"
@@ -81516,7 +81516,7 @@
       "destino": "CRISTAL",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "BELEN"
@@ -81528,7 +81528,7 @@
       "destino": "ENTREGAR NE",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HEREDIA"
@@ -81540,7 +81540,7 @@
       "destino": "TICOPLANT / WALMART",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ZAPOTE"
@@ -81552,7 +81552,7 @@
       "destino": "TICOPLANT",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -81574,9 +81574,9 @@
       "fecha": "2026-11-27",
       "lugar": "OJO DE AGUA",
       "destino": "ENVIAR",
-      "responsable": "WAY",
+      "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -81588,7 +81588,7 @@
       "destino": "WALMART",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "ALAJUELA"
@@ -81600,7 +81600,7 @@
       "destino": "ENTREGAR NE X2",
       "responsable": "WAY",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -81612,7 +81612,7 @@
       "destino": "JW",
       "responsable": "NOEL",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": ""
@@ -81672,7 +81672,7 @@
       "destino": "KERRY",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "TIBAS"
@@ -81696,7 +81696,7 @@
       "destino": "KERRY",
       "responsable": "CHITO",
       "compromiso": "",
-      "estado": "PENDIENTE",
+      "estado": "COMPLETADO",
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "HATILLO SAN JOSE"
@@ -81724,6 +81724,30 @@
       "urgencia": false,
       "observaciones": "",
       "ubicacion": "MORAVIA"
+    },
+    {
+      "id": "20261127-024",
+      "fecha": "2026-11-27",
+      "lugar": "VIBO",
+      "destino": "WALMART",
+      "responsable": "WAY",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "BARRIO MEXICO"
+    },
+    {
+      "id": "20261127-025",
+      "fecha": "2026-11-27",
+      "lugar": "IMPAFESA",
+      "destino": "OFICINA",
+      "responsable": "NOEL",
+      "compromiso": "",
+      "estado": "COMPLETADO",
+      "urgencia": false,
+      "observaciones": "",
+      "ubicacion": "STO DOMINGO"
     },
     {
       "id": "20261126-044",
